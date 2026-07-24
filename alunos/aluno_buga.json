@@ -1,6 +1,6 @@
 {
   "aluno": "Buga",
-  "atualizadoEm": "2026-07-24T01:02:32.122Z",
+  "atualizadoEm": "2026-07-24T01:04:06.053Z",
   "musicas": [
     {
       "nome": "3",
@@ -15,7 +15,8 @@
       "nome": "5",
       "tonalidadesConcluidas": [
         "D",
-        "E"
+        "E",
+        "B"
       ]
     }
   ]
