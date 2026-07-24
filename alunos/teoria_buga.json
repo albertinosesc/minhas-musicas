@@ -1,7 +1,7 @@
 {
   "aluno": "Buga",
   "tipo": "teoria",
-  "atualizadoEm": "2026-07-24T03:39:58.287Z",
+  "atualizadoEm": "2026-07-24T03:41:57.623Z",
   "conceitos": [
     {
       "titulo": "Pentagrama",
@@ -41,7 +41,7 @@
     },
     {
       "titulo": "Pausa da semínima",
-      "concluido": false
+      "concluido": true
     }
   ]
 }
