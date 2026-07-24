@@ -1,6 +1,6 @@
 {
   "aluno": "Buga",
-  "atualizadoEm": "2026-07-24T02:01:06.171Z",
+  "atualizadoEm": "2026-07-24T23:08:04.163Z",
   "exercicios": [
     {
       "nome": "Ovelha de Maria",
@@ -11,7 +11,7 @@
         },
         {
           "tom": "C#",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "D",
