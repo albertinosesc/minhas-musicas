@@ -1,7 +1,7 @@
 {
   "aluno": "Buga",
   "tipo": "teoria",
-  "atualizadoEm": "2026-07-24T02:03:29.011Z",
+  "atualizadoEm": "2026-07-24T03:39:58.287Z",
   "conceitos": [
     {
       "titulo": "Pentagrama",
@@ -38,6 +38,10 @@
     {
       "titulo": "Barra de compasso",
       "concluido": true
+    },
+    {
+      "titulo": "Pausa da semínima",
+      "concluido": false
     }
   ]
 }
