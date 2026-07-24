@@ -1,30 +1,111 @@
 {
   "aluno": "Buga",
-  "atualizadoEm": "2026-07-24T01:12:37.173Z",
-  "musicas": [
-    {
-      "nome": "3",
-      "tonalidadesConcluidas": [
-        "C",
-        "C#",
-        "G#",
-        "A"
-      ]
-    },
-    {
-      "nome": "5",
-      "tonalidadesConcluidas": [
-        "D",
-        "E",
-        "B"
-      ]
-    },
+  "atualizadoEm": "2026-07-24T01:29:29.517Z",
+  "exercicios": [
     {
       "nome": "43",
-      "tonalidadesConcluidas": [
-        "D",
-        "E",
-        "F#"
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": false
+        },
+        {
+          "tom": "C#",
+          "concluido": true
+        },
+        {
+          "tom": "D",
+          "concluido": true
+        },
+        {
+          "tom": "D#",
+          "concluido": false
+        },
+        {
+          "tom": "E",
+          "concluido": false
+        },
+        {
+          "tom": "F",
+          "concluido": false
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": false
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "nome": "21",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": false
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": false
+        },
+        {
+          "tom": "E",
+          "concluido": true
+        },
+        {
+          "tom": "F",
+          "concluido": true
+        },
+        {
+          "tom": "F#",
+          "concluido": true
+        },
+        {
+          "tom": "G",
+          "concluido": false
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
       ]
     }
   ]
