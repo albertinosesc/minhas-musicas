@@ -1,0 +1,59 @@
+{
+  "aluno": "Cal",
+  "atualizadoEm": "2026-07-24T01:31:30.406Z",
+  "exercicios": [
+    {
+      "nome": "32",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": false
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": true
+        },
+        {
+          "tom": "E",
+          "concluido": true
+        },
+        {
+          "tom": "F",
+          "concluido": true
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": false
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
+    }
+  ]
+}
