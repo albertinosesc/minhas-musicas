@@ -1,8 +1,59 @@
 {
   "aluno": "Casa",
-  "instrumento": "Piano",
-  "horario": "Sábado 7h",
-  "nivel": "Iniciante",
-  "dataInicio": "2026-07-25",
-  "atualizadoEm": "2026-07-24T01:44:58.694Z"
+  "atualizadoEm": "2026-07-24T01:47:47.202Z",
+  "exercicios": [
+    {
+      "nome": "55",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": false
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": false
+        },
+        {
+          "tom": "E",
+          "concluido": false
+        },
+        {
+          "tom": "F",
+          "concluido": false
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": false
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
+    }
+  ]
 }
