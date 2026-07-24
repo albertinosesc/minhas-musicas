@@ -1,0 +1,55 @@
+{
+  "aluno": "Cal",
+  "tipo": "teoria",
+  "atualizadoEm": "2026-07-24T02:09:27.747Z",
+  "conceitos": [
+    {
+      "titulo": "Escala",
+      "concluido": false
+    },
+    {
+      "titulo": "Arpejo",
+      "concluido": false
+    },
+    {
+      "titulo": "Pentagrama",
+      "concluido": false
+    },
+    {
+      "titulo": "Clave de Sol",
+      "concluido": false
+    },
+    {
+      "titulo": "Barra Final",
+      "concluido": false
+    },
+    {
+      "titulo": "Ritornelo",
+      "concluido": false
+    },
+    {
+      "titulo": "Semínima",
+      "concluido": false
+    },
+    {
+      "titulo": "Semibreve",
+      "concluido": false
+    },
+    {
+      "titulo": "Mínima",
+      "concluido": false
+    },
+    {
+      "titulo": "Mínima Pontuada",
+      "concluido": false
+    },
+    {
+      "titulo": "Barra de compasso",
+      "concluido": false
+    },
+    {
+      "titulo": "Duina de colcheias",
+      "concluido": false
+    }
+  ]
+}
