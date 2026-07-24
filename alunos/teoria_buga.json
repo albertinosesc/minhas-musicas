@@ -1,0 +1,43 @@
+{
+  "aluno": "Buga",
+  "tipo": "teoria",
+  "atualizadoEm": "2026-07-24T02:03:29.011Z",
+  "conceitos": [
+    {
+      "titulo": "Pentagrama",
+      "concluido": true
+    },
+    {
+      "titulo": "Semínima",
+      "concluido": true
+    },
+    {
+      "titulo": "Semibreve",
+      "concluido": true
+    },
+    {
+      "titulo": "Mínima",
+      "concluido": true
+    },
+    {
+      "titulo": "Mínima pontuada",
+      "concluido": true
+    },
+    {
+      "titulo": "Clave de sol",
+      "concluido": true
+    },
+    {
+      "titulo": "Barra final",
+      "concluido": true
+    },
+    {
+      "titulo": "Ritornelo",
+      "concluido": true
+    },
+    {
+      "titulo": "Barra de compasso",
+      "concluido": true
+    }
+  ]
+}
