@@ -1,15 +1,15 @@
 {
   "aluno": "Casa",
   "tipo": "teoria",
-  "atualizadoEm": "2026-07-24T01:46:54.733Z",
+  "atualizadoEm": "2026-07-24T01:48:28.661Z",
   "conceitos": [
     {
       "titulo": "Penta",
-      "concluido": false
+      "concluido": true
     },
     {
       "titulo": "Esca",
-      "concluido": false
+      "concluido": true
     }
   ]
 }
