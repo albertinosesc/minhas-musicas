@@ -1,8 +1,165 @@
 {
   "aluno": "Buga",
-  "instrumento": "Piano",
-  "horario": "Todos, 20h",
-  "nivel": "Iniciante",
-  "dataInicio": "2026-07-23",
-  "atualizadoEm": "2026-07-24T01:59:56.891Z"
+  "atualizadoEm": "2026-07-24T02:01:06.171Z",
+  "exercicios": [
+    {
+      "nome": "Ovelha de Maria",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": true
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": true
+        },
+        {
+          "tom": "D#",
+          "concluido": false
+        },
+        {
+          "tom": "E",
+          "concluido": true
+        },
+        {
+          "tom": "F",
+          "concluido": false
+        },
+        {
+          "tom": "F#",
+          "concluido": true
+        },
+        {
+          "tom": "G",
+          "concluido": true
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": true
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": true
+        }
+      ]
+    },
+    {
+      "nome": "Hino a Alegria",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": true
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": false
+        },
+        {
+          "tom": "E",
+          "concluido": false
+        },
+        {
+          "tom": "F",
+          "concluido": false
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": true
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "nome": "May song",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": true
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": false
+        },
+        {
+          "tom": "E",
+          "concluido": false
+        },
+        {
+          "tom": "F",
+          "concluido": false
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": false
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
+    }
+  ]
 }
