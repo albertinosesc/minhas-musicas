@@ -1,0 +1,15 @@
+{
+  "aluno": "Buga",
+  "tipo": "teoria",
+  "atualizadoEm": "2026-07-24T01:03:42.093Z",
+  "conceitos": [
+    {
+      "titulo": "Pebtf",
+      "concluido": true
+    },
+    {
+      "titulo": "Clave",
+      "concluido": true
+    }
+  ]
+}
