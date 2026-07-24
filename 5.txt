@@ -1,7 +1,0 @@
-X:1
-T:Ao Luar
-M:4/4
-L:1/4
-K:C cleft=none stafflines=1
-BBBBBzBzBBBBBzBz|]
-w:1 1 1 2 3 2 1 3 2 2 1 1
