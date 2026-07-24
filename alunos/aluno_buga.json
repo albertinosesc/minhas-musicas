@@ -1,12 +1,14 @@
 {
   "aluno": "Buga",
-  "atualizadoEm": "2026-07-20T15:29:13.306Z",
+  "atualizadoEm": "2026-07-24T01:02:32.122Z",
   "musicas": [
     {
       "nome": "3",
       "tonalidadesConcluidas": [
         "C",
-        "C#"
+        "C#",
+        "G#",
+        "A"
       ]
     },
     {
