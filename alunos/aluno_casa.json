@@ -1,13 +1,13 @@
 {
   "aluno": "Casa",
-  "atualizadoEm": "2026-07-24T01:47:47.202Z",
+  "atualizadoEm": "2026-07-24T01:47:55.197Z",
   "exercicios": [
     {
       "nome": "55",
       "tons": [
         {
           "tom": "C",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "C#",
@@ -23,7 +23,7 @@
         },
         {
           "tom": "E",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "F",
@@ -35,7 +35,7 @@
         },
         {
           "tom": "G",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "G#",
