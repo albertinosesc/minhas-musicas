@@ -1,6 +1,79 @@
 {
   "aluno": "Buga",
   "tipo": "teoria",
-  "atualizadoEm": "2026-07-25T00:24:51.929Z",
-  "conceitos": []
+  "atualizadoEm": "2026-07-25T00:25:35.536Z",
+  "conceitos": [
+    {
+      "titulo": "1. Desenhar Pentagrama",
+      "concluido": true
+    },
+    {
+      "titulo": "2. Pentagrama: Numerar linhas de baixo para cima",
+      "concluido": true
+    },
+    {
+      "titulo": "3. Pentagrama: Numerar espaços de baixo para cima",
+      "concluido": true
+    },
+    {
+      "titulo": "4. Desenhar clave de sol",
+      "concluido": true
+    },
+    {
+      "titulo": "5. Barra final",
+      "concluido": true
+    },
+    {
+      "titulo": "6. Barra de compasso",
+      "concluido": true
+    },
+    {
+      "titulo": "7. Compasso",
+      "concluido": true
+    },
+    {
+      "titulo": "8. Semínima",
+      "concluido": true
+    },
+    {
+      "titulo": "9. Mínima",
+      "concluido": true
+    },
+    {
+      "titulo": "10. Semibreve",
+      "concluido": true
+    },
+    {
+      "titulo": "11. Mínima pontuada",
+      "concluido": true
+    },
+    {
+      "titulo": "12. Pausa da semínima",
+      "concluido": true
+    },
+    {
+      "titulo": "13. Pausa da semibreve",
+      "concluido": false
+    },
+    {
+      "titulo": "14. Pausa da mínima",
+      "concluido": false
+    },
+    {
+      "titulo": "15. Pausa da mínima pontuada",
+      "concluido": false
+    },
+    {
+      "titulo": "16. Notas musicais no pentagrama",
+      "concluido": false
+    },
+    {
+      "titulo": "17. Cifra",
+      "concluido": false
+    },
+    {
+      "titulo": "18. Graus",
+      "concluido": false
+    }
+  ]
 }
