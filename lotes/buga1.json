@@ -1,0 +1,24 @@
+{
+  "id": "buga1",
+  "tipo": "teoria",
+  "conceitos": [
+    "1. Desenhar Pentagrama",
+    "2. Pentagrama: Numerar linhas de baixo para cima",
+    "3. Pentagrama: Numerar espaços de baixo para cima",
+    "4. Desenhar clave de sol",
+    "5. Barra final",
+    "6. Barra de compasso",
+    "7. Compasso",
+    "8. Semínima",
+    "9. Mínima",
+    "10. Semibreve",
+    "11. Mínima pontuada",
+    "12. Pausa da semínima",
+    "13. Pausa da semibreve",
+    "14. Pausa da mínima",
+    "15. Pausa da mínima pontuada",
+    "16. Notas musicais no pentagrama",
+    "17. Cifra",
+    "18. Graus"
+  ]
+}
