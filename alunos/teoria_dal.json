@@ -1,0 +1,15 @@
+{
+  "aluno": "Dal",
+  "tipo": "teoria",
+  "atualizadoEm": "2026-07-30T12:59:40.800Z",
+  "conceitos": [
+    {
+      "titulo": "Cded",
+      "concluido": true
+    },
+    {
+      "titulo": "Gg",
+      "concluido": false
+    }
+  ]
+}
