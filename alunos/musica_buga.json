@@ -1,19 +1,20 @@
 {
-  "aluno": "Buga",
+  "alunoId": "buga",
+  "aluno": "buga",
   "repertorio": [
     {
       "nome": "24084 - Fist March - James Bastien",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": ""
     },
     {
       "nome": "24085 - The Balloon Man - James Bastien",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": ""
     },
     {
       "nome": "24086 - Three Little Pigs - James Bastien",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": ""
     },
     {
@@ -281,5 +282,6 @@
       "status": "Em Estudo",
       "obs": ""
     }
-  ]
+  ],
+  "atualizadoEm": "2026-07-31T19:23:03.044Z"
 }
