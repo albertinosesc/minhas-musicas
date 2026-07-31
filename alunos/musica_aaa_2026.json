@@ -4,17 +4,17 @@
   "repertorio": [
     {
       "nome": "24084 - Fist March - James Bastien",
-      "status": "Pendente",
+      "status": "Concluído",
       "obs": ""
     },
     {
       "nome": "24085 - The Balloon Man - James Bastien",
-      "status": "Pendente",
+      "status": "Concluído",
       "obs": ""
     },
     {
       "nome": "24086 - Three Little Pigs - James Bastien",
-      "status": "Pendente",
+      "status": "Concluído",
       "obs": ""
     },
     {
@@ -283,5 +283,5 @@
       "obs": ""
     }
   ],
-  "atualizadoEm": "2026-07-31T17:42:26.427Z"
+  "atualizadoEm": "2026-07-31T17:42:36.658Z"
 }
