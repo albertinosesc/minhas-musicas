@@ -17,6 +17,12 @@
       "nome": "Cris",
       "instrumento": "Orgão",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "ricardo_2026",
+      "nome": "Ricardo",
+      "instrumento": "Saxofone",
+      "nivel": "Iniciante"
     }
   ]
 }
