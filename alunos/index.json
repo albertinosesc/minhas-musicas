@@ -5,6 +5,12 @@
       "nome": "Aaa",
       "instrumento": "Sax",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "jefferson_2026",
+      "nome": "jefferson",
+      "instrumento": "Piano",
+      "nivel": "Intermediário"
     }
   ]
 }
