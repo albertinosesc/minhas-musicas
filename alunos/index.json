@@ -11,6 +11,12 @@
       "nome": "jefferson",
       "instrumento": "Piano",
       "nivel": "Intermediário"
+    },
+    {
+      "id": "cris_2026",
+      "nome": "Cris",
+      "instrumento": "Orgão",
+      "nivel": "Iniciante"
     }
   ]
 }
