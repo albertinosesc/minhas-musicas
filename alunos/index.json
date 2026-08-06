@@ -23,6 +23,12 @@
       "nome": "Ricardo",
       "instrumento": "Saxofone",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "beto_piano_2026",
+      "nome": "beto-piano",
+      "instrumento": "piano",
+      "nivel": "Avançado"
     }
   ]
 }
