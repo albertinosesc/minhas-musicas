@@ -1,135 +1,167 @@
 {
   "id": "6937_pdf",
-  "tipo": "teoria",
-  "criadoEm": "2026-08-06T23:30:35.396Z",
-  "conceitos": [
+  "tipo": "musicas",
+  "criadoEm": "2026-08-06T23:34:09.323Z",
+  "musicas": [
     {
-      "titulo": "24140 - Come On, Rangers - Gioachino Rossini",
-      "concluido": false
+      "nome": "24140 - Come On, Rangers - Gioachino Rossini",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24141 - Camptown Races - Stephen Foster",
-      "concluido": false
+      "nome": "24141 - Camptown Races - Stephen Foster",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24142 - Puppets on Parade - Oesten",
-      "concluido": false
+      "nome": "24142 - Puppets on Parade - Oesten",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24143 - Swimming Under Water - John W. Schaum",
-      "concluido": false
+      "nome": "24143 - Swimming Under Water - John W. Schaum",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24144 - A.M. and P.M. - Edvard Grieg / Frédéric Chopin",
-      "concluido": false
+      "nome": "24144 - A.M. and P.M. - Edvard Grieg / Frédéric Chopin",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24145 - Mazurka - Camille Saint",
-      "concluido": false
+      "nome": "24145 - Mazurka - Camille Saint",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24146 - Handel Bars - George Frideric Handel",
-      "concluido": false
+      "nome": "24146 - Handel Bars - George Frideric Handel",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24147 - The Three B's - John W. Schaum",
-      "concluido": false
+      "nome": "24147 - The Three B's - John W. Schaum",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24148 - Throwing Paper Airplanes - John W. Schaum",
-      "concluido": false
+      "nome": "24148 - Throwing Paper Airplanes - John W. Schaum",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24149 - Air Mail - Felix Mendelssohn",
-      "concluido": false
+      "nome": "24149 - Air Mail - Felix Mendelssohn",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24150 - It Was in the Good Old Summertime - Fritz Spindler",
-      "concluido": false
+      "nome": "24150 - It Was in the Good Old Summertime - Fritz Spindler",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24151 - Robert the Robot - Oesten",
-      "concluido": false
+      "nome": "24151 - Robert the Robot - Oesten",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24152 - Git Along, Little Dogies - American Cowboy Song",
-      "concluido": false
+      "nome": "24152 - Git Along, Little Dogies - American Cowboy Song",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24153 - From Pole to Pole - John W. Schaum",
-      "concluido": false
+      "nome": "24153 - From Pole to Pole - John W. Schaum",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24154 - Chinese Serenade - H. Fliege",
-      "concluido": false
+      "nome": "24154 - Chinese Serenade - H. Fliege",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24155 - Sun Dial Waltz - Frédéric Chopin",
-      "concluido": false
+      "nome": "24155 - Sun Dial Waltz - Frédéric Chopin",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24156 - The Pelican - John W. Schaum",
-      "concluido": false
+      "nome": "24156 - The Pelican - John W. Schaum",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24157 - Estrellita - Manuel M. Ponce",
-      "concluido": false
+      "nome": "24157 - Estrellita - Manuel M. Ponce",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24158 - Shadows on the Moon - Robert Schumann",
-      "concluido": false
+      "nome": "24158 - Shadows on the Moon - Robert Schumann",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24159 - Star of Midnight - Antonín Dvořák",
-      "concluido": false
+      "nome": "24159 - Star of Midnight - Antonín Dvořák",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24160 - Gertrude and Elizabeth - Beethoven",
-      "concluido": false
+      "nome": "24160 - Gertrude and Elizabeth - Beethoven",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24161 - Working at the Tool Bench - Heller",
-      "concluido": false
+      "nome": "24161 - Working at the Tool Bench - Heller",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24162 - Just a Song at Twilight - James L. Molloy",
-      "concluido": false
+      "nome": "24162 - Just a Song at Twilight - James L. Molloy",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24163 - Wild Goose Chase - Russian Melody",
-      "concluido": false
+      "nome": "24163 - Wild Goose Chase - Russian Melody",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24164 - The Cold Shower - Edvard Grieg",
-      "concluido": false
+      "nome": "24164 - The Cold Shower - Edvard Grieg",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24165 - Lilac Time Serenade - Franz Schubert",
-      "concluido": false
+      "nome": "24165 - Lilac Time Serenade - Franz Schubert",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24166 - One Good Turn Deserves Another - John W. Schaum",
-      "concluido": false
+      "nome": "24166 - One Good Turn Deserves Another - John W. Schaum",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24167 - Mexican Hat Dance - Traditional Mexican",
-      "concluido": false
+      "nome": "24167 - Mexican Hat Dance - Traditional Mexican",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24168 - Dangerous Journey - Louis Köhler",
-      "concluido": false
+      "nome": "24168 - Dangerous Journey - Louis Köhler",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24169 - To a Charming Senorita - Tchaikowsky",
-      "concluido": false
+      "nome": "24169 - To a Charming Senorita - Tchaikowsky",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24170 - Wishing Well - Wolfgang Amadeus Mozart",
-      "concluido": false
+      "nome": "24170 - Wishing Well - Wolfgang Amadeus Mozart",
+      "status": "Em Estudo",
+      "obs": ""
     },
     {
-      "titulo": "24171 - Hawaiian Love Song - Truax",
-      "concluido": false
+      "nome": "24171 - Hawaiian Love Song - Truax",
+      "status": "Em Estudo",
+      "obs": ""
     }
   ]
 }
