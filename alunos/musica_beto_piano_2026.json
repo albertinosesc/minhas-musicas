@@ -70,13 +70,13 @@
     },
     {
       "nome": "24119 - The Dress Parade - Franz Schubert",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf"
     },
     {
       "nome": "24120 - Little Brown Bug - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf"
     },
@@ -397,5 +397,5 @@
       "lote": "7000 - PDF"
     }
   ],
-  "atualizadoEm": "2026-08-07T02:47:19.156Z"
+  "atualizadoEm": "2026-08-07T19:04:47.196Z"
 }
