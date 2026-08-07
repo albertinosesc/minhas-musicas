@@ -385,7 +385,17 @@
       "status": "Em Estudo",
       "obs": "",
       "lote": "6937_pdf"
+    },
+    {
+      "id": 111,
+      "nome": "1st Inversion Boogie",
+      "title": "1st Inversion Boogie",
+      "composer": "James Bastien",
+      "pdfUrl": "partituras/24108.pdf",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "7000 - PDF"
     }
   ],
-  "atualizadoEm": "2026-08-07T01:24:59.163Z"
+  "atualizadoEm": "2026-08-07T02:47:19.156Z"
 }
