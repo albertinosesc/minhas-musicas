@@ -4,19 +4,19 @@
   "repertorio": [
     {
       "nome": "24108 - Play Ball - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf"
     },
     {
       "nome": "24109 - Music Box - Liadow",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf"
     },
     {
       "nome": "24110 - Stalactites and Stalagmites - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf"
     },
@@ -387,5 +387,5 @@
       "lote": "6937_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-07T00:02:41.109Z"
+  "atualizadoEm": "2026-08-07T00:04:06.228Z"
 }
