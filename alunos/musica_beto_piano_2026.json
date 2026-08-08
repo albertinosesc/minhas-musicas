@@ -207,21 +207,21 @@
     },
     {
       "nome": "24137 - The Daily Comics - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf",
       "abcFile": ""
     },
     {
       "nome": "24138 - Putting Salt on a Bird's Tail - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf",
       "abcFile": ""
     },
     {
       "nome": "24139 - On the Levee - Old American Song",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf",
       "abcFile": ""
@@ -462,5 +462,5 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-08T18:05:43.884Z"
+  "atualizadoEm": "2026-08-08T21:40:47.761Z"
 }
