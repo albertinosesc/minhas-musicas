@@ -193,14 +193,14 @@
     },
     {
       "nome": "24135 - The Telegraph Operator - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf",
       "abcFile": ""
     },
     {
       "nome": "24136 - Over the Hurdles - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6936_pdf",
       "abcFile": ""
@@ -462,5 +462,5 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-08T17:51:23.749Z"
+  "atualizadoEm": "2026-08-08T18:05:43.884Z"
 }
