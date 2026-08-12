@@ -1014,9 +1014,9 @@
   "atualizadoEm": "2026-08-10T22:44:35.413Z",
   "lotesTempo": {
     "2980_pdf": {
-      "tempoSegundos": 0,
-      "ultimaPausa": "2026-08-12T22:05:42.135Z",
-      "status": "em_andamento"
+      "tempoSegundos": 5,
+      "ultimaPausa": "2026-08-12T22:11:55.218Z",
+      "status": "pausado"
     }
   }
 }
