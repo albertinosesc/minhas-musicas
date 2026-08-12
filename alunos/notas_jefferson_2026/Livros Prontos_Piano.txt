@@ -1,22 +1,43 @@
-1480 - PIANO - Edna Mae Burnam - Ministeps To Music - Piano Course Phase 1
-1481 - PIANO - Edna Mae Burnam - Ministeps To Music - Piano Course Phase 2
-1447 - PIANO - John Thompson - Curso_Moderno_Para_El_Piano(espanol)
-2980 - PIANO - Leila Fletcher - Piano Course - Book 1
-1448 - PIANO - John Thompson - Easiest_Piano_Course_Part_1John Thompson
-1449 - PIANO - John Thompson - Easiest_Piano_Course_Part_2
-2702 - PDF - PIANO - Hal Leonard - Piano Lessons Book 1
-6983 - PDF - PIANO - Faber - Piano Adventures - Lesson - Level 1
-6971 - PDF - PIANO - Alfred's - Premier Piano Course - Lesson Book 1A
-7030 - PDF - PIANO - James Bastien - PIANO BASICO DE BASTIEN - Preparatorio B
+
+ALFRED'S
 91 - PIANO - Alfred's - Basic Piano Library - All-in-one Course - Book 1
 92 - PIANO - Alfred's - Premier Piano Course - Lesson Book 1B
 93 - PIANO - Alfred's - Premier Piano Course - Lesson Book 2A
-7303 - PDF - PIANO -  Heather Milnes - learn-how-to-play-the-piano
-81 - PDF – PIANO – Livro – Edna Mae Burnam - A dozen a day - iniciação
-4487 - PDF - PIANO - Nancy Faber_Randall Faber - tecnica e interpretacion - book 1
-615 - PIANO - Alfred's - Basic_Piano_Library_(TV-Movie_Hits)_Level_1A
-4193 - PDF - PIANO - James Bastien - performance level 1
-1482 - PIANO - Edna Mae Burnam - Ministeps To Music - Piano Course Phase 3
+615 - PIANO - Alfred's - Basic Piano Library (TV-Movie Hits) - Level 1A
+6971 - PDF - PIANO - Alfred's - Premier Piano Course - Lesson Book 1A
+
+ALICE G. BOTELHO
 3348 - PDF - PIANO - Alice G. Botelho - Meu Piano é divertido - vol I
-4495 - PDF - PIANO - Nancy Faber_Randall Faber - PlayTime Piano Popular - Level 1
-4188 - PDF - PIANO - Yamaha - Curso De Piano Yamaha - Book 1
+
+EDNA MAE BURNAM
+81 - PDF - PIANO - Livro - Edna Mae Burnam - A Dozen a Day - Iniciação
+1480 - PIANO - Edna Mae Burnam - Ministeps To Music - Piano Course Phase 1
+1481 - PIANO - Edna Mae Burnam - Ministeps To Music - Piano Course Phase 2
+1482 - PIANO - Edna Mae Burnam - Ministeps To Music - Piano Course Phase 3
+
+FABER
+6983 - PDF - PIANO - Faber - Piano Adventures - Lesson - Level 1
+4487 - PDF - PIANO - Nancy Faber/Randall Faber - Técnica e Interpretação - Book 1
+4495 - PDF - PIANO - Nancy Faber/Randall Faber - PlayTime Piano Popular - Level 1
+
+HAL LEONARD
+2702 - PDF - PIANO - Hal Leonard - Piano Lessons Book 1
+
+HEATHER MILNES
+7303 - PDF - PIANO - Heather Milnes - Learn How to Play the Piano
+
+JAMES BASTIEN
+4193 - PDF - PIANO - James Bastien - Performance Level 1
+7030 - PDF - PIANO - James Bastien - Piano Básico de Bastien - Preparatorio B
+
+JOHN THOMPSON
+1447 - PIANO - John Thompson - Curso Moderno Para El Piano (español)
+1448 - PIANO - John Thompson - Easiest Piano Course - Part 1
+1449 - PIANO - John Thompson - Easiest Piano Course - Part 2
+
+LEILA FLETCHER
+2980 - PIANO - Leila Fletcher - Piano Course - Book 1
+
+YAMAHA
+4188 - PDF - PIANO - Yamaha - Curso de Piano Yamaha - Book 1
+
