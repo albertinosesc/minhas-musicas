@@ -548,7 +548,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -905,12 +905,12 @@
       "lote": "4504_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-12T20:51:29.243Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 1410,
       "ultimaPausa": "2026-08-12T22:44:44.482Z",
       "status": "em_andamento"
     }
-  }
+  },
+  "atualizadoEm": "2026-08-12T22:47:26.597Z"
 }
