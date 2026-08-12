@@ -906,5 +906,11 @@
     }
   ],
   "atualizadoEm": "2026-08-12T20:51:29.243Z",
-  "lotesTempo": {}
+  "lotesTempo": {
+    "4504_pdf": {
+      "tempoSegundos": 0,
+      "ultimaPausa": "2026-08-12T21:50:45.336Z",
+      "status": "pausado"
+    }
+  }
 }
