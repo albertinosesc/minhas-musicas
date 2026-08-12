@@ -907,8 +907,8 @@
   ],
   "lotesTempo": {
     "4504_pdf": {
-      "tempoSegundos": 1410,
-      "ultimaPausa": "2026-08-12T23:17:59.641Z",
+      "tempoSegundos": 0,
+      "ultimaPausa": "2026-08-12T23:18:25.922Z",
       "status": "pausado"
     }
   },
