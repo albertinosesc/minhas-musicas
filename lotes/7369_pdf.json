@@ -1,7 +1,7 @@
 {
   "id": "7369_pdf",
   "tipo": "musicas",
-  "criadoEm": "2026-08-11T20:42:59.096Z",
+  "criadoEm": "2026-08-12T10:40:47.405Z",
   "musicas": [
     {
       "nome": "24283 - In the Alps - John Thompson",
@@ -29,7 +29,7 @@
       "obs": ""
     },
     {
-      "nome": "24288 - Country Gardens - Traditional / Percy Grainger",
+      "nome": "24288 - Country Gardens - Old English Morris Dance",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -54,7 +54,7 @@
       "obs": ""
     },
     {
-      "nome": "24293 - Bill Grogan's Goat - John Thompson",
+      "nome": "24293 - Bill Grogan's Goat - College Song",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -114,7 +114,7 @@
       "obs": ""
     },
     {
-      "nome": "24305 - Minuet from \"Don Juan\" - Wolfgang Amadeus Mozart",
+      "nome": "24305 - Minuet from Don Juan - Wolfgang Amadeus Mozart",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -149,7 +149,7 @@
       "obs": ""
     },
     {
-      "nome": "24312 - Theme from Liebesträume No. 3 (A Dream of Love) - Franz Liszt",
+      "nome": "24312 - Theme from Liebesträume No. 3 - Franz Liszt",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -159,7 +159,7 @@
       "obs": ""
     },
     {
-      "nome": "24314 - Hallelujah Chorus from \"Messiah\" - George Frideric Handel",
+      "nome": "24314 - Hallelujah Chorus from Messiah - George Frideric Handel",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -179,12 +179,12 @@
       "obs": ""
     },
     {
-      "nome": "24318 - Hinkey, Dinkey, \"Parley Voo\" - Traditional",
+      "nome": "24318 - Hinkey, Dinkey, Parley Voo - World War Song",
       "status": "Em Estudo",
       "obs": ""
     },
     {
-      "nome": "24319 - Deep River - Traditional Spiritual",
+      "nome": "24319 - Deep River - Plantation Hymn",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -199,7 +199,7 @@
       "obs": ""
     },
     {
-      "nome": "24322 - Habanera from \"Carmen\" - Georges Bizet",
+      "nome": "24322 - Habanera from Carmen - Georges Bizet",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -229,7 +229,7 @@
       "obs": ""
     },
     {
-      "nome": "24328 - Barcarolle from \"The Tales of Hoffmann\" - Jacques Offenbach",
+      "nome": "24328 - Barcarolle from The Tales of Hoffmann - Jacques Offenbach",
       "status": "Em Estudo",
       "obs": ""
     },
@@ -244,17 +244,12 @@
       "obs": ""
     },
     {
-      "nome": "24331 - Viennese Melody - John Thompson",
+      "nome": "24331 - Will o' the Wisp - Albert Jungmann",
       "status": "Em Estudo",
       "obs": ""
     },
     {
-      "nome": "24332 - Will o' the Wisp - Jungmann",
-      "status": "Em Estudo",
-      "obs": ""
-    },
-    {
-      "nome": "24333 - Jocularity - John Thompson",
+      "nome": "24332 - Jocularity - John Thompson",
       "status": "Em Estudo",
       "obs": ""
     }
