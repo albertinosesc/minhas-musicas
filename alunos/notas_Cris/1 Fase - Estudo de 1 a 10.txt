@@ -1,0 +1,59 @@
+1 Fase - Estudo de 1 a 10
+
+Geral:
+1_5_1 - Pentagrama
+1_5_2 - Cinco linhas
+1_5_3 - Quatro espaços
+1_5_4 - Numeração das linhas e espaços
+1_5_5 - Linhas suplementares
+1_5_6 - Espaços suplementares
+1_5_7 - Localização das notas no pentagrama
+2_1_3 - Semibreve
+2_1_4 - Mínima
+2_1_5 - Semínima
+2_2_1 - Compasso
+2_3_1 - Barra de compasso simples
+2_3_3 - Barra final
+3_5_1 - Metrônomo
+
+Adicional:
+Relógio Musical
+Dedilhado
+Dó Central
+
+Estudo 1
+1_4_1 - Notas Musicais (dó3,ré3)
+1_6_6 - Clave de Sol na 2ª linha
+
+
+Estudo 2
+1_4_1 - Notas Musicais (si2,dó3)
+1_6_7 - Clave de Fá na 4ª linha
+
+Estudo 3
+Nenhum conteúdo novo
+
+Estudo 4
+1_6_7 - Clave de Fá (nota lá2)
+
+Estudo 5
+1_6_6 - Clave de Sol (nota mi3)
+
+Estudo 6
+1_6_6 - Clave de Sol (nota fá3)
+1_6_7 - Clave de Fá (nota sol2)
+
+Estudo 7 - 8
+Nenhum conteúdo novo
+
+Estudo 9
+1_6_6 - Clave de Sol (nota sol3)
+1_6_7 - Clave de Fá (nota fá2)
+
+Estudo 10
+Nenhum conteúdo novo
+------------------------------------------------------
+
+
+
+
