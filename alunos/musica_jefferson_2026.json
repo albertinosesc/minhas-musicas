@@ -1,6 +1,16 @@
 {
-  "alunoId": "jefferson_2026",
-  "aluno": "jefferson_2026",
+  "lotesTempo": {
+    "4504_pdf": {
+      "tempoSegundos": 4,
+      "ultimaAtualizacao": "2026-08-13T00:54:58.147Z",
+      "status": "em_andamento"
+    },
+    "6937_pdf": {
+      "tempoSegundos": 0,
+      "ultimaPausa": "2026-08-12T23:21:29.334Z",
+      "status": "pausado"
+    }
+  },
   "repertorio": [
     {
       "id": null,
@@ -905,17 +915,6 @@
       "lote": "4504_pdf"
     }
   ],
-  "lotesTempo": {
-    "4504_pdf": {
-      "tempoSegundos": 4,
-      "ultimaAtualizacao": "2026-08-13T00:47:29.262Z",
-      "status": "em_andamento"
-    },
-    "6937_pdf": {
-      "tempoSegundos": 0,
-      "ultimaPausa": "2026-08-12T23:21:29.334Z",
-      "status": "pausado"
-    }
-  },
-  "atualizadoEm": "2026-08-13T00:47:29.262Z"
+  "alunoId": "jefferson_2026",
+  "atualizadoEm": "2026-08-13T00:54:58.162Z"
 }
