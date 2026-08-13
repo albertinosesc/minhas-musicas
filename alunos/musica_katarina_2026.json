@@ -3,22 +3,6 @@
   "aluno": "katarina_2026",
   "repertorio": [
     {
-      "nome": "fsdds",
-      "status": "Concluída",
-      "obs": "",
-      "lote": "11_pdf",
-      "pdfUrl": "",
-      "abcFile": ""
-    },
-    {
-      "nome": "fdsfsdf",
-      "status": "Concluída",
-      "obs": "",
-      "lote": "11_pdf",
-      "pdfUrl": "",
-      "abcFile": ""
-    },
-    {
       "nome": "123",
       "status": "Em Estudo",
       "obs": "",
@@ -59,11 +43,11 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T13:49:23.311Z",
+  "atualizadoEm": "2026-08-13T13:49:38.671Z",
   "lotesTempo": {
     "11_pdf": {
       "tempoSegundos": 27,
-      "ultimaAtualizacao": "2026-08-13T13:49:22.645Z",
+      "ultimaAtualizacao": "2026-08-13T13:49:38.210Z",
       "status": "pausado"
     }
   }
