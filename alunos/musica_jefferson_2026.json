@@ -908,7 +908,7 @@
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 4,
-      "ultimaAtualizacao": "2026-08-13T00:38:09.150Z",
+      "ultimaAtualizacao": "2026-08-13T00:47:29.262Z",
       "status": "em_andamento"
     },
     "6937_pdf": {
@@ -917,5 +917,5 @@
       "status": "pausado"
     }
   },
-  "atualizadoEm": "2026-08-13T00:28:08.444Z"
+  "atualizadoEm": "2026-08-13T00:47:29.262Z"
 }
