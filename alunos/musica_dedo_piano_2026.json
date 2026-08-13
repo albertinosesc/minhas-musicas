@@ -1,0 +1,23 @@
+{
+  "alunoId": "dedo_piano_2026",
+  "aluno": "dedo_piano_2026",
+  "repertorio": [
+    {
+      "nome": "fsdds",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "11_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "fdsfsdf",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "11_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    }
+  ],
+  "atualizadoEm": "2026-08-13T12:44:50.914Z"
+}
