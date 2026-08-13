@@ -3,8 +3,10 @@
   "aluno": "Miguel",
   "nome": "Miguel",
   "instrumento": "Violino",
-  "horario": "Sábado: 9h",
+  "horario": "Sábado: 09h",
   "nivel": "Iniciante",
   "dataInicio": "2026-07-11",
-  "atualizadoEm": "2026-08-13T14:04:42.506Z"
+  "atualizadoEm": "2026-08-13T15:45:28.650Z",
+  "historico": [],
+  "observacoes": ""
 }
