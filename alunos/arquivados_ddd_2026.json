@@ -1,0 +1,46 @@
+{
+  "alunoId": "ddd_2026",
+  "alunoNome": "ddd_2026",
+  "arquivados": [
+    {
+      "nome": "12_pdf",
+      "musicas": [
+        {
+          "nome": "123",
+          "status": "Concluída",
+          "obs": "",
+          "lote": "12_pdf",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "123123",
+          "status": "Concluída",
+          "obs": "",
+          "lote": "12_pdf",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "123332",
+          "status": "Concluída",
+          "obs": "",
+          "lote": "12_pdf",
+          "pdfUrl": "",
+          "abcFile": ""
+        }
+      ],
+      "alunoId": "ddd_2026",
+      "alunoNome": "ddd_2026",
+      "dataArquivamento": "2026-08-13T12:32:02.454Z",
+      "totalMusicas": 3
+    }
+  ],
+  "lotes": {
+    "12_pdf": {
+      "dataArquivamento": "2026-08-13T12:32:02.454Z",
+      "totalMusicas": 3
+    }
+  },
+  "atualizadoEm": "2026-08-13T12:32:02.454Z"
+}
