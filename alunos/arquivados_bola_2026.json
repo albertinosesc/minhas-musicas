@@ -1,0 +1,43 @@
+{
+  "alunoId": "bola_2026",
+  "alunoNome": "bola_2026",
+  "arquivados": [
+    {
+      "id": "11_pdf",
+      "nome": "11_pdf",
+      "musicas": [
+        {
+          "nome": "fsdds",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "fdsfsdf",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        }
+      ],
+      "alunoId": "bola_2026",
+      "alunoNome": "bola_2026",
+      "dataInicio": "2026-08-13T13:01:40.232Z",
+      "dataConclusao": "2026-08-13T13:01:47.381Z",
+      "dataArquivamento": "2026-08-13T13:01:47.381Z",
+      "totalMusicas": 2,
+      "tempoCronometro": 9,
+      "tempoFormatado": "00:00:09"
+    }
+  ],
+  "lotes": {
+    "11_pdf": {
+      "dataInicio": "2026-08-13T13:01:40.232Z",
+      "dataArquivamento": "2026-08-13T13:01:47.381Z",
+      "totalMusicas": 2,
+      "tempoCronometro": 9
+    }
+  },
+  "atualizadoEm": "2026-08-13T13:01:47.381Z"
+}
