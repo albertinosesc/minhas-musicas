@@ -1,16 +1,4 @@
 {
-  "lotesTempo": {
-    "4504_pdf": {
-      "tempoSegundos": 4,
-      "ultimaAtualizacao": "2026-08-13T01:00:08.291Z",
-      "status": "em_andamento"
-    },
-    "6937_pdf": {
-      "tempoSegundos": 0,
-      "ultimaPausa": "2026-08-12T23:21:29.334Z",
-      "status": "pausado"
-    }
-  },
   "repertorio": [
     {
       "id": null,
@@ -915,6 +903,19 @@
       "lote": "4504_pdf"
     }
   ],
+  "lotesTempo": {
+    "4504_pdf": {
+      "tempoSegundos": 4,
+      "ultimaAtualizacao": "2026-08-13T01:05:41.641Z",
+      "status": "em_andamento"
+    },
+    "6937_pdf": {
+      "tempoSegundos": 0,
+      "ultimaPausa": "2026-08-12T23:21:29.334Z",
+      "status": "pausado"
+    }
+  },
+  "aluno": "",
   "alunoId": "jefferson_2026",
-  "atualizadoEm": "2026-08-13T01:00:08.617Z"
+  "atualizadoEm": "2026-08-13T01:05:41.649Z"
 }
