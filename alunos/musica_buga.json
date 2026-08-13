@@ -1011,12 +1011,12 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T01:31:19.966Z",
+  "atualizadoEm": "2026-08-13T01:31:23.202Z",
   "lotesTempo": {
     "2980_pdf": {
-      "tempoSegundos": 20,
-      "ultimaAtualizacao": "2026-08-13T01:31:19.419Z",
-      "status": "em_andamento"
+      "tempoSegundos": 23,
+      "ultimaAtualizacao": "2026-08-13T01:31:22.672Z",
+      "status": "pausado"
     }
   }
 }
