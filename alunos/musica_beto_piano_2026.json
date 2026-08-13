@@ -788,5 +788,12 @@
       "lote": "4504_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-12T20:40:18.895Z"
+  "atualizadoEm": "2026-08-13T14:14:46.220Z",
+  "lotesTempo": {
+    "6936_pdf": {
+      "tempoSegundos": 0,
+      "ultimaAtualizacao": "2026-08-13T14:14:45.671Z",
+      "status": "pausado"
+    }
+  }
 }
