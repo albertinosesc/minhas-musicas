@@ -101,6 +101,12 @@
       "nome": "Buga-Piano",
       "instrumento": "Não informado",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "Cris",
+      "nome": "Cristiane",
+      "instrumento": "Orgão",
+      "nivel": "Iniciante"
     }
   ]
 }
