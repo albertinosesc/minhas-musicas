@@ -1,0 +1,57 @@
+2 Fase - Estudo de 11 a 21
+
+Geral:
+2_2_1 - Compasso
+2_2_2 - Divisão da música em compassos
+2_2_3 - Barra de compasso
+2_2_4 - Tempos do compasso
+2_2_5 - Unidade de tempo (U.T.)
+2_2_6 - Unidade de compasso (U.C.)
+2_2_7 - Fórmula de compasso
+2_2_8 - Número superior
+2_2_9 - Número inferior
+2_2_10 - Contagem dos tempos
+
+Adicional:
+Relógio Musical
+Dedilhado
+Dó Central
+
+Estudo 11
+1_6_7 - Clave de Fá (nota: dó2,ré2,mi2)
+
+
+Estudo 12 a 15
+Nenhum conteúdo novo
+
+Estudo 16
+Ligadura de Valor
+4_1_1 - Ligadura de valor
+4_1_4 - Ligadura entre notas
+
+
+Estudo 17
+Nenhum conteúdo novo
+
+Estudo 18
+4_2_1 - Ponto de aumento
+4_4_1 - Compasso ternário
+
+Estudo 19
+Nenhum conteúdo novo
+
+Estudo 20
+2_1_2 - Figuras de pausas
+2_1_12 - Pausas correspondentes às figuras
+Pausa da semínima
+
+Estudo 21
+Notas duplas
+
+
+
+
+
+
+
+
