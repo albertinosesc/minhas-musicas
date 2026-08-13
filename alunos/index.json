@@ -59,6 +59,12 @@
       "nome": "dedo-piano",
       "instrumento": "piano",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "bola_2026",
+      "nome": "bola",
+      "instrumento": "piano",
+      "nivel": "Iniciante"
     }
   ]
 }
