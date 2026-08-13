@@ -83,6 +83,12 @@
       "nome": "Miguel",
       "instrumento": "Violino",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "vera_2026",
+      "nome": "Vera",
+      "instrumento": "Violino",
+      "nivel": "Iniciante"
     }
   ]
 }
