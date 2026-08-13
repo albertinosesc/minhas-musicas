@@ -393,13 +393,42 @@
       "obs": "",
       "lote": "Geral",
       "abcFile": ""
+    },
+    {
+      "nome": "123",
+      "status": "Concluída",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "123123",
+      "status": "Concluída",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "123332",
+      "status": "Concluída",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T02:03:13.773Z",
+  "atualizadoEm": "2026-08-13T12:33:39.297Z",
   "lotesTempo": {
     "Geral": {
       "tempoSegundos": 10,
       "ultimaAtualizacao": "2026-08-13T02:03:13.376Z",
+      "status": "pausado"
+    },
+    "12_pdf": {
+      "tempoSegundos": 6,
+      "ultimaAtualizacao": "2026-08-13T12:33:38.813Z",
       "status": "pausado"
     }
   }
