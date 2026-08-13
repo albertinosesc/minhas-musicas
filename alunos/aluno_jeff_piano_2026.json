@@ -1,10 +1,60 @@
 {
-  "id": "jeff_piano_2026",
-  "aluno": "jeff-piano",
-  "nome": "jeff-piano",
-  "instrumento": "piano",
-  "horario": "Não informado",
-  "nivel": "Iniciante",
-  "dataInicio": "2026-08-12",
-  "atualizadoEm": "2026-08-13T01:57:51.358Z"
+  "alunoId": "jeff_piano_2026",
+  "aluno": "jeff_piano_2026",
+  "atualizadoEm": "2026-08-13T02:01:53.584Z",
+  "exercicios": [
+    {
+      "nome": "fdfsfsfsff",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": false
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": true
+        },
+        {
+          "tom": "E",
+          "concluido": true
+        },
+        {
+          "tom": "F",
+          "concluido": true
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": false
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
+    }
+  ]
 }
