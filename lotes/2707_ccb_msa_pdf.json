@@ -1,0 +1,251 @@
+{
+  "id": "2707_ccb_msa_pdf",
+  "tipo": "teoria",
+  "criadoEm": "2026-08-13T16:31:15.349Z",
+  "conceitos": [
+    {
+      "titulo": "1.1 - Música e som",
+      "concluido": false
+    },
+    {
+      "titulo": "1.2 - Elementos da música",
+      "concluido": false
+    },
+    {
+      "titulo": "1.3 - Propriedades do som",
+      "concluido": false
+    },
+    {
+      "titulo": "1.4 - Notas musicais",
+      "concluido": false
+    },
+    {
+      "titulo": "1.5 - Pentagrama (pauta musical)",
+      "concluido": false
+    },
+    {
+      "titulo": "1.6 - Claves",
+      "concluido": false
+    },
+    {
+      "titulo": "2.1 - Figuras musicais",
+      "concluido": false
+    },
+    {
+      "titulo": "2.2 - Compasso",
+      "concluido": false
+    },
+    {
+      "titulo": "2.3 - Barras de compasso simples, dupla e final",
+      "concluido": false
+    },
+    {
+      "titulo": "2.4 - Fórmula de compasso em 4",
+      "concluido": false
+    },
+    {
+      "titulo": "2.5 - Ritmo e pulsação",
+      "concluido": false
+    },
+    {
+      "titulo": "2.6 - Forma de realização dos exercícios rítmicos",
+      "concluido": false
+    },
+    {
+      "titulo": "3.1 - Endecagrama",
+      "concluido": false
+    },
+    {
+      "titulo": "3.2 - Leitura rítmica, leitura métrica e solfejo",
+      "concluido": false
+    },
+    {
+      "titulo": "3.3 - Movimentos de condução para solfejo",
+      "concluido": false
+    },
+    {
+      "titulo": "3.4 - Movimento de solfejo em 4",
+      "concluido": false
+    },
+    {
+      "titulo": "3.5 - Metrônomo",
+      "concluido": false
+    },
+    {
+      "titulo": "4.1 - Ligadura",
+      "concluido": false
+    },
+    {
+      "titulo": "4.2 - Ponto de aumento",
+      "concluido": false
+    },
+    {
+      "titulo": "4.3 - Intervalo",
+      "concluido": false
+    },
+    {
+      "titulo": "4.4 - Fórmula de compasso em 3",
+      "concluido": false
+    },
+    {
+      "titulo": "4.5 - Movimento de solfejo em 3",
+      "concluido": false
+    },
+    {
+      "titulo": "4.6 - Fórmula de compasso em 2",
+      "concluido": false
+    },
+    {
+      "titulo": "4.7 - Movimento de solfejo em 2",
+      "concluido": false
+    },
+    {
+      "titulo": "5.1 - Tercinas",
+      "concluido": false
+    },
+    {
+      "titulo": "5.2 - Fermata",
+      "concluido": false
+    },
+    {
+      "titulo": "5.3 - Fórmula de compasso em 6",
+      "concluido": false
+    },
+    {
+      "titulo": "5.4 - Movimento de solfejo em 6",
+      "concluido": false
+    },
+    {
+      "titulo": "5.5 - Movimento alternativo para solfejo em 6",
+      "concluido": false
+    },
+    {
+      "titulo": "6.1 - Tom e semitom",
+      "concluido": false
+    },
+    {
+      "titulo": "6.2 - Acidentes - sustenido e bemol",
+      "concluido": false
+    },
+    {
+      "titulo": "6.3 - Escalas",
+      "concluido": false
+    },
+    {
+      "titulo": "6.4 - Escalas diatônicas",
+      "concluido": false
+    },
+    {
+      "titulo": "6.5 - Escalas maiores",
+      "concluido": false
+    },
+    {
+      "titulo": "6.6 - Escalas maiores com sustenidos",
+      "concluido": false
+    },
+    {
+      "titulo": "6.7 - Escalas maiores com bemóis",
+      "concluido": false
+    },
+    {
+      "titulo": "7.1 - Armadura de clave",
+      "concluido": false
+    },
+    {
+      "titulo": "7.2 - Fórmula de compasso em 9",
+      "concluido": false
+    },
+    {
+      "titulo": "7.3 - Movimento de solfejo em 9",
+      "concluido": false
+    },
+    {
+      "titulo": "7.4 - Movimento alternativo para solfejo em 9",
+      "concluido": false
+    },
+    {
+      "titulo": "7.5 - Fórmula de compasso em 12",
+      "concluido": false
+    },
+    {
+      "titulo": "7.6 - Movimento de solfejo em 12",
+      "concluido": false
+    },
+    {
+      "titulo": "7.7 - Movimento alternativo para solfejo em 12",
+      "concluido": false
+    },
+    {
+      "titulo": "8.1 - Tonalidade",
+      "concluido": false
+    },
+    {
+      "titulo": "8.2 - Acidentes ocorrentes e de precaução",
+      "concluido": false
+    },
+    {
+      "titulo": "9.1 - Barra de compasso - repetição",
+      "concluido": false
+    },
+    {
+      "titulo": "10.1 - Dinâmica",
+      "concluido": false
+    },
+    {
+      "titulo": "11.1 - Acento métrico",
+      "concluido": false
+    },
+    {
+      "titulo": "11.2 - Compasso simples",
+      "concluido": false
+    },
+    {
+      "titulo": "11.3 - Compasso composto",
+      "concluido": false
+    },
+    {
+      "titulo": "11.4 - Compassos alternados",
+      "concluido": false
+    },
+    {
+      "titulo": "12.1 - Síncopa",
+      "concluido": false
+    },
+    {
+      "titulo": "12.2 - Contratempo",
+      "concluido": false
+    },
+    {
+      "titulo": "13.1 - Ritmos iniciais",
+      "concluido": false
+    },
+    {
+      "titulo": "14.1 - Notas pontuadas - diferenças na subdivisão",
+      "concluido": false
+    },
+    {
+      "titulo": "15.1 - Andamento",
+      "concluido": false
+    },
+    {
+      "titulo": "15.2 - Modificação de andamento - poco rallentando",
+      "concluido": false
+    },
+    {
+      "titulo": "15.3 - Modificação indevida de andamento",
+      "concluido": false
+    },
+    {
+      "titulo": "16.1 - Frases e semifrases",
+      "concluido": false
+    },
+    {
+      "titulo": "16.2 - Interpretação musical",
+      "concluido": false
+    },
+    {
+      "titulo": "16.3 - Indicações interpretativas",
+      "concluido": false
+    }
+  ]
+}
