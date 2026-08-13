@@ -905,9 +905,9 @@
   ],
   "lotesTempo": {
     "4504_pdf": {
-      "tempoSegundos": 4,
-      "ultimaAtualizacao": "2026-08-13T01:05:41.641Z",
-      "status": "em_andamento"
+      "tempoSegundos": 21,
+      "ultimaAtualizacao": "2026-08-13T01:05:59.625Z",
+      "status": "pausado"
     },
     "6937_pdf": {
       "tempoSegundos": 0,
@@ -917,5 +917,5 @@
   },
   "aluno": "",
   "alunoId": "jefferson_2026",
-  "atualizadoEm": "2026-08-13T01:05:41.649Z"
+  "atualizadoEm": "2026-08-13T01:06:13.845Z"
 }
