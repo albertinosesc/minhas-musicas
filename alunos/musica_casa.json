@@ -403,5 +403,12 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T12:05:36.341Z"
+  "atualizadoEm": "2026-08-13T12:10:47.022Z",
+  "lotesTempo": {
+    "4504_pdf": {
+      "tempoSegundos": 10,
+      "ultimaAtualizacao": "2026-08-13T12:10:46.582Z",
+      "status": "pausado"
+    }
+  }
 }
