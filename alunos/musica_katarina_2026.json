@@ -1,0 +1,70 @@
+{
+  "alunoId": "katarina_2026",
+  "aluno": "katarina_2026",
+  "repertorio": [
+    {
+      "nome": "fsdds",
+      "status": "Concluída",
+      "obs": "",
+      "lote": "11_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "fdsfsdf",
+      "status": "Concluída",
+      "obs": "",
+      "lote": "11_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "123",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "123123",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "123332",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "ewqwe",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "15_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "qwe",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "15_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    }
+  ],
+  "atualizadoEm": "2026-08-13T13:49:23.311Z",
+  "lotesTempo": {
+    "11_pdf": {
+      "tempoSegundos": 27,
+      "ultimaAtualizacao": "2026-08-13T13:49:22.645Z",
+      "status": "pausado"
+    }
+  }
+}
