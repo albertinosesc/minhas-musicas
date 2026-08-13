@@ -53,6 +53,12 @@
       "nome": "wqw",
       "instrumento": "piano",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "dedo_piano_2026",
+      "nome": "dedo-piano",
+      "instrumento": "piano",
+      "nivel": "Iniciante"
     }
   ]
 }
