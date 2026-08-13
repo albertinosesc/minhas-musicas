@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-13T21:33:45.061Z",
+  "atualizadoEm": "2026-08-13T21:35:05.965Z",
   "conceitos": [
     {
       "titulo": "1. Desenhar Pentagrama",
@@ -11,8 +11,5 @@
       "numeroTopico": "1"
     }
   ],
-  "lotesImportados": [
-    "lote_teoria_buga1",
-    "lote_teoria_geral"
-  ]
+  "lotesImportados": []
 }
