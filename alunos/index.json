@@ -77,6 +77,12 @@
       "nome": "t",
       "instrumento": "piano",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "katarina_2026",
+      "nome": "Katarina",
+      "instrumento": "piano",
+      "nivel": "Avançado"
     }
   ]
 }
