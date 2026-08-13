@@ -4,7 +4,7 @@
   "repertorio": [
     {
       "nome": "fsdds",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "11_pdf",
       "pdfUrl": "",
@@ -12,12 +12,12 @@
     },
     {
       "nome": "fdsfsdf",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "11_pdf",
       "pdfUrl": "",
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T12:44:50.914Z"
+  "atualizadoEm": "2026-08-13T12:45:36.803Z"
 }
