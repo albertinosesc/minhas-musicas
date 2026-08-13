@@ -29,6 +29,12 @@
       "nome": "beto-piano",
       "instrumento": "piano",
       "nivel": "Avançado"
+    },
+    {
+      "id": "jeff_piano_2026",
+      "nome": "jeff-piano",
+      "instrumento": "piano",
+      "nivel": "Iniciante"
     }
   ]
 }
