@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-13T22:06:23.646Z",
+  "atualizadoEm": "2026-08-13T22:20:37.707Z",
   "conceitos": [
     {
       "titulo": "1. Desenhar Pentagrama",
@@ -831,42 +831,6 @@
       "status": "pendente",
       "observacao": "",
       "numeroTopico": "3_5_7"
-    },
-    {
-      "titulo": "4_1_1 - Ligadura de valor",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "4_1_1"
-    },
-    {
-      "titulo": "4_1_2 - União de valores",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "4_1_2"
-    },
-    {
-      "titulo": "4_1_3 - Soma das durações",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "4_1_3"
-    },
-    {
-      "titulo": "4_1_4 - Ligadura entre notas",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "4_1_4"
-    },
-    {
-      "titulo": "4_1_5 - Execução de notas ligadas",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "4_1_5"
-    },
-    {
-      "titulo": "4_1_6 - Diferença entre ligadura e outras articulações",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "4_1_6"
     },
     {
       "titulo": "4_2_1 - Ponto de aumento",
