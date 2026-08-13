@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-13T20:43:41.560Z",
+  "atualizadoEm": "2026-08-13T20:45:38.412Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
@@ -2949,6 +2949,114 @@
       "status": "pendente",
       "observacao": "",
       "numeroTopico": ""
+    },
+    {
+      "titulo": "1. Desenhar Pentagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1"
+    },
+    {
+      "titulo": "2. Pentagrama: Numerar linhas de baixo para cima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2"
+    },
+    {
+      "titulo": "3. Pentagrama: Numerar espaços de baixo para cima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3"
+    },
+    {
+      "titulo": "4. Desenhar clave de sol",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4"
+    },
+    {
+      "titulo": "5. Barra final",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5"
+    },
+    {
+      "titulo": "6. Barra de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6"
+    },
+    {
+      "titulo": "7. Compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7"
+    },
+    {
+      "titulo": "8. Semínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8"
+    },
+    {
+      "titulo": "9. Mínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9"
+    },
+    {
+      "titulo": "10. Semibreve",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10"
+    },
+    {
+      "titulo": "11. Mínima pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11"
+    },
+    {
+      "titulo": "12. Pausa da semínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12"
+    },
+    {
+      "titulo": "13. Pausa da semibreve",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13"
+    },
+    {
+      "titulo": "14. Pausa da mínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14"
+    },
+    {
+      "titulo": "15. Pausa da mínima pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15"
+    },
+    {
+      "titulo": "16. Notas musicais no pentagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16"
+    },
+    {
+      "titulo": "17. Cifra",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "17"
+    },
+    {
+      "titulo": "18. Graus",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "18"
     }
   ]
 }
