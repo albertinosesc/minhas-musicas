@@ -1,0 +1,30 @@
+{
+  "alunoId": "bola_2026",
+  "aluno": "bola_2026",
+  "repertorio": [
+    {
+      "nome": "fsdds",
+      "status": "Concluída",
+      "obs": "",
+      "lote": "11_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "fdsfsdf",
+      "status": "Concluída",
+      "obs": "",
+      "lote": "11_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    }
+  ],
+  "atualizadoEm": "2026-08-13T13:01:40.641Z",
+  "lotesTempo": {
+    "11_pdf": {
+      "tempoSegundos": 9,
+      "ultimaAtualizacao": "2026-08-13T13:01:40.232Z",
+      "status": "pausado"
+    }
+  }
+}
