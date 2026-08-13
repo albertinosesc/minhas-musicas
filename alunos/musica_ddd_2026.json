@@ -786,37 +786,13 @@
       "status": "Em Estudo",
       "obs": "",
       "lote": "4504_pdf"
-    },
-    {
-      "nome": "123",
-      "status": "Em Estudo",
-      "obs": "",
-      "lote": "12_pdf",
-      "pdfUrl": "",
-      "abcFile": ""
-    },
-    {
-      "nome": "123123",
-      "status": "Em Estudo",
-      "obs": "",
-      "lote": "12_pdf",
-      "pdfUrl": "",
-      "abcFile": ""
-    },
-    {
-      "nome": "123332",
-      "status": "Em Estudo",
-      "obs": "",
-      "lote": "12_pdf",
-      "pdfUrl": "",
-      "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T12:30:11.170Z",
+  "atualizadoEm": "2026-08-13T12:32:04.243Z",
   "lotesTempo": {
     "12_pdf": {
-      "tempoSegundos": 12,
-      "ultimaAtualizacao": "2026-08-13T12:30:10.739Z",
+      "tempoSegundos": 29,
+      "ultimaAtualizacao": "2026-08-13T12:32:03.747Z",
       "status": "pausado"
     }
   }
