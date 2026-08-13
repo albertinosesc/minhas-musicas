@@ -89,6 +89,12 @@
       "nome": "Vera",
       "instrumento": "Violino",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "lyon_2026",
+      "nome": "Lyon",
+      "instrumento": "Teclado",
+      "nivel": "Iniciante"
     }
   ]
 }
