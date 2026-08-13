@@ -2,11 +2,11 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-13T22:06:12.053Z",
+  "atualizadoEm": "2026-08-13T22:06:23.646Z",
   "conceitos": [
     {
       "titulo": "1. Desenhar Pentagrama",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1"
     },
