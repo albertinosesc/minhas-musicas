@@ -1,0 +1,43 @@
+{
+  "alunoId": "katarina_2026",
+  "alunoNome": "katarina_2026",
+  "arquivados": [
+    {
+      "id": "11_pdf",
+      "nome": "11_pdf",
+      "musicas": [
+        {
+          "nome": "fsdds",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "fdsfsdf",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        }
+      ],
+      "alunoId": "katarina_2026",
+      "alunoNome": "katarina_2026",
+      "dataInicio": "2026-08-13T13:49:22.645Z",
+      "dataConclusao": "2026-08-13T13:49:37.302Z",
+      "dataArquivamento": "2026-08-13T13:49:37.302Z",
+      "totalMusicas": 2,
+      "tempoCronometro": 27,
+      "tempoFormatado": "00:00:27"
+    }
+  ],
+  "lotes": {
+    "11_pdf": {
+      "dataInicio": "2026-08-13T13:49:22.645Z",
+      "dataArquivamento": "2026-08-13T13:49:37.302Z",
+      "totalMusicas": 2,
+      "tempoCronometro": 27
+    }
+  },
+  "atualizadoEm": "2026-08-13T13:49:37.302Z"
+}
