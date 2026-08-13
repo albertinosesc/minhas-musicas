@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-13T21:14:46.607Z",
+  "atualizadoEm": "2026-08-13T21:15:39.706Z",
   "conceitos": [
     {
       "titulo": "1. Desenhar Pentagrama",
@@ -111,9 +111,70 @@
       "status": "pendente",
       "observacao": "",
       "numeroTopico": "18"
+    },
+    {
+      "titulo": "Pentagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Clave de Sol",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Barra Final",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Ritornelo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Semínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Semibreve",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Mínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Mínima Pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Barra de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
+    },
+    {
+      "titulo": "Duina de colcheias",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": ""
     }
   ],
   "lotesImportados": [
-    "lote_teoria_buga1"
+    "lote_teoria_buga1",
+    "lote_teoria_geral"
   ]
 }
