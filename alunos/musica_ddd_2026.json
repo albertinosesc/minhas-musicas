@@ -1,6 +1,6 @@
 {
-  "alunoId": "beto_piano_2026",
-  "aluno": "beto_piano_2026",
+  "alunoId": "ddd_2026",
+  "aluno": "ddd_2026",
   "repertorio": [
     {
       "nome": "24140 - Come On, Rangers - Gioachino Rossini",
@@ -786,7 +786,38 @@
       "status": "Em Estudo",
       "obs": "",
       "lote": "4504_pdf"
+    },
+    {
+      "nome": "123",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "123123",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "123332",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "12_pdf",
+      "pdfUrl": "",
+      "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-12T20:40:18.895Z"
+  "atualizadoEm": "2026-08-13T12:30:11.170Z",
+  "lotesTempo": {
+    "12_pdf": {
+      "tempoSegundos": 12,
+      "ultimaAtualizacao": "2026-08-13T12:30:10.739Z",
+      "status": "pausado"
+    }
+  }
 }
