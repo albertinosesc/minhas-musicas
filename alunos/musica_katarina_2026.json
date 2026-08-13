@@ -4,7 +4,7 @@
   "repertorio": [
     {
       "nome": "123",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "12_pdf",
       "pdfUrl": "",
@@ -12,7 +12,7 @@
     },
     {
       "nome": "123123",
-      "status": "Em Estudo",
+      "status": "Revisar",
       "obs": "",
       "lote": "12_pdf",
       "pdfUrl": "",
@@ -20,7 +20,7 @@
     },
     {
       "nome": "123332",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "12_pdf",
       "pdfUrl": "",
@@ -43,11 +43,16 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T13:49:38.671Z",
+  "atualizadoEm": "2026-08-13T13:50:43.338Z",
   "lotesTempo": {
     "11_pdf": {
       "tempoSegundos": 27,
       "ultimaAtualizacao": "2026-08-13T13:49:38.210Z",
+      "status": "pausado"
+    },
+    "12_pdf": {
+      "tempoSegundos": 1,
+      "ultimaAtualizacao": "2026-08-13T13:50:42.853Z",
       "status": "pausado"
     }
   }
