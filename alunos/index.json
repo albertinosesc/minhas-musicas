@@ -95,6 +95,12 @@
       "nome": "Lyon",
       "instrumento": "Teclado",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "pedro_patricia",
+      "nome": "Pedro_Patricia",
+      "instrumento": "Violino",
+      "nivel": "Iniciante"
     }
   ]
 }
