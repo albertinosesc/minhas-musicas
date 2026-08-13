@@ -77,6 +77,12 @@
       "nome": "beto-piano",
       "instrumento": "piano",
       "nivel": "Avançado"
+    },
+    {
+      "id": "miguel_2026",
+      "nome": "Miguel",
+      "instrumento": "Violino",
+      "nivel": "Iniciante"
     }
   ]
 }
