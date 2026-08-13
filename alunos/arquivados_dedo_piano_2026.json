@@ -1,0 +1,46 @@
+{
+  "alunoId": "dedo_piano_2026",
+  "alunoNome": "dedo_piano_2026",
+  "arquivados": [
+    {
+      "nome": "12_pdf",
+      "musicas": [
+        {
+          "nome": "123",
+          "status": "Concluída",
+          "obs": "",
+          "lote": "12_pdf",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "123123",
+          "status": "Concluída",
+          "obs": "",
+          "lote": "12_pdf",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "123332",
+          "status": "Concluída",
+          "obs": "",
+          "lote": "12_pdf",
+          "pdfUrl": "",
+          "abcFile": ""
+        }
+      ],
+      "alunoId": "dedo_piano_2026",
+      "alunoNome": "dedo_piano_2026",
+      "dataArquivamento": "2026-08-13T12:40:34.884Z",
+      "totalMusicas": 3
+    }
+  ],
+  "lotes": {
+    "12_pdf": {
+      "dataArquivamento": "2026-08-13T12:40:34.884Z",
+      "totalMusicas": 3
+    }
+  },
+  "atualizadoEm": "2026-08-13T12:40:34.884Z"
+}
