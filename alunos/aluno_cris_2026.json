@@ -3,8 +3,10 @@
   "aluno": "Cris",
   "nome": "Cris",
   "instrumento": "Orgão",
-  "horario": "Sábado 8h",
+  "horario": "Sábado: 08h",
   "nivel": "Iniciante",
   "dataInicio": "2026-08-01",
-  "atualizadoEm": "2026-08-03T20:22:19.562Z"
+  "atualizadoEm": "2026-08-13T15:34:30.338Z",
+  "historico": [],
+  "observacoes": ""
 }
