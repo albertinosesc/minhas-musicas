@@ -101,6 +101,12 @@
       "nome": "Pedro_Patricia",
       "instrumento": "Violino",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "buga-piano",
+      "nome": "Buga-Piano",
+      "instrumento": "Não informado",
+      "nivel": "Iniciante"
     }
   ]
 }
