@@ -4,10 +4,6 @@
   "criadoEm": "2026-08-13T18:56:18.537Z",
   "conceitos": [
     {
-      "titulo": "```txt",
-      "concluido": false
-    },
-    {
       "titulo": "1_1_1 - Música",
       "concluido": false
     },
@@ -88,43 +84,15 @@
       "concluido": false
     },
     {
-      "titulo": "1_4_1 - Dó",
+      "titulo": "1_4_1 - As Sete Notas Musicais",
       "concluido": false
     },
     {
-      "titulo": "1_4_2 - Ré",
+      "titulo": "1_4_2 - Ordem das notas musicais",
       "concluido": false
     },
     {
-      "titulo": "1_4_3 - Mi",
-      "concluido": false
-    },
-    {
-      "titulo": "1_4_4 - Fá",
-      "concluido": false
-    },
-    {
-      "titulo": "1_4_5 - Sol",
-      "concluido": false
-    },
-    {
-      "titulo": "1_4_6 - Lá",
-      "concluido": false
-    },
-    {
-      "titulo": "1_4_7 - Si",
-      "concluido": false
-    },
-    {
-      "titulo": "1_4_8 - Ordem das notas musicais",
-      "concluido": false
-    },
-    {
-      "titulo": "1_4_9 - Repetição das notas em diferentes alturas",
-      "concluido": false
-    },
-    {
-      "titulo": "1_5 - Pentagrama (pauta musical)",
+      "titulo": "1_4_3 - Repetição das notas em diferentes alturas",
       "concluido": false
     },
     {
@@ -153,10 +121,6 @@
     },
     {
       "titulo": "1_5_7 - Localização das notas no pentagrama",
-      "concluido": false
-    },
-    {
-      "titulo": "1_6 - Claves",
       "concluido": false
     },
     {
