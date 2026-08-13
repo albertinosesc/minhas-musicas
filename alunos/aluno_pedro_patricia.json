@@ -1,8 +1,12 @@
 {
+  "id": "pedro_patricia",
   "aluno": "Pedro_Patricia",
+  "nome": "Pedro_Patricia",
   "instrumento": "Violino",
-  "horario": "7h",
+  "horario": "sábado: 07h",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-07-25T13:12:40.287Z"
+  "atualizadoEm": "2026-08-13T15:33:54.395Z",
+  "historico": [],
+  "observacoes": ""
 }
