@@ -12,12 +12,19 @@
     },
     {
       "nome": "fdsfsdf",
-      "status": "Em Andamento",
+      "status": "Concluída",
       "obs": "",
       "lote": "11_pdf",
       "pdfUrl": "",
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-13T12:45:36.803Z"
+  "atualizadoEm": "2026-08-13T12:47:31.713Z",
+  "lotesTempo": {
+    "11_pdf": {
+      "tempoSegundos": 7,
+      "ultimaAtualizacao": "2026-08-13T12:47:31.218Z",
+      "status": "pausado"
+    }
+  }
 }
