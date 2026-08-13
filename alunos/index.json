@@ -71,6 +71,12 @@
       "nome": "Katarina",
       "instrumento": "piano",
       "nivel": "Avançado"
+    },
+    {
+      "id": "beto_piano_2026",
+      "nome": "beto-piano",
+      "instrumento": "piano",
+      "nivel": "Avançado"
     }
   ]
 }
