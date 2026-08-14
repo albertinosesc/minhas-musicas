@@ -167,21 +167,21 @@
     },
     {
       "titulo": "1_5_1 - Pentagrama",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_1",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_5_2 - Cinco linhas",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_2",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_5_3 - Quatro espaços",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_3",
       "lote": "2707_ccb_msa_pdf"
@@ -3440,6 +3440,16 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_4_1 - Notas Musicais (dó3,ré3)",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_4_1 - Notas Musicais (si2,dó3)",
+      "status": "pendente",
+      "lote": "Período 1"
     }
   ],
   "lotesImportados": [
