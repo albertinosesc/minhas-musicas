@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:48:03.168Z",
+  "atualizadoEm": "2026-08-14T15:48:53.637Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -109,5 +109,45 @@
         }
       ]
     }
-  ]
+  ],
+  "periodo": {
+    "periodos": [
+      {
+        "id": "periodo1",
+        "nome": "Período 1",
+        "livro": "Método H. Lemoine / Hinário",
+        "fases": [
+          {
+            "id": "fase1",
+            "nome": "1ª Fase",
+            "conceitos": [],
+            "tonalidades": [],
+            "musicas": [
+              {
+                "id": "item_1786722531973_0",
+                "nome": "cal",
+                "concluido": false
+              },
+              {
+                "id": "item_1786722531973_1",
+                "nome": "beto",
+                "concluido": false
+              },
+              {
+                "id": "item_1786722531973_2",
+                "nome": "buga",
+                "concluido": false
+              },
+              {
+                "id": "item_1786722531973_3",
+                "nome": "dal",
+                "concluido": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tonalidades": []
 }
