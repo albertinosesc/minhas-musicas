@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:12:13.116Z",
+  "atualizadoEm": "2026-08-14T19:13:38.732Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -181,7 +181,7 @@
               {
                 "id": "item_1786731807848_4",
                 "nome": "1_5_5 - Linhas suplementares",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731807848_5",
