@@ -1,4 +1,24 @@
 {
   "alunoId": "teste2",
-  "musicas": []
+  "musicas": [],
+  "aluno": "teste2",
+  "repertorio": [
+    {
+      "nome": "beto",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "cal",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
+    }
+  ],
+  "atualizadoEm": "2026-08-14T14:42:45.122Z"
 }
