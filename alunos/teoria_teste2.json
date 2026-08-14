@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T15:09:39.928Z",
+  "atualizadoEm": "2026-08-14T15:09:53.059Z",
   "conceitos": [
     {
       "titulo": "1_5_1 - Pentagrama",
@@ -118,21 +118,21 @@
     },
     {
       "titulo": "Pentagrama",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "",
       "lote": "lote_teoria_geral"
     },
     {
       "titulo": "Clave de Sol",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "",
       "lote": "lote_teoria_geral"
     },
     {
       "titulo": "Barra Final",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "",
       "lote": "lote_teoria_geral"
