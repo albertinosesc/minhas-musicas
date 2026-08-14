@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T18:44:00.326Z",
+  "atualizadoEm": "2026-08-14T18:44:35.966Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -38,7 +38,7 @@
     },
     {
       "nome": "1_5_1 - Pentagrama",
-      "concluido": false
+      "concluido": true
     },
     {
       "nome": "1_5_2 - Cinco linhas",
@@ -161,7 +161,7 @@
               {
                 "id": "item_1786731807848_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731807848_1",
@@ -208,6 +208,11 @@
                   {
                     "id": "con_1786731825072_1",
                     "nome": "1_6_7 - Clave de Fá (nota sol2)",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786733072190",
+                    "nome": "1_5_3 - Quatro espaços",
                     "concluido": false
                   }
                 ]
