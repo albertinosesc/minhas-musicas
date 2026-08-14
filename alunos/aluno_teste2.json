@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:29:40.479Z",
+  "atualizadoEm": "2026-08-14T15:30:26.239Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -192,8 +192,50 @@
                 "concluido": false
               }
             ],
-            "tonalidades": [],
-            "musicas": []
+            "tonalidades": [
+              {
+                "id": "item_1786721398527_0",
+                "nome": "brasil",
+                "concluido": false
+              },
+              {
+                "id": "item_1786721398527_1",
+                "nome": "bahia",
+                "concluido": false
+              }
+            ],
+            "musicas": [
+              {
+                "num": 1,
+                "itens": [
+                  {
+                    "id": "sub_1786721400143",
+                    "nome": "Estudo 1 - Tópico Inicial",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721412415_0",
+                    "nome": "beto",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721412415_1",
+                    "nome": "cal",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721412415_2",
+                    "nome": "dal",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721412415_3",
+                    "nome": "buga",
+                    "concluido": false
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
