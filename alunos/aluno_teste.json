@@ -6,11 +6,11 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T17:44:14.107Z",
+  "atualizadoEm": "2026-08-14T17:46:16.203Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
-      "concluido": false
+      "concluido": true
     },
     {
       "nome": "2_1_4 - Mínima",
@@ -57,7 +57,7 @@
               {
                 "id": "item_1786729443051_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786729443051_1",
@@ -67,7 +67,7 @@
               {
                 "id": "item_1786729443051_2",
                 "nome": "1_5_3 - Quatro espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786729443051_3",
@@ -94,7 +94,7 @@
               {
                 "id": "item_1786729447075_0",
                 "nome": "2_1_3 - Semibreve",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786729447075_1",
@@ -136,7 +136,7 @@
                   {
                     "id": "con_1786729429267_0",
                     "nome": "1_4_1 - Notas Musicais (dó3,ré3)",
-                    "concluido": false
+                    "concluido": true
                   },
                   {
                     "id": "con_1786729429267_1",
