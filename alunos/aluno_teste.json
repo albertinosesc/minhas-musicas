@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:54:26.448Z",
+  "atualizadoEm": "2026-08-14T19:57:36.376Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -169,6 +169,11 @@
               {
                 "id": "item_1786737251760",
                 "nome": "1_1_2 - Som",
+                "concluido": true
+              },
+              {
+                "id": "item_1786737434719",
+                "nome": "2_3_1 - Barra de compasso simples",
                 "concluido": false
               }
             ],
@@ -241,6 +246,11 @@
               {
                 "id": "item_1786737255400",
                 "nome": "1_1_2 - Som",
+                "concluido": true
+              },
+              {
+                "id": "item_1786737437711",
+                "nome": "2_3_1 - Barra de compasso simples",
                 "concluido": false
               }
             ],
@@ -298,6 +308,11 @@
                   {
                     "id": "con_1786737259288",
                     "nome": "1_1_2 - Som",
+                    "concluido": true
+                  },
+                  {
+                    "id": "con_1786737441528",
+                    "nome": "2_3_1 - Barra de compasso simples",
                     "concluido": false
                   }
                 ]
