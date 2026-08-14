@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T19:54:50.789Z",
+  "atualizadoEm": "2026-08-14T19:58:34.156Z",
   "conceitos": [
     {
       "titulo": "fds",
@@ -447,7 +447,7 @@
     },
     {
       "titulo": "2_3_1 - Barra de compasso simples",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "2_3_1",
       "lote": "2707_ccb_msa_pdf"
