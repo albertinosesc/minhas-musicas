@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T17:54:24.683Z",
+  "atualizadoEm": "2026-08-14T18:08:01.650Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -18,7 +18,7 @@
     },
     {
       "nome": "2_1_5 - Semínima",
-      "concluido": false
+      "concluido": true
     },
     {
       "nome": "2_2_1 - Compasso",
@@ -62,7 +62,7 @@
               {
                 "id": "item_1786729443051_1",
                 "nome": "1_5_2 - Cinco linhas",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786729443051_2",
@@ -237,7 +237,7 @@
               {
                 "id": "con_1786729992515_c53om",
                 "nome": "1_6_6 - Clave de Sol na 2ª linha",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "con_1786729992515_gcec0",
@@ -2534,7 +2534,7 @@
               {
                 "id": "item_1786729447075_2",
                 "nome": "2_1_5 - Semínima",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786729447075_3",
