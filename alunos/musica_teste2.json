@@ -15,6 +15,16 @@
       "nome": "cal",
       "status": "pendente",
       "lote": "Estudo 1"
+    },
+    {
+      "nome": "buga",
+      "status": "concluida",
+      "lote": "Período 1"
+    },
+    {
+      "nome": "dal",
+      "status": "pendente",
+      "lote": "Período 1"
     }
   ],
   "aluno": "teste2",
