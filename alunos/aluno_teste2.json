@@ -1,10 +1,60 @@
 {
-  "id": "teste2",
+  "alunoId": "teste2",
   "aluno": "teste2",
-  "nome": "teste2",
-  "instrumento": "piano",
-  "horario": "Não informado",
-  "nivel": "Iniciante",
-  "dataInicio": "",
-  "atualizadoEm": "2026-08-13T20:57:17.686Z"
+  "atualizadoEm": "2026-08-14T13:51:12.898Z",
+  "exercicios": [
+    {
+      "nome": "brasil",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": true
+        },
+        {
+          "tom": "C#",
+          "concluido": true
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": true
+        },
+        {
+          "tom": "E",
+          "concluido": true
+        },
+        {
+          "tom": "F",
+          "concluido": false
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": false
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
+    }
+  ]
 }
