@@ -2,11 +2,11 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T16:33:46.102Z",
+  "atualizadoEm": "2026-08-14T16:55:12.820Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_1",
       "lote": "2707_ccb_msa_pdf"
