@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:30:26.239Z",
+  "atualizadoEm": "2026-08-14T15:35:05.334Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -124,17 +124,17 @@
               {
                 "id": "item_1786721376350_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786721376350_1",
                 "nome": "1_5_2 - Cinco linhas",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786721376350_2",
                 "nome": "1_5_3 - Quatro espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786721376350_3",
