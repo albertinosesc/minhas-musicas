@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T18:23:54.000Z",
+  "atualizadoEm": "2026-08-14T18:44:00.326Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -89,7 +89,7 @@
               {
                 "id": "item_1786731789080_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_1",
@@ -99,7 +99,7 @@
               {
                 "id": "item_1786731789080_2",
                 "nome": "1_5_3 - Quatro espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_3",
@@ -203,7 +203,7 @@
                   {
                     "id": "con_1786731825072_0",
                     "nome": "1_6_6 - Clave de Sol (nota fá3)",
-                    "concluido": false
+                    "concluido": true
                   },
                   {
                     "id": "con_1786731825072_1",
