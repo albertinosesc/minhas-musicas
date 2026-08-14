@@ -2,46 +2,46 @@
   "alunoId": "jeff_piano_2026",
   "aluno": "jeff_piano_2026",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T23:34:42.402Z",
+  "atualizadoEm": "2026-08-14T23:52:36.216Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_1",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_1_2 - Som",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_2",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_1_3 - Conceito de música",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_3",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_1_4 - Conceito de som",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_4",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_1_5 - Produção do som",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_5",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_1_6 - Percepção do som",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_6",
       "lote": "2707_ccb_msa_pdf"
