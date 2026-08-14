@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T18:25:32.055Z",
+  "atualizadoEm": "2026-08-14T18:45:52.083Z",
   "conceitos": [
     {
       "titulo": "fds",
@@ -181,7 +181,7 @@
     },
     {
       "titulo": "1_5_2 - Cinco linhas",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_2",
       "lote": "2707_ccb_msa_pdf"
@@ -195,7 +195,7 @@
     },
     {
       "titulo": "1_5_4 - Numeração das linhas e espaços",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_4",
       "lote": "2707_ccb_msa_pdf"
@@ -3451,11 +3451,15 @@
     {
       "titulo": "1_6_6 - Clave de Sol (nota fá3)",
       "status": "concluido",
+      "observacao": "",
+      "numeroTopico": "1_6_6",
       "lote": "Período 1"
     },
     {
       "titulo": "1_6_7 - Clave de Fá (nota sol2)",
       "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_7",
       "lote": "Período 1"
     }
   ],
