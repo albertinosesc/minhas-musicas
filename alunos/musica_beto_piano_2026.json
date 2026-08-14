@@ -607,7 +607,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -618,7 +618,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -629,7 +629,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -640,7 +640,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -651,7 +651,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -662,7 +662,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -673,7 +673,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -684,7 +684,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -695,7 +695,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -706,7 +706,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -717,7 +717,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -728,7 +728,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -739,7 +739,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf"
     },
@@ -788,11 +788,16 @@
       "lote": "4504_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-13T14:14:50.187Z",
+  "atualizadoEm": "2026-08-14T01:05:25.966Z",
   "lotesTempo": {
     "6936_pdf": {
       "tempoSegundos": 0,
       "ultimaAtualizacao": "2026-08-13T14:14:49.635Z",
+      "status": "pausado"
+    },
+    "4504_pdf": {
+      "tempoSegundos": 0,
+      "ultimaAtualizacao": "2026-08-14T01:05:25.379Z",
       "status": "pausado"
     }
   }
