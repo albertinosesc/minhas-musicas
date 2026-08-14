@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T19:14:26.257Z",
+  "atualizadoEm": "2026-08-14T19:29:33.960Z",
   "conceitos": [
     {
       "titulo": "fds",
@@ -216,7 +216,7 @@
     },
     {
       "titulo": "1_5_7 - Localização das notas no pentagrama",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_7",
       "lote": "2707_ccb_msa_pdf"
