@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:13:38.732Z",
+  "atualizadoEm": "2026-08-14T19:15:39.523Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -109,7 +109,7 @@
               {
                 "id": "item_1786731789080_4",
                 "nome": "1_5_5 - Linhas suplementares",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_5",
@@ -124,7 +124,7 @@
               {
                 "id": "item_1786731789080_7",
                 "nome": "2_1_3 - Semibreve",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_8",
@@ -202,6 +202,16 @@
                 "id": "item_1786734720164",
                 "nome": "2_3_3 - Barra final",
                 "concluido": false
+              },
+              {
+                "id": "item_1786734896779",
+                "nome": "2_1_3 - Semibreve",
+                "concluido": false
+              },
+              {
+                "id": "item_1786734910283",
+                "nome": "2_1_4 - Mínima",
+                "concluido": true
               }
             ],
             "musicas": [
@@ -234,6 +244,21 @@
                     "id": "con_1786734724755",
                     "nome": "2_3_3 - Barra final",
                     "concluido": false
+                  },
+                  {
+                    "id": "con_1786734900787",
+                    "nome": "2_1_3 - Semibreve",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786734914475",
+                    "nome": "2_1_4 - Mínima",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786734934747",
+                    "nome": "2_1_4 - Mínima",
+                    "concluido": true
                   }
                 ]
               }
