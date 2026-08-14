@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:48:53.637Z",
+  "atualizadoEm": "2026-08-14T15:49:15.533Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -136,7 +136,7 @@
               {
                 "id": "item_1786722531973_2",
                 "nome": "buga",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786722531973_3",
