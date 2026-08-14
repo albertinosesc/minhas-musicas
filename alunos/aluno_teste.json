@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:28:50.954Z",
+  "atualizadoEm": "2026-08-14T19:32:42.362Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -119,7 +119,7 @@
               {
                 "id": "item_1786731789080_6",
                 "nome": "1_5_7 - Localização das notas no pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_7",
@@ -176,7 +176,7 @@
               {
                 "id": "item_1786731807848_2",
                 "nome": "1_5_3 - Quatro espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731807848_3",
@@ -196,7 +196,7 @@
               {
                 "id": "item_1786731807848_6",
                 "nome": "1_5_7 - Localização das notas no pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786734316860",
