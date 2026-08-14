@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T19:06:27.505Z",
+  "atualizadoEm": "2026-08-14T19:14:26.257Z",
   "conceitos": [
     {
       "titulo": "fds",
@@ -3465,6 +3465,8 @@
     {
       "titulo": "fefe",
       "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
       "lote": "Período 1"
     }
   ],
