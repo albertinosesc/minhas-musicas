@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T18:44:35.966Z",
+  "atualizadoEm": "2026-08-14T19:05:26.268Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -94,7 +94,7 @@
               {
                 "id": "item_1786731789080_1",
                 "nome": "1_5_2 - Cinco linhas",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_2",
@@ -104,7 +104,7 @@
               {
                 "id": "item_1786731789080_3",
                 "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_4",
@@ -192,6 +192,11 @@
                 "id": "item_1786731807848_6",
                 "nome": "1_5_7 - Localização das notas no pentagrama",
                 "concluido": false
+              },
+              {
+                "id": "item_1786734316860",
+                "nome": "3_5_1 - Metrônomo",
+                "concluido": false
               }
             ],
             "musicas": [
@@ -213,6 +218,11 @@
                   {
                     "id": "con_1786733072190",
                     "nome": "1_5_3 - Quatro espaços",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786734321444",
+                    "nome": "3_5_1 - Metrônomo",
                     "concluido": false
                   }
                 ]
