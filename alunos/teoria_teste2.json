@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-13T23:09:57.304Z",
+  "atualizadoEm": "2026-08-14T00:15:56.021Z",
   "conceitos": [
     {
       "titulo": "casapip",
@@ -10,135 +10,7 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "Geral"
-    },
-    {
-      "titulo": "1. Desenhar Pentagrama",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "1",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "2. Pentagrama: Numerar linhas de baixo para cima",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "2",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "3. Pentagrama: Numerar espaços de baixo para cima",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "3",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "4. Desenhar clave de sol",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "4",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "5. Barra final",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "5",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "6. Barra de compasso",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "6",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "7. Compasso",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "7",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "8. Semínima",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "8",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "9. Mínima",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "9",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "10. Semibreve",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "10",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "11. Mínima pontuada",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "11",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "12. Pausa da semínima",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "12",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "13. Pausa da semibreve",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "13",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "14. Pausa da mínima",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "14",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "15. Pausa da mínima pontuada",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "15",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "16. Notas musicais no pentagrama",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "16",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "17. Cifra",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "17",
-      "lote": "lote_teoria_buga1"
-    },
-    {
-      "titulo": "18. Graus",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "18",
-      "lote": "lote_teoria_buga1"
     }
   ],
-  "lotesImportados": [
-    "lote_teoria_buga1"
-  ]
+  "lotesImportados": []
 }
