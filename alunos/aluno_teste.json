@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:32:42.362Z",
+  "atualizadoEm": "2026-08-14T19:47:13.385Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -160,6 +160,11 @@
                 "id": "item_1786735728434",
                 "nome": "1_6_7 - Clave de Fá (nota sol2)",
                 "concluido": false
+              },
+              {
+                "id": "item_1786736822680",
+                "nome": "1_1_1 - Música",
+                "concluido": false
               }
             ],
             "adicional": [
@@ -222,6 +227,11 @@
                 "id": "item_1786735725250",
                 "nome": "1_6_7 - Clave de Fá (nota sol2)",
                 "concluido": false
+              },
+              {
+                "id": "item_1786736830552",
+                "nome": "1_1_1 - Música",
+                "concluido": false
               }
             ],
             "musicas": [
@@ -269,6 +279,11 @@
                     "id": "con_1786734934747",
                     "nome": "2_1_4 - Mínima",
                     "concluido": true
+                  },
+                  {
+                    "id": "con_1786736826184",
+                    "nome": "1_1_1 - Música",
+                    "concluido": false
                   }
                 ]
               }
