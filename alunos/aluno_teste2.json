@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T14:49:36.274Z",
+  "atualizadoEm": "2026-08-14T14:53:28.738Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -71,7 +71,7 @@
               {
                 "id": "item_1786718894826_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786718894826_1",
@@ -96,7 +96,7 @@
               {
                 "id": "item_1786718894826_5",
                 "nome": "1_5_6 - Espaços suplementares",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786718894826_6",
@@ -139,8 +139,40 @@
                 "concluido": false
               }
             ],
-            "adicional": [],
-            "estudos": []
+            "adicional": [
+              {
+                "id": "item_1786719205522_0",
+                "nome": "beto",
+                "concluido": false
+              },
+              {
+                "id": "item_1786719205522_1",
+                "nome": "cal",
+                "concluido": false
+              }
+            ],
+            "estudos": [
+              {
+                "num": 1,
+                "itens": [
+                  {
+                    "id": "sub_1786719179330",
+                    "nome": "Estudo 1 - Tópico Inicial",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786719186850_0",
+                    "nome": "beto",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786719186850_1",
+                    "nome": "cal",
+                    "concluido": false
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
