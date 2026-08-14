@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:15:39.523Z",
+  "atualizadoEm": "2026-08-14T19:17:49.067Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -129,7 +129,7 @@
               {
                 "id": "item_1786731789080_8",
                 "nome": "2_1_4 - Mínima",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_9",
@@ -139,7 +139,7 @@
               {
                 "id": "item_1786731789080_10",
                 "nome": "2_2_1 - Compasso",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_11",
@@ -206,7 +206,7 @@
               {
                 "id": "item_1786734896779",
                 "nome": "2_1_3 - Semibreve",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786734910283",
@@ -243,7 +243,7 @@
                   {
                     "id": "con_1786734724755",
                     "nome": "2_3_3 - Barra final",
-                    "concluido": false
+                    "concluido": true
                   },
                   {
                     "id": "con_1786734900787",
@@ -253,7 +253,7 @@
                   {
                     "id": "con_1786734914475",
                     "nome": "2_1_4 - Mínima",
-                    "concluido": false
+                    "concluido": true
                   },
                   {
                     "id": "con_1786734934747",
