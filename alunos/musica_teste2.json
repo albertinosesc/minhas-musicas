@@ -34,7 +34,23 @@
       "lote": "Manual",
       "pdfUrl": "",
       "abcFile": ""
+    },
+    {
+      "nome": "dal",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "buga",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-14T14:52:38.818Z"
+  "atualizadoEm": "2026-08-14T15:23:19.892Z"
 }
