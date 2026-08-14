@@ -10,6 +10,51 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "Geral"
+    },
+    {
+      "titulo": "1_5_1 - Pentagrama",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_5_2 - Cinco linhas",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_5_3 - Quatro espaços",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_5_4 - Numeração das linhas e espaços",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_5_5 - Linhas suplementares",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_5_6 - Espaços suplementares",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_5_7 - Localização das notas no pentagrama",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_4_1 - Notas Musicais (dó3,ré3)",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_6_6 - Clave de Sol na 2ª linha",
+      "status": "pendente",
+      "lote": "Período 1"
     }
   ],
   "lotesImportados": []
