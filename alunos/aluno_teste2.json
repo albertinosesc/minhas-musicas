@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T16:01:37.869Z",
+  "atualizadoEm": "2026-08-14T16:30:08.986Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2580,28 +2580,126 @@
             "tonalidades": [],
             "musicas": [
               {
-                "id": "item_1786722531973_0",
-                "nome": "cal",
-                "concluido": false
-              },
-              {
-                "id": "item_1786722531973_1",
-                "nome": "beto",
-                "concluido": false
-              },
-              {
-                "id": "item_1786722531973_2",
-                "nome": "buga",
-                "concluido": true
-              },
-              {
-                "id": "item_1786722531973_3",
-                "nome": "dal",
-                "concluido": false
-              },
-              {
                 "id": "mus_1786723281607",
                 "nome": "Estudo 1 - Tópico Inicial",
+                "concluido": false,
+                "conceitos": [
+                  {
+                    "id": "con_1786724927114_0",
+                    "nome": "1_4_1 - Notas Musicais (dó3,ré3)",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786724927114_1",
+                    "nome": "1_6_6 - Clave de Sol na 2ª linha",
+                    "concluido": false
+                  }
+                ]
+              },
+              {
+                "id": "mus_1786724937497",
+                "nome": "bola",
+                "concluido": false,
+                "conceitos": [
+                  {
+                    "id": "con_1786724952337_0",
+                    "nome": "1_4_1 - Notas Musicais (si2,dó3)",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786724952337_1",
+                    "nome": "1_6_7 - Clave de Fá na 4ª linha",
+                    "concluido": false
+                  }
+                ]
+              }
+            ],
+            "geral": [
+              {
+                "id": "item_1786724961938_0",
+                "nome": "1_5_1 - Pentagrama",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_1",
+                "nome": "1_5_2 - Cinco linhas",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_2",
+                "nome": "1_5_3 - Quatro espaços",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_3",
+                "nome": "1_5_4 - Numeração das linhas e espaços",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_4",
+                "nome": "1_5_5 - Linhas suplementares",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_5",
+                "nome": "1_5_6 - Espaços suplementares",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_6",
+                "nome": "1_5_7 - Localização das notas no pentagrama",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_7",
+                "nome": "2_1_3 - Semibreve",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_8",
+                "nome": "2_1_4 - Mínima",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_9",
+                "nome": "2_1_5 - Semínima",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_10",
+                "nome": "2_2_1 - Compasso",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_11",
+                "nome": "2_3_1 - Barra de compasso simples",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_12",
+                "nome": "2_3_3 - Barra final",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724961938_13",
+                "nome": "3_5_1 - Metrônomo",
+                "concluido": false
+              }
+            ],
+            "adicional": [
+              {
+                "id": "item_1786724983825_0",
+                "nome": "1 - Relógio Musical",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724983825_1",
+                "nome": "2 - Dedilhado",
+                "concluido": false
+              },
+              {
+                "id": "item_1786724983825_2",
+                "nome": "3 - Dó Central",
                 "concluido": false
               }
             ]
@@ -2610,5 +2708,29 @@
       }
     ]
   },
-  "tonalidades": []
+  "tonalidades": [],
+  "adicional": [
+    {
+      "nome": "1 - Relógio Musical",
+      "concluido": false
+    },
+    {
+      "nome": "2 - Dedilhado",
+      "concluido": false
+    },
+    {
+      "nome": "3 - Dó Central",
+      "concluido": false
+    }
+  ],
+  "musicas": [
+    {
+      "nome": "Estudo 1 - Tópico Inicial",
+      "concluido": false
+    },
+    {
+      "nome": "bola",
+      "concluido": false
+    }
+  ]
 }
