@@ -3447,6 +3447,16 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_6 - Clave de Sol (nota fá3)",
+      "status": "concluido",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_6_7 - Clave de Fá (nota sol2)",
+      "status": "pendente",
+      "lote": "Período 1"
     }
   ],
   "lotesImportados": [
