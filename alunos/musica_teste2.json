@@ -5,7 +5,7 @@
   "repertorio": [
     {
       "nome": "beto",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "Manual",
       "pdfUrl": "",
@@ -20,5 +20,5 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-14T14:42:45.122Z"
+  "atualizadoEm": "2026-08-14T14:52:38.818Z"
 }
