@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T14:53:28.738Z",
+  "atualizadoEm": "2026-08-14T14:56:46.762Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -136,7 +136,7 @@
               {
                 "id": "item_1786718894826_13",
                 "nome": "3_5_1 - Metrônomo",
-                "concluido": false
+                "concluido": true
               }
             ],
             "adicional": [
