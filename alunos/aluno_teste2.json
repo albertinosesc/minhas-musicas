@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:35:05.334Z",
+  "atualizadoEm": "2026-08-14T15:47:07.037Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -234,6 +234,26 @@
                     "concluido": false
                   }
                 ]
+              },
+              {
+                "id": "item_1786722414749_0",
+                "nome": "cal",
+                "concluido": false
+              },
+              {
+                "id": "item_1786722414749_1",
+                "nome": "beto",
+                "concluido": false
+              },
+              {
+                "id": "item_1786722414749_2",
+                "nome": "buga",
+                "concluido": false
+              },
+              {
+                "id": "item_1786722414749_3",
+                "nome": "dal",
+                "concluido": true
               }
             ]
           }
