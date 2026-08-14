@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:05:26.268Z",
+  "atualizadoEm": "2026-08-14T19:12:13.116Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -149,12 +149,12 @@
               {
                 "id": "item_1786731789080_12",
                 "nome": "2_3_3 - Barra final",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731789080_13",
                 "nome": "3_5_1 - Metrônomo",
-                "concluido": false
+                "concluido": true
               }
             ],
             "adicional": [
@@ -166,7 +166,7 @@
               {
                 "id": "item_1786731807848_1",
                 "nome": "1_5_2 - Cinco linhas",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731807848_2",
@@ -176,7 +176,7 @@
               {
                 "id": "item_1786731807848_3",
                 "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786731807848_4",
@@ -196,6 +196,11 @@
               {
                 "id": "item_1786734316860",
                 "nome": "3_5_1 - Metrônomo",
+                "concluido": true
+              },
+              {
+                "id": "item_1786734720164",
+                "nome": "2_3_3 - Barra final",
                 "concluido": false
               }
             ],
@@ -223,6 +228,11 @@
                   {
                     "id": "con_1786734321444",
                     "nome": "3_5_1 - Metrônomo",
+                    "concluido": true
+                  },
+                  {
+                    "id": "con_1786734724755",
+                    "nome": "2_3_3 - Barra final",
                     "concluido": false
                   }
                 ]
