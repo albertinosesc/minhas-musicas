@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T15:22:36.070Z",
+  "atualizadoEm": "2026-08-14T15:31:37.533Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
@@ -167,7 +167,7 @@
     },
     {
       "titulo": "1_5_1 - Pentagrama",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_1",
       "lote": "2707_ccb_msa_pdf"
@@ -181,7 +181,7 @@
     },
     {
       "titulo": "1_5_3 - Quatro espaços",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_3",
       "lote": "2707_ccb_msa_pdf"
