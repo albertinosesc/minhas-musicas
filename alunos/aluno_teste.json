@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:17:49.067Z",
+  "atualizadoEm": "2026-08-14T19:28:20.682Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -201,7 +201,7 @@
               {
                 "id": "item_1786734720164",
                 "nome": "2_3_3 - Barra final",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786734896779",
@@ -233,7 +233,7 @@
                   {
                     "id": "con_1786733072190",
                     "nome": "1_5_3 - Quatro espaços",
-                    "concluido": false
+                    "concluido": true
                   },
                   {
                     "id": "con_1786734321444",
