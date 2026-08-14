@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T17:58:57.328Z",
+  "atualizadoEm": "2026-08-14T18:24:19.186Z",
   "conceitos": [
     {
       "titulo": "fds",
@@ -3447,23 +3447,6 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "2707_ccb_msa_pdf"
-    },
-    {
-      "titulo": "1_4_1 - Notas Musicais (dó3,ré3)",
-      "status": "concluido",
-      "observacao": "",
-      "numeroTopico": "1_4_1",
-      "lote": "Período 1"
-    },
-    {
-      "titulo": "1_6_6 - Clave de Sol (nota fá3)",
-      "status": "pendente",
-      "lote": "Período 1"
-    },
-    {
-      "titulo": "1_6_7 - Clave de Fá (nota sol2)",
-      "status": "pendente",
-      "lote": "Período 1"
     }
   ],
   "lotesImportados": [
