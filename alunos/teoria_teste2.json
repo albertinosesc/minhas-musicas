@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T16:58:21.928Z",
+  "atualizadoEm": "2026-08-14T17:34:56.179Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
@@ -3479,16 +3479,22 @@
     {
       "titulo": "Estudo 9",
       "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
       "lote": "Período 1"
     },
     {
       "titulo": "1_6_6 - Clave de Sol (nota sol3)",
       "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_6",
       "lote": "Período 1"
     },
     {
       "titulo": "1_6_7 - Clave de Fá (nota fá2)",
       "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_7",
       "lote": "Período 1"
     }
   ],
