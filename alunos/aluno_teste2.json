@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:49:15.533Z",
+  "atualizadoEm": "2026-08-14T16:01:37.869Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -120,7 +120,2463 @@
           {
             "id": "fase1",
             "nome": "1ª Fase",
-            "conceitos": [],
+            "conceitos": [
+              {
+                "id": "con_1786723281606",
+                "nome": "1_1_1 - Música",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_1_2 - Som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_1_3 - Conceito de música",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_1_4 - Conceito de som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_1_5 - Produção do som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_1_6 - Percepção do som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_2_1 - Melodia",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_2_2 - Harmonia",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_2_3 - Ritmo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_2_4 - Melodia: sons sucessivos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_2_5 - Harmonia: sons simultâneos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_2_6 - Ritmo: organização dos sons no tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_1 - Timbre",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_2 - Duração",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_3 - Altura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_4 - Intensidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_5 - Timbre: característica que diferencia os sons",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_6 - Duração: tempo de permanência do som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_7 - Altura: sons graves e agudos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_3_8 - Intensidade: sons fortes e fracos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_4_1 - As Sete Notas Musicais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_4_2 - Ordem das notas musicais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_4_3 - Repetição das notas em diferentes alturas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_5_1 - Pentagrama",
+                "concluido": true
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_5_2 - Cinco linhas",
+                "concluido": true
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_5_3 - Quatro espaços",
+                "concluido": true
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_5_4 - Numeração das linhas e espaços",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_5_5 - Linhas suplementares",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_5_6 - Espaços suplementares",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_5_7 - Localização das notas no pentagrama",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_1 - Clave de Sol",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_2 - Clave de Dó",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_3 - Clave de Fá",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_4 - Função das claves",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_5 - Localização das notas a partir da clave",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_6 - Clave de Sol na 2ª linha",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_7 - Clave de Fá na 4ª linha",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_8 - Claves de Dó",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "1_6_9 - Linhas suplementares nas diferentes claves",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_1 - Figuras de notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_2 - Figuras de pausas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_3 - Semibreve",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_4 - Mínima",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_5 - Semínima",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_6 - Colcheia",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_7 - Semicolcheia",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_8 - Fusa",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_9 - Semifusa",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_10 - Valores das figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_11 - Relação de duração entre as figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_12 - Pausas correspondentes às figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_1_13 - Quadro comparativo das figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_1 - Compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_2 - Divisão da música em compassos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_3 - Barra de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_4 - Tempos do compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_5 - Unidade de tempo (U.T.)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_6 - Unidade de compasso (U.C.)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_7 - Fórmula de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_8 - Número superior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_9 - Número inferior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_2_10 - Contagem dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_3_1 - Barra de compasso simples",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_3_2 - Barra dupla",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_3_3 - Barra final",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_3_4 - Função da barra de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_3_5 - Separação dos compassos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_3_6 - Indicação do término da música",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_1 - Compasso quaternário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_2 - Numerador 4",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_3 - Quatro tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_4 - Unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_5 - Unidade de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_6 - Movimento de condução em 4",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_7 - Acentuação dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_8 - Primeiro tempo forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_9 - Terceiro tempo meio-forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_4_10 - Segundo e quarto tempos fracos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_1 - Ritmo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_2 - Pulsação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_3 - Tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_4 - Movimento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_5 - Unidade de movimento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_6 - Organização das figuras dentro do compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_7 - Contagem dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_8 - Divisão dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_5_9 - Subdivisão dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_1 - Leitura rítmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_2 - Execução das figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_3 - Execução das pausas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_4 - Contagem dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_5 - Subdivisão",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_6 - Pulsação regular",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_7 - Leitura com metrônomo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "2_6_8 - Precisão rítmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_1 - Endecagrama",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_2 - Linhas do endecagrama",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_3 - Espaços do endecagrama",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_4 - União das claves",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_5 - Região grave",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_6 - Região média",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_7 - Região aguda",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_8 - Localização das notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_1_9 - Linhas suplementares",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_1 - Leitura rítmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_2 - Leitura métrica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_3 - Solfejo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_4 - Leitura das notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_5 - Leitura das figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_6 - Leitura das pausas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_7 - Nome das notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_8 - Duração das figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_9 - Entonação das notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_2_10 - Coordenação entre ritmo e altura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_1 - Movimento de condução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_2 - Regência do compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_3 - Indicação dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_4 - Movimento preparatório",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_5 - Movimento descendente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_6 - Movimento lateral",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_7 - Movimento ascendente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_3_8 - Relação entre condução e fórmula de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_1 - Movimento em 4",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_2 - Primeiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_3 - Segundo tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_4 - Terceiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_5 - Quarto tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_6 - Direção dos movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_7 - Acento métrico",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_4_8 - Solfejo conduzido em 4",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_5_1 - Metrônomo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_5_2 - Pulsação regular",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_5_3 - Batidas por minuto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_5_4 - BPM",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_5_5 - Velocidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_5_6 - Indicação metronômica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "3_5_7 - Relação entre andamento e metrônomo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_1_1 - Ligadura de valor",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_1_2 - União de valores",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_1_3 - Soma das durações",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_1_4 - Ligadura entre notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_1_5 - Execução de notas ligadas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_1_6 - Diferença entre ligadura e outras articulações",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_2_1 - Ponto de aumento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_2_2 - Aumento de metade do valor da figura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_2_3 - Figura pontuada",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_2_4 - Valor da figura pontuada",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_2_5 - Relação entre figura e ponto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_2_6 - Execução de figuras pontuadas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_1 - Intervalo musical",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_2 - Distância entre notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_3 - Intervalos ascendentes",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_4 - Intervalos descendentes",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_5 - Intervalos conjuntos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_6 - Intervalos por salto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_7 - Classificação numérica dos intervalos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_8 - Segunda",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_9 - Terça",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_10 - Quarta",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_11 - Quinta",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_12 - Sexta",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_13 - Sétima",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_14 - Oitava",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_3_15 - Intervalos simples",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_1 - Compasso ternário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_2 - Três tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_3 - Unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_4 - Unidade de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_5 - Contagem em 3",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_6 - Acentuação métrica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_7 - Primeiro tempo forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_4_8 - Segundo e terceiro tempos fracos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_5_1 - Movimento de condução em 3",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_5_2 - Primeiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_5_3 - Segundo tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_5_4 - Terceiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_5_5 - Direção dos movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_5_6 - Solfejo em compasso ternário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_6_1 - Compasso binário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_6_2 - Dois tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_6_3 - Unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_6_4 - Unidade de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_6_5 - Acentuação métrica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_6_6 - Primeiro tempo forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_6_7 - Segundo tempo fraco",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_7_1 - Movimento de condução em 2",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_7_2 - Primeiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_7_3 - Segundo tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_7_4 - Direção dos movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "4_7_5 - Solfejo em compasso binário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_1_1 - Tercina",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_1_2 - Divisão do tempo em três partes",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_1_3 - Três figuras no lugar de duas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_1_4 - Subdivisão ternária",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_1_5 - Execução das tercinas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_1_6 - Identificação da tercina na partitura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_2_1 - Fermata",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_2_2 - Prolongamento do som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_2_3 - Suspensão momentânea do andamento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_2_4 - Execução da fermata",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_2_5 - Fermata sobre nota",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_2_6 - Fermata sobre pausa",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_2_7 - Exemplos de execução da fermata",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_3_1 - Compasso 6/8",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_3_2 - Compassos compostos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_3_3 - Seis movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_3_4 - Dois tempos principais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_3_5 - Unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_3_6 - Subdivisão ternária",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_3_7 - Acentuação dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_4_1 - Movimento de condução em 6",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_4_2 - Condução do compasso composto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_4_3 - Primeiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_4_4 - Segundo tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_4_5 - Subdivisão dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_4_6 - Solfejo em 6",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_5_1 - Movimento alternativo em 6",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_5_2 - Forma alternativa de condução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_5_3 - Divisão dos seis movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "5_5_4 - Aplicação no solfejo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_1 - Tom",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_2 - Semitom",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_3 - Tom maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_4 - Tom menor",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_5 - Semitom diatônico",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_6 - Semitom cromático",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_7 - Distância entre notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_1_8 - Tons e semitons naturais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_2_1 - Sustenido",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_2_2 - Bemol",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_2_3 - Alteração da altura da nota",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_2_4 - Sustenido: elevação de um semitom",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_2_5 - Bemol: redução de um semitom",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_2_6 - Acidentes musicais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_2_7 - Alterações das notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_3_1 - Escala musical",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_3_2 - Ordem sucessiva das notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_3_3 - Escala ascendente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_3_4 - Escala descendente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_3_5 - Graus da escala",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_3_6 - Tônica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_3_7 - Relação entre os graus",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_4_1 - Escala diatônica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_4_2 - Sete notas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_4_3 - Graus conjuntos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_4_4 - Tons e semitons da escala",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_4_5 - Estrutura da escala diatônica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_5_1 - Escala maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_5_2 - Tônica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_5_3 - Graus da escala",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_5_4 - Estrutura da escala maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_5_5 - Tons e semitons",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_5_6 - Escala de Dó maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_5_7 - Padrão das escalas maiores",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_6_1 - Escalas maiores com sustenidos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_6_2 - Sol maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_6_3 - Ré maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_6_4 - Lá maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_6_5 - Mi maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281606",
+                "nome": "6_6_6 - Si maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_6_7 - Fá sustenido maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_6_8 - Dó sustenido maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_6_9 - Ordem dos sustenidos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_6_10 - Armadura correspondente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_1 - Escalas maiores com bemóis",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_2 - Fá maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_3 - Si bemol maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_4 - Mi bemol maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_5 - Lá bemol maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_6 - Ré bemol maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_7 - Sol bemol maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_8 - Dó bemol maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_9 - Ordem dos bemóis",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "6_7_10 - Armadura correspondente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_1 - Armadura de clave",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_2 - Sustenidos na armadura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_3 - Bemóis na armadura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_4 - Localização da armadura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_5 - Tonalidade indicada pela armadura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_6 - Ordem dos sustenidos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_7 - Ordem dos bemóis",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_1_8 - Alterações fixas da tonalidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_2_1 - Compasso 9/8",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_2_2 - Compasso composto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_2_3 - Nove movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_2_4 - Três tempos principais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_2_5 - Unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_2_6 - Subdivisão ternária",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_2_7 - Acentuação dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_3_1 - Movimento de condução em 9",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_3_2 - Primeiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_3_3 - Segundo tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_3_4 - Terceiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_3_5 - Subdivisão dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_3_6 - Solfejo em 9",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_4_1 - Movimento alternativo em 9",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_4_2 - Forma alternativa de condução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_4_3 - Divisão dos movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_4_4 - Aplicação no solfejo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_5_1 - Compasso 12/8",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_5_2 - Compasso composto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_5_3 - Doze movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_5_4 - Quatro tempos principais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_5_5 - Unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_5_6 - Subdivisão ternária",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_5_7 - Acentuação dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_6_1 - Movimento de condução em 12",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_6_2 - Quatro tempos principais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_6_3 - Subdivisão dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_6_4 - Movimentos em 12",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_6_5 - Solfejo em 12",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_7_1 - Movimento alternativo em 12",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_7_2 - Forma alternativa de condução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_7_3 - Divisão dos movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "7_7_4 - Aplicação no solfejo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_1_1 - Tonalidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_1_2 - Tom maior",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_1_3 - Tônica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_1_4 - Identificação da tonalidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_1_5 - Relação entre tonalidade e armadura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_1_6 - Escala correspondente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_1_7 - Tonalidade dos hinos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_1 - Acidentes ocorrentes",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_2 - Acidentes de precaução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_3 - Sustenido ocorrente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_4 - Bemol ocorrente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_5 - Alteração momentânea",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_6 - Alteração dentro do compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_7 - Função do acidente de precaução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "8_2_8 - Diferença entre acidente da armadura e acidente ocorrente",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_1 - Barra de repetição",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_2 - Ritornello",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_3 - Início da repetição",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_4 - Final da repetição",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_5 - Dois pontos de repetição",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_6 - Casa de ritornello",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_7 - Primeira casa",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_8 - Segunda casa",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_9 - Execução das repetições",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_10 - Seções repetidas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_11 - Indicação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "9_1_12 - Execução das estrofes e final",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_1 - Dinâmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_2 - Intensidade sonora",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_3 - Dinâmica natural",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_4 - Dinâmica artificial",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_5 - Piano (p)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_6 - Pianissimo (pp)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_7 - Molto pianissimo (ppp)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_8 - Mezzo piano (mp)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_9 - Mezzo forte (mf)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_10 - Forte (f)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_11 - Fortissimo (ff)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_12 - Molto fortissimo (fff)",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_13 - Crescendo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_14 - Decrescendo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_15 - Aumento gradual da intensidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_16 - Diminuição gradual da intensidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_17 - Graduação da dinâmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "10_1_18 - Aplicação da dinâmica na interpretação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_1 - Acento métrico",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_2 - Tempo forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_3 - Tempo meio-forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_4 - Tempo fraco",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_5 - Acentuação dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_6 - Acentuação no compasso binário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_7 - Acentuação no compasso ternário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_8 - Acentuação no compasso quaternário",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_1_9 - Acentuação nos compassos compostos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_1 - Compasso simples",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_2 - Unidade de tempo simples",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_3 - Divisão binária da unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_4 - Compassos binários",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_5 - Compassos ternários",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_6 - Compassos quaternários",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_7 - Fórmulas 2/4, 3/4 e 4/4",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_8 - Unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_9 - Unidade de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_2_10 - Acento métrico",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_1 - Compasso composto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_2 - Unidade de tempo pontuada",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_3 - Divisão ternária da unidade de tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_4 - 6/8",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_5 - 9/8",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_6 - 12/8",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_7 - Tempos principais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_8 - Movimentos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_9 - Subdivisão dos tempos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_3_10 - Acento métrico nos compassos compostos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_4_1 - Compasso alternado",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_4_2 - Combinação de duas ou mais fórmulas de compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_4_3 - Mudança de organização métrica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_4_4 - Junção de compassos diferentes",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "11_4_5 - Acentuação dos compassos alternados",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_1 - Síncopa",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_2 - Deslocamento do acento métrico",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_3 - Nota iniciada em tempo fraco e prolongada para tempo forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_4 - Síncopa regular",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_5 - Síncopa irregular",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_6 - Síncopa dentro do compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_7 - Síncopa entre compassos",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_1_8 - Execução da síncopa",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_2_1 - Contratempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_2_2 - Som em parte fraca do tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_2_3 - Pausa em parte forte",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_2_4 - Alternância entre pausa e som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_2_5 - Deslocamento da sensação de acento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "12_2_6 - Diferença entre síncopa e contratempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_1 - Ritmo inicial",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_2 - Início da partitura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_3 - Ritmo tético",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_4 - Ritmo anacrúsico",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_5 - Ritmo acéfalo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_6 - Tético: início no primeiro tempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_7 - Anacruse",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_8 - Notas que antecedem o primeiro compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_9 - Acéfalo: início por contratempo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_10 - Pausa no início do compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_11 - Classificação dos ritmos iniciais",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "13_1_12 - Proporção das notas iniciais em relação ao compasso",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_1 - Notas pontuadas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_2 - Subdivisão",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_3 - Bi-subdivisão",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_4 - Proporção das figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_5 - Colcheia pontuada",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_6 - Semicolcheia",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_7 - Relação 3:1",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_8 - Colcheia pontuada seguida de semicolcheia",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_9 - Execução correta das notas pontuadas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_10 - Erros comuns de execução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "14_1_11 - Comparação entre valores das figuras",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_1 - Andamento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_2 - Velocidade da música",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_3 - Indicação de velocidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_4 - Indicação metronômica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_5 - BPM",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_6 - Batimentos por minuto",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_7 - Velocidade mínima",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_8 - Velocidade máxima",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_9 - Média do andamento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_10 - Marcação de velocidade no início do hino",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_1_11 - Relação entre andamento e metrônomo",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_1 - Agógica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_2 - Modificação do andamento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_3 - Poco rallentando",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_4 - Poco rall.",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_5 - Pequena redução gradual da velocidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_6 - Momento de início da redução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_7 - Execução gradual",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_8 - Aplicação em todas as vozes",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_2_9 - Relação entre poco rall. e interpretação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_3_1 - Alteração indevida do andamento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_3_2 - Manutenção da velocidade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_3_3 - Respeito à indicação metronômica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_3_4 - Momentos em que não se deve retardar",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_3_5 - Finais de frases",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_3_6 - Retomadas após fermatas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "15_3_7 - Diferença entre rallentando indicado e alteração indevida",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_1 - Frase musical",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_2 - Semifrase",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_3 - Estrutura da frase",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_4 - Sentido de conclusão",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_5 - Divisão da frase em semifrases",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_6 - Início da frase",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_7 - Final da frase",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_8 - Acentuação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_9 - Dinâmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_10 - Fraseado",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_1_11 - Identificação das frases nos hinosl",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_1 - Interpretação musical",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_2 - Expressão musical",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_3 - Compreensão da intenção do compositor",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_4 - Transmissão dos sentimentos por meio do som",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_5 - Expressividade",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_6 - Dinâmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_7 - Acentuação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_8 - Fraseado",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_9 - Andamento",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_2_10 - Aplicação dos conhecimentos musicais na execução",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_1 - Indicações interpretativas",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_2 - Sinais de expressão",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_3 - Dinâmica",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_4 - Fraseado",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_5 - Acentuação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_6 - Respiração",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_7 - Fermata",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_8 - Articulação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_9 - Execução expressiva",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_10 - Observação das indicações da partitura",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "16_3_11 - Aplicação das indicações na interpretação",
+                "concluido": false
+              },
+              {
+                "id": "con_1786723281607",
+                "nome": "```",
+                "concluido": false
+              }
+            ],
             "tonalidades": [],
             "musicas": [
               {
@@ -141,6 +2597,11 @@
               {
                 "id": "item_1786722531973_3",
                 "nome": "dal",
+                "concluido": false
+              },
+              {
+                "id": "mus_1786723281607",
+                "nome": "Estudo 1 - Tópico Inicial",
                 "concluido": false
               }
             ]
