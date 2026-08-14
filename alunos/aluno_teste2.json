@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T16:30:08.986Z",
+  "atualizadoEm": "2026-08-14T16:34:33.754Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2587,7 +2587,7 @@
                   {
                     "id": "con_1786724927114_0",
                     "nome": "1_4_1 - Notas Musicais (dó3,ré3)",
-                    "concluido": false
+                    "concluido": true
                   },
                   {
                     "id": "con_1786724927114_1",
@@ -2609,7 +2609,7 @@
                   {
                     "id": "con_1786724952337_1",
                     "nome": "1_6_7 - Clave de Fá na 4ª linha",
-                    "concluido": false
+                    "concluido": true
                   }
                 ]
               }
@@ -2618,12 +2618,12 @@
               {
                 "id": "item_1786724961938_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786724961938_1",
                 "nome": "1_5_2 - Cinco linhas",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786724961938_2",
@@ -2695,7 +2695,7 @@
               {
                 "id": "item_1786724983825_1",
                 "nome": "2 - Dedilhado",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786724983825_2",
@@ -2716,7 +2716,7 @@
     },
     {
       "nome": "2 - Dedilhado",
-      "concluido": false
+      "concluido": true
     },
     {
       "nome": "3 - Dó Central",
