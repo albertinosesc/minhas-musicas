@@ -202,7 +202,7 @@
     },
     {
       "titulo": "1_5_6 - Espaços suplementares",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_6",
       "lote": "2707_ccb_msa_pdf"
@@ -3475,6 +3475,21 @@
       "observacao": "",
       "numeroTopico": "3",
       "lote": "cal"
+    },
+    {
+      "titulo": "Estudo 9",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_6_6 - Clave de Sol (nota sol3)",
+      "status": "pendente",
+      "lote": "Período 1"
+    },
+    {
+      "titulo": "1_6_7 - Clave de Fá (nota fá2)",
+      "status": "pendente",
+      "lote": "Período 1"
     }
   ],
   "lotesImportados": [
