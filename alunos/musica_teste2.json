@@ -1,6 +1,22 @@
 {
   "alunoId": "teste2",
-  "musicas": [],
+  "musicas": [
+    {
+      "nome": "Estudo 1 - Tópico Inicial",
+      "status": "pendente",
+      "lote": "Estudo 1"
+    },
+    {
+      "nome": "beto",
+      "status": "pendente",
+      "lote": "Estudo 1"
+    },
+    {
+      "nome": "cal",
+      "status": "pendente",
+      "lote": "Estudo 1"
+    }
+  ],
   "aluno": "teste2",
   "repertorio": [
     {
