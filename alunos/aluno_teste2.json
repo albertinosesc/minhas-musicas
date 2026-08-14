@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T16:38:25.169Z",
+  "atualizadoEm": "2026-08-14T16:39:14.489Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2628,22 +2628,22 @@
               {
                 "id": "item_1786724961938_2",
                 "nome": "1_5_3 - Quatro espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786724961938_3",
                 "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786724961938_4",
                 "nome": "1_5_5 - Linhas suplementares",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786724961938_5",
                 "nome": "1_5_6 - Espaços suplementares",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786724961938_6",
