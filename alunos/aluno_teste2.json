@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T16:59:05.616Z",
+  "atualizadoEm": "2026-08-14T17:02:10.687Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2715,6 +2715,105 @@
             ]
           }
         ]
+      },
+      {
+        "id": "periodo_1786726864143",
+        "nome": "2 fase",
+        "livro": "19",
+        "fases": [
+          {
+            "id": "fase_1786726864143",
+            "nome": "1ª Fase",
+            "geral": [
+              {
+                "id": "item_1786726886278_0",
+                "nome": "1_5_6 - Espaços suplementares",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_1",
+                "nome": "1_5_7 - Localização das notas no pentagrama",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_2",
+                "nome": "2_1_3 - Semibreve",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_3",
+                "nome": "2_1_4 - Mínima",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_4",
+                "nome": "2_1_5 - Semínima",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_5",
+                "nome": "2_2_1 - Compasso",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_6",
+                "nome": "2_3_1 - Barra de compasso simples",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_7",
+                "nome": "2_3_3 - Barra final",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726886278_8",
+                "nome": "3_5_1 - Metrônomo",
+                "concluido": false
+              }
+            ],
+            "adicional": [
+              {
+                "id": "item_1786726898366_0",
+                "nome": "1_5_1 - Pentagrama",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726898366_1",
+                "nome": "1_5_2 - Cinco linhas",
+                "concluido": false
+              },
+              {
+                "id": "item_1786726898366_2",
+                "nome": "1_5_3 - Quatro espaços",
+                "concluido": false
+              }
+            ],
+            "musicas": [
+              {
+                "id": "mus_1786726915527",
+                "nome": "estudo 9",
+                "concluido": false,
+                "conceitos": [
+                  {
+                    "id": "con_1786726919975_0",
+                    "nome": "Estudo 9",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786726919975_1",
+                    "nome": "1_6_6 - Clave de Sol (nota sol3)",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786726919975_2",
+                    "nome": "1_6_7 - Clave de Fá (nota fá2)",
+                    "concluido": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -2735,6 +2834,18 @@
     {
       "nome": "1_1_1 - Música",
       "concluido": false
+    },
+    {
+      "nome": "1_5_1 - Pentagrama",
+      "concluido": false
+    },
+    {
+      "nome": "1_5_2 - Cinco linhas",
+      "concluido": false
+    },
+    {
+      "nome": "1_5_3 - Quatro espaços",
+      "concluido": false
     }
   ],
   "musicas": [
@@ -2744,6 +2855,10 @@
     },
     {
       "nome": "bola",
+      "concluido": false
+    },
+    {
+      "nome": "estudo 9",
       "concluido": false
     }
   ]
