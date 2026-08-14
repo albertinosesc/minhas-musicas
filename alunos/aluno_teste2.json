@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T16:35:39.378Z",
+  "atualizadoEm": "2026-08-14T16:36:17.561Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2592,7 +2592,7 @@
                   {
                     "id": "con_1786724927114_1",
                     "nome": "1_6_6 - Clave de Sol na 2ª linha",
-                    "concluido": false
+                    "concluido": true
                   }
                 ]
               },
