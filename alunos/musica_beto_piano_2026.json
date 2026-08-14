@@ -4,14 +4,14 @@
   "repertorio": [
     {
       "nome": "24140 - Come On, Rangers - Gioachino Rossini",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24141 - Camptown Races - Stephen Foster",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
@@ -238,7 +238,7 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-14T22:52:33.922Z",
+  "atualizadoEm": "2026-08-14T23:00:57.039Z",
   "lotesTempo": {
     "6936_pdf": {
       "tempoSegundos": 0,
@@ -248,6 +248,11 @@
     "4504_pdf": {
       "tempoSegundos": 0,
       "ultimaAtualizacao": "2026-08-14T22:52:33.515Z",
+      "status": "pausado"
+    },
+    "6937_pdf": {
+      "tempoSegundos": 0,
+      "ultimaAtualizacao": "2026-08-14T23:00:56.612Z",
       "status": "pausado"
     }
   }
