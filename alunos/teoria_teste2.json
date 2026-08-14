@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T16:31:37.023Z",
+  "atualizadoEm": "2026-08-14T16:33:37.713Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
@@ -3454,9 +3454,31 @@
       "observacao": "",
       "numeroTopico": "1_4_1",
       "lote": "Período 1"
+    },
+    {
+      "titulo": "1 - Relógio Musical",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1",
+      "lote": "cal"
+    },
+    {
+      "titulo": "2 - Dedilhado",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2",
+      "lote": "cal"
+    },
+    {
+      "titulo": "3 - Dó Central",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3",
+      "lote": "cal"
     }
   ],
   "lotesImportados": [
-    "2707_ccb_msa_pdf"
+    "2707_ccb_msa_pdf",
+    "cal"
   ]
 }
