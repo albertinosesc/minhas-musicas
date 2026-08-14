@@ -174,7 +174,7 @@
     },
     {
       "titulo": "1_5_2 - Cinco linhas",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_2",
       "lote": "2707_ccb_msa_pdf"
@@ -258,7 +258,7 @@
     },
     {
       "titulo": "1_6_7 - Clave de Fá na 4ª linha",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_6_7",
       "lote": "2707_ccb_msa_pdf"
@@ -3443,7 +3443,7 @@
     },
     {
       "titulo": "1_4_1 - Notas Musicais (dó3,ré3)",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_4_1",
       "lote": "Período 1"
