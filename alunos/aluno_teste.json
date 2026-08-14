@@ -6,7 +6,7 @@
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:28:20.682Z",
+  "atualizadoEm": "2026-08-14T19:28:50.954Z",
   "adicional": [
     {
       "nome": "2_1_3 - Semibreve",
@@ -155,6 +155,11 @@
                 "id": "item_1786731789080_13",
                 "nome": "3_5_1 - Metrônomo",
                 "concluido": true
+              },
+              {
+                "id": "item_1786735728434",
+                "nome": "1_6_7 - Clave de Fá (nota sol2)",
+                "concluido": false
               }
             ],
             "adicional": [
@@ -212,6 +217,11 @@
                 "id": "item_1786734910283",
                 "nome": "2_1_4 - Mínima",
                 "concluido": true
+              },
+              {
+                "id": "item_1786735725250",
+                "nome": "1_6_7 - Clave de Fá (nota sol2)",
+                "concluido": false
               }
             ],
             "musicas": [
