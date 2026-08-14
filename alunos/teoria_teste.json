@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T18:24:34.495Z",
+  "atualizadoEm": "2026-08-14T18:24:49.748Z",
   "conceitos": [
     {
       "titulo": "fds",
@@ -10,7 +10,3446 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "Geral"
+    },
+    {
+      "titulo": "1_1_1 - Música",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_1_2 - Som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_1_3 - Conceito de música",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_1_4 - Conceito de som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_1_5 - Produção do som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_1_6 - Percepção do som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_2_1 - Melodia",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_2_2 - Harmonia",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_2_3 - Ritmo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_2_4 - Melodia: sons sucessivos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_2_5 - Harmonia: sons simultâneos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_2_6 - Ritmo: organização dos sons no tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_1 - Timbre",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_2 - Duração",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_3 - Altura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_4 - Intensidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_5 - Timbre: característica que diferencia os sons",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_6 - Duração: tempo de permanência do som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_7 - Altura: sons graves e agudos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_3_8 - Intensidade: sons fortes e fracos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_3_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_4_1 - As Sete Notas Musicais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_4_2 - Ordem das notas musicais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_4_3 - Repetição das notas em diferentes alturas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_5_1 - Pentagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_5_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_5_2 - Cinco linhas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_5_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_5_3 - Quatro espaços",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_5_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_5_4 - Numeração das linhas e espaços",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_5_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_5_5 - Linhas suplementares",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_5_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_5_6 - Espaços suplementares",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_5_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_5_7 - Localização das notas no pentagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_5_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_1 - Clave de Sol",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_2 - Clave de Dó",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_3 - Clave de Fá",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_4 - Função das claves",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_5 - Localização das notas a partir da clave",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_6 - Clave de Sol na 2ª linha",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_7 - Clave de Fá na 4ª linha",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_8 - Claves de Dó",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_6_9 - Linhas suplementares nas diferentes claves",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1_6_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_1 - Figuras de notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_2 - Figuras de pausas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_3 - Semibreve",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_4 - Mínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_5 - Semínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_6 - Colcheia",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_7 - Semicolcheia",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_8 - Fusa",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_9 - Semifusa",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_10 - Valores das figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_11 - Relação de duração entre as figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_12 - Pausas correspondentes às figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_12",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_1_13 - Quadro comparativo das figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_1_13",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_1 - Compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_2 - Divisão da música em compassos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_3 - Barra de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_4 - Tempos do compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_5 - Unidade de tempo (U.T.)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_6 - Unidade de compasso (U.C.)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_7 - Fórmula de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_8 - Número superior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_9 - Número inferior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_2_10 - Contagem dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_2_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_3_1 - Barra de compasso simples",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_3_2 - Barra dupla",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_3_3 - Barra final",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_3_4 - Função da barra de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_3_5 - Separação dos compassos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_3_6 - Indicação do término da música",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_1 - Compasso quaternário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_2 - Numerador 4",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_3 - Quatro tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_4 - Unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_5 - Unidade de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_6 - Movimento de condução em 4",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_7 - Acentuação dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_8 - Primeiro tempo forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_9 - Terceiro tempo meio-forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_4_10 - Segundo e quarto tempos fracos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_4_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_1 - Ritmo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_2 - Pulsação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_3 - Tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_4 - Movimento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_5 - Unidade de movimento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_6 - Organização das figuras dentro do compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_7 - Contagem dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_8 - Divisão dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_5_9 - Subdivisão dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_5_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_1 - Leitura rítmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_2 - Execução das figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_3 - Execução das pausas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_4 - Contagem dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_5 - Subdivisão",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_6 - Pulsação regular",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_7 - Leitura com metrônomo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "2_6_8 - Precisão rítmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2_6_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_1 - Endecagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_2 - Linhas do endecagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_3 - Espaços do endecagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_4 - União das claves",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_5 - Região grave",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_6 - Região média",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_7 - Região aguda",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_8 - Localização das notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_1_9 - Linhas suplementares",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_1 - Leitura rítmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_2 - Leitura métrica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_3 - Solfejo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_4 - Leitura das notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_5 - Leitura das figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_6 - Leitura das pausas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_7 - Nome das notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_8 - Duração das figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_9 - Entonação das notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_2_10 - Coordenação entre ritmo e altura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_2_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_1 - Movimento de condução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_2 - Regência do compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_3 - Indicação dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_4 - Movimento preparatório",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_5 - Movimento descendente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_6 - Movimento lateral",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_7 - Movimento ascendente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_3_8 - Relação entre condução e fórmula de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_3_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_1 - Movimento em 4",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_2 - Primeiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_3 - Segundo tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_4 - Terceiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_5 - Quarto tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_6 - Direção dos movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_7 - Acento métrico",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_4_8 - Solfejo conduzido em 4",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_4_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_5_1 - Metrônomo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_5_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_5_2 - Pulsação regular",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_5_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_5_3 - Batidas por minuto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_5_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_5_4 - BPM",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_5_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_5_5 - Velocidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_5_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_5_6 - Indicação metronômica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_5_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "3_5_7 - Relação entre andamento e metrônomo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3_5_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_1_1 - Ligadura de valor",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_1_2 - União de valores",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_1_3 - Soma das durações",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_1_4 - Ligadura entre notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_1_5 - Execução de notas ligadas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_1_6 - Diferença entre ligadura e outras articulações",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_2_1 - Ponto de aumento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_2_2 - Aumento de metade do valor da figura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_2_3 - Figura pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_2_4 - Valor da figura pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_2_5 - Relação entre figura e ponto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_2_6 - Execução de figuras pontuadas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_1 - Intervalo musical",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_2 - Distância entre notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_3 - Intervalos ascendentes",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_4 - Intervalos descendentes",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_5 - Intervalos conjuntos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_6 - Intervalos por salto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_7 - Classificação numérica dos intervalos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_8 - Segunda",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_9 - Terça",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_10 - Quarta",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_11 - Quinta",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_12 - Sexta",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_12",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_13 - Sétima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_13",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_14 - Oitava",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_14",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_3_15 - Intervalos simples",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_3_15",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_1 - Compasso ternário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_2 - Três tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_3 - Unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_4 - Unidade de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_5 - Contagem em 3",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_6 - Acentuação métrica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_7 - Primeiro tempo forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_4_8 - Segundo e terceiro tempos fracos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_4_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_5_1 - Movimento de condução em 3",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_5_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_5_2 - Primeiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_5_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_5_3 - Segundo tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_5_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_5_4 - Terceiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_5_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_5_5 - Direção dos movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_5_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_5_6 - Solfejo em compasso ternário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_5_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_6_1 - Compasso binário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_6_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_6_2 - Dois tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_6_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_6_3 - Unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_6_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_6_4 - Unidade de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_6_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_6_5 - Acentuação métrica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_6_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_6_6 - Primeiro tempo forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_6_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_6_7 - Segundo tempo fraco",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_6_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_7_1 - Movimento de condução em 2",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_7_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_7_2 - Primeiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_7_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_7_3 - Segundo tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_7_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_7_4 - Direção dos movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_7_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "4_7_5 - Solfejo em compasso binário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4_7_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_1_1 - Tercina",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_1_2 - Divisão do tempo em três partes",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_1_3 - Três figuras no lugar de duas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_1_4 - Subdivisão ternária",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_1_5 - Execução das tercinas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_1_6 - Identificação da tercina na partitura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_2_1 - Fermata",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_2_2 - Prolongamento do som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_2_3 - Suspensão momentânea do andamento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_2_4 - Execução da fermata",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_2_5 - Fermata sobre nota",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_2_6 - Fermata sobre pausa",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_2_7 - Exemplos de execução da fermata",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_3_1 - Compasso 6/8",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_3_2 - Compassos compostos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_3_3 - Seis movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_3_4 - Dois tempos principais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_3_5 - Unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_3_6 - Subdivisão ternária",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_3_7 - Acentuação dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_4_1 - Movimento de condução em 6",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_4_2 - Condução do compasso composto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_4_3 - Primeiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_4_4 - Segundo tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_4_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_4_5 - Subdivisão dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_4_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_4_6 - Solfejo em 6",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_4_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_5_1 - Movimento alternativo em 6",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_5_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_5_2 - Forma alternativa de condução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_5_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_5_3 - Divisão dos seis movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_5_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "5_5_4 - Aplicação no solfejo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5_5_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_1 - Tom",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_2 - Semitom",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_3 - Tom maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_4 - Tom menor",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_5 - Semitom diatônico",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_6 - Semitom cromático",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_7 - Distância entre notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_1_8 - Tons e semitons naturais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_2_1 - Sustenido",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_2_2 - Bemol",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_2_3 - Alteração da altura da nota",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_2_4 - Sustenido: elevação de um semitom",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_2_5 - Bemol: redução de um semitom",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_2_6 - Acidentes musicais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_2_7 - Alterações das notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_3_1 - Escala musical",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_3_2 - Ordem sucessiva das notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_3_3 - Escala ascendente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_3_4 - Escala descendente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_3_5 - Graus da escala",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_3_6 - Tônica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_3_7 - Relação entre os graus",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_4_1 - Escala diatônica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_4_2 - Sete notas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_4_3 - Graus conjuntos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_4_4 - Tons e semitons da escala",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_4_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_4_5 - Estrutura da escala diatônica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_4_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_5_1 - Escala maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_5_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_5_2 - Tônica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_5_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_5_3 - Graus da escala",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_5_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_5_4 - Estrutura da escala maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_5_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_5_5 - Tons e semitons",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_5_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_5_6 - Escala de Dó maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_5_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_5_7 - Padrão das escalas maiores",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_5_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_1 - Escalas maiores com sustenidos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_2 - Sol maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_3 - Ré maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_4 - Lá maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_5 - Mi maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_6 - Si maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_7 - Fá sustenido maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_8 - Dó sustenido maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_9 - Ordem dos sustenidos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_6_10 - Armadura correspondente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_6_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_1 - Escalas maiores com bemóis",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_2 - Fá maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_3 - Si bemol maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_4 - Mi bemol maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_5 - Lá bemol maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_6 - Ré bemol maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_7 - Sol bemol maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_8 - Dó bemol maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_9 - Ordem dos bemóis",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "6_7_10 - Armadura correspondente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6_7_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_1 - Armadura de clave",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_2 - Sustenidos na armadura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_3 - Bemóis na armadura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_4 - Localização da armadura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_5 - Tonalidade indicada pela armadura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_6 - Ordem dos sustenidos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_7 - Ordem dos bemóis",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_1_8 - Alterações fixas da tonalidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_2_1 - Compasso 9/8",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_2_2 - Compasso composto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_2_3 - Nove movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_2_4 - Três tempos principais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_2_5 - Unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_2_6 - Subdivisão ternária",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_2_7 - Acentuação dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_3_1 - Movimento de condução em 9",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_3_2 - Primeiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_3_3 - Segundo tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_3_4 - Terceiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_3_5 - Subdivisão dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_3_6 - Solfejo em 9",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_4_1 - Movimento alternativo em 9",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_4_2 - Forma alternativa de condução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_4_3 - Divisão dos movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_4_4 - Aplicação no solfejo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_4_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_5_1 - Compasso 12/8",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_5_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_5_2 - Compasso composto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_5_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_5_3 - Doze movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_5_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_5_4 - Quatro tempos principais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_5_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_5_5 - Unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_5_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_5_6 - Subdivisão ternária",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_5_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_5_7 - Acentuação dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_5_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_6_1 - Movimento de condução em 12",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_6_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_6_2 - Quatro tempos principais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_6_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_6_3 - Subdivisão dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_6_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_6_4 - Movimentos em 12",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_6_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_6_5 - Solfejo em 12",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_6_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_7_1 - Movimento alternativo em 12",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_7_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_7_2 - Forma alternativa de condução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_7_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_7_3 - Divisão dos movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_7_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "7_7_4 - Aplicação no solfejo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7_7_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_1_1 - Tonalidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_1_2 - Tom maior",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_1_3 - Tônica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_1_4 - Identificação da tonalidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_1_5 - Relação entre tonalidade e armadura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_1_6 - Escala correspondente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_1_7 - Tonalidade dos hinos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_1 - Acidentes ocorrentes",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_2 - Acidentes de precaução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_3 - Sustenido ocorrente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_4 - Bemol ocorrente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_5 - Alteração momentânea",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_6 - Alteração dentro do compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_7 - Função do acidente de precaução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "8_2_8 - Diferença entre acidente da armadura e acidente ocorrente",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8_2_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_1 - Barra de repetição",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_2 - Ritornello",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_3 - Início da repetição",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_4 - Final da repetição",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_5 - Dois pontos de repetição",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_6 - Casa de ritornello",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_7 - Primeira casa",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_8 - Segunda casa",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_9 - Execução das repetições",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_10 - Seções repetidas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_11 - Indicação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "9_1_12 - Execução das estrofes e final",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9_1_12",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_1 - Dinâmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_2 - Intensidade sonora",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_3 - Dinâmica natural",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_4 - Dinâmica artificial",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_5 - Piano (p)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_6 - Pianissimo (pp)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_7 - Molto pianissimo (ppp)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_8 - Mezzo piano (mp)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_9 - Mezzo forte (mf)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_10 - Forte (f)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_11 - Fortissimo (ff)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_12 - Molto fortissimo (fff)",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_12",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_13 - Crescendo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_13",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_14 - Decrescendo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_14",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_15 - Aumento gradual da intensidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_15",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_16 - Diminuição gradual da intensidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_16",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_17 - Graduação da dinâmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_17",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "10_1_18 - Aplicação da dinâmica na interpretação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10_1_18",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_1 - Acento métrico",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_2 - Tempo forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_3 - Tempo meio-forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_4 - Tempo fraco",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_5 - Acentuação dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_6 - Acentuação no compasso binário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_7 - Acentuação no compasso ternário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_8 - Acentuação no compasso quaternário",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_1_9 - Acentuação nos compassos compostos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_1 - Compasso simples",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_2 - Unidade de tempo simples",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_3 - Divisão binária da unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_4 - Compassos binários",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_5 - Compassos ternários",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_6 - Compassos quaternários",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_7 - Fórmulas 2/4, 3/4 e 4/4",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_8 - Unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_9 - Unidade de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_2_10 - Acento métrico",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_2_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_1 - Compasso composto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_2 - Unidade de tempo pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_3 - Divisão ternária da unidade de tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_4 - 6/8",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_5 - 9/8",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_6 - 12/8",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_7 - Tempos principais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_8 - Movimentos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_9 - Subdivisão dos tempos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_3_10 - Acento métrico nos compassos compostos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_3_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_4_1 - Compasso alternado",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_4_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_4_2 - Combinação de duas ou mais fórmulas de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_4_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_4_3 - Mudança de organização métrica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_4_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_4_4 - Junção de compassos diferentes",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_4_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "11_4_5 - Acentuação dos compassos alternados",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11_4_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_1 - Síncopa",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_2 - Deslocamento do acento métrico",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_3 - Nota iniciada em tempo fraco e prolongada para tempo forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_4 - Síncopa regular",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_5 - Síncopa irregular",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_6 - Síncopa dentro do compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_7 - Síncopa entre compassos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_1_8 - Execução da síncopa",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_2_1 - Contratempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_2_2 - Som em parte fraca do tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_2_3 - Pausa em parte forte",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_2_4 - Alternância entre pausa e som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_2_5 - Deslocamento da sensação de acento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "12_2_6 - Diferença entre síncopa e contratempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_1 - Ritmo inicial",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_2 - Início da partitura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_3 - Ritmo tético",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_4 - Ritmo anacrúsico",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_5 - Ritmo acéfalo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_6 - Tético: início no primeiro tempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_7 - Anacruse",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_8 - Notas que antecedem o primeiro compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_9 - Acéfalo: início por contratempo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_10 - Pausa no início do compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_11 - Classificação dos ritmos iniciais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "13_1_12 - Proporção das notas iniciais em relação ao compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13_1_12",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_1 - Notas pontuadas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_2 - Subdivisão",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_3 - Bi-subdivisão",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_4 - Proporção das figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_5 - Colcheia pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_6 - Semicolcheia",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_7 - Relação 3:1",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_8 - Colcheia pontuada seguida de semicolcheia",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_9 - Execução correta das notas pontuadas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_10 - Erros comuns de execução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "14_1_11 - Comparação entre valores das figuras",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14_1_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_1 - Andamento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_2 - Velocidade da música",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_3 - Indicação de velocidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_4 - Indicação metronômica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_5 - BPM",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_6 - Batimentos por minuto",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_7 - Velocidade mínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_8 - Velocidade máxima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_9 - Média do andamento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_10 - Marcação de velocidade no início do hino",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_1_11 - Relação entre andamento e metrônomo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_1_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_1 - Agógica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_2 - Modificação do andamento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_3 - Poco rallentando",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_4 - Poco rall.",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_5 - Pequena redução gradual da velocidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_6 - Momento de início da redução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_7 - Execução gradual",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_8 - Aplicação em todas as vozes",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_2_9 - Relação entre poco rall. e interpretação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_2_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_3_1 - Alteração indevida do andamento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_3_2 - Manutenção da velocidade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_3_3 - Respeito à indicação metronômica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_3_4 - Momentos em que não se deve retardar",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_3_5 - Finais de frases",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_3_6 - Retomadas após fermatas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "15_3_7 - Diferença entre rallentando indicado e alteração indevida",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_1 - Frase musical",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_2 - Semifrase",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_3 - Estrutura da frase",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_4 - Sentido de conclusão",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_5 - Divisão da frase em semifrases",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_6 - Início da frase",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_7 - Final da frase",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_8 - Acentuação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_9 - Dinâmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_10 - Fraseado",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_1_11 - Identificação das frases nos hinosl",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_1_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_1 - Interpretação musical",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_2 - Expressão musical",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_3 - Compreensão da intenção do compositor",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_4 - Transmissão dos sentimentos por meio do som",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_5 - Expressividade",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_6 - Dinâmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_7 - Acentuação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_8 - Fraseado",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_9 - Andamento",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_2_10 - Aplicação dos conhecimentos musicais na execução",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_2_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_1 - Indicações interpretativas",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_1",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_2 - Sinais de expressão",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_2",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_3 - Dinâmica",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_3",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_4 - Fraseado",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_4",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_5 - Acentuação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_5",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_6 - Respiração",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_6",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_7 - Fermata",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_7",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_8 - Articulação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_8",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_9 - Execução expressiva",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_9",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_10 - Observação das indicações da partitura",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_10",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "16_3_11 - Aplicação das indicações na interpretação",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16_3_11",
+      "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "```",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "2707_ccb_msa_pdf"
     }
   ],
-  "lotesImportados": []
+  "lotesImportados": [
+    "2707_ccb_msa_pdf"
+  ]
 }
