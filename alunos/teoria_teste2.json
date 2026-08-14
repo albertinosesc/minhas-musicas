@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T15:07:56.935Z",
+  "atualizadoEm": "2026-08-14T15:09:39.928Z",
   "conceitos": [
     {
       "titulo": "1_5_1 - Pentagrama",
@@ -115,9 +115,80 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "Período 1"
+    },
+    {
+      "titulo": "Pentagrama",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Clave de Sol",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Barra Final",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Ritornelo",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Semínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Semibreve",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Mínima",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Mínima Pontuada",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Barra de compasso",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
+    },
+    {
+      "titulo": "Duina de colcheias",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote_teoria_geral"
     }
   ],
   "lotesImportados": [
-    "2707_ccb_msa_pdf"
+    "2707_ccb_msa_pdf",
+    "lote_teoria_geral"
   ]
 }
