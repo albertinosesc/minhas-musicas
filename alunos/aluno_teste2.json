@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:20:25.296Z",
+  "atualizadoEm": "2026-08-14T15:24:16.631Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -177,17 +177,17 @@
               {
                 "id": "item_1786720822752_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786720822752_1",
                 "nome": "1_5_2 - Cinco linhas",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786720822752_2",
                 "nome": "1_5_3 - Quatro espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786720822752_3",
@@ -246,7 +246,38 @@
               }
             ],
             "tonalidades": [],
-            "musicas": []
+            "musicas": [
+              {
+                "num": 1,
+                "itens": [
+                  {
+                    "id": "sub_1786721036999",
+                    "nome": "Estudo 1 - Tópico Inicial",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721050943_0",
+                    "nome": "beto",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721050943_1",
+                    "nome": "dal",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721050943_2",
+                    "nome": "cal",
+                    "concluido": false
+                  },
+                  {
+                    "id": "sub_1786721050943_3",
+                    "nome": "buga",
+                    "concluido": true
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
