@@ -181,21 +181,21 @@
     },
     {
       "titulo": "1_5_3 - Quatro espaços",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_3",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_5_4 - Numeração das linhas e espaços",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_4",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_5_5 - Linhas suplementares",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_5",
       "lote": "2707_ccb_msa_pdf"
@@ -251,7 +251,7 @@
     },
     {
       "titulo": "1_6_6 - Clave de Sol na 2ª linha",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_6_6",
       "lote": "2707_ccb_msa_pdf"
@@ -916,7 +916,7 @@
     },
     {
       "titulo": "3_5_1 - Metrônomo",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "3_5_1",
       "lote": "2707_ccb_msa_pdf"
@@ -3443,7 +3443,7 @@
     },
     {
       "titulo": "1_4_1 - Notas Musicais (dó3,ré3)",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_4_1",
       "lote": "Período 1"
