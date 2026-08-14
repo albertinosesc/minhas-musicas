@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:27:34.511Z",
+  "atualizadoEm": "2026-08-14T15:28:16.362Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -55,233 +55,59 @@
           "concluido": false
         }
       ]
+    },
+    {
+      "nome": "bahia",
+      "tons": [
+        {
+          "tom": "C",
+          "concluido": false
+        },
+        {
+          "tom": "C#",
+          "concluido": false
+        },
+        {
+          "tom": "D",
+          "concluido": false
+        },
+        {
+          "tom": "D#",
+          "concluido": false
+        },
+        {
+          "tom": "E",
+          "concluido": false
+        },
+        {
+          "tom": "F",
+          "concluido": false
+        },
+        {
+          "tom": "F#",
+          "concluido": false
+        },
+        {
+          "tom": "G",
+          "concluido": true
+        },
+        {
+          "tom": "G#",
+          "concluido": false
+        },
+        {
+          "tom": "A",
+          "concluido": false
+        },
+        {
+          "tom": "A#",
+          "concluido": false
+        },
+        {
+          "tom": "B",
+          "concluido": false
+        }
+      ]
     }
-  ],
-  "periodo": {
-    "periodos": [
-      {
-        "id": "periodo1",
-        "nome": "Período 1",
-        "livro": "Método H. Lemoine / Hinário",
-        "fases": [
-          {
-            "id": "fase1",
-            "nome": "1ª Fase",
-            "geral": [
-              {
-                "id": "item_1786718894826_0",
-                "nome": "1_5_1 - Pentagrama",
-                "concluido": true
-              },
-              {
-                "id": "item_1786718894826_1",
-                "nome": "1_5_2 - Cinco linhas",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_2",
-                "nome": "1_5_3 - Quatro espaços",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_3",
-                "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": true
-              },
-              {
-                "id": "item_1786718894826_4",
-                "nome": "1_5_5 - Linhas suplementares",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_5",
-                "nome": "1_5_6 - Espaços suplementares",
-                "concluido": true
-              },
-              {
-                "id": "item_1786718894826_6",
-                "nome": "1_5_7 - Localização das notas no pentagrama",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_7",
-                "nome": "2_1_3 - Semibreve",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_8",
-                "nome": "2_1_4 - Mínima",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_9",
-                "nome": "2_1_5 - Semínima",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_10",
-                "nome": "2_2_1 - Compasso",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_11",
-                "nome": "2_3_1 - Barra de compasso simples",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_12",
-                "nome": "2_3_3 - Barra final",
-                "concluido": false
-              },
-              {
-                "id": "item_1786718894826_13",
-                "nome": "3_5_1 - Metrônomo",
-                "concluido": true
-              }
-            ],
-            "adicional": [
-              {
-                "id": "item_1786719205522_0",
-                "nome": "beto",
-                "concluido": false
-              },
-              {
-                "id": "item_1786719205522_1",
-                "nome": "cal",
-                "concluido": false
-              }
-            ],
-            "estudos": [
-              {
-                "num": 1,
-                "itens": [
-                  {
-                    "id": "sub_1786719179330",
-                    "nome": "Estudo 1 - Tópico Inicial",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786719186850_0",
-                    "nome": "beto",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786719186850_1",
-                    "nome": "cal",
-                    "concluido": true
-                  }
-                ]
-              }
-            ],
-            "conceitos": [
-              {
-                "id": "item_1786720822752_0",
-                "nome": "1_5_1 - Pentagrama",
-                "concluido": true
-              },
-              {
-                "id": "item_1786720822752_1",
-                "nome": "1_5_2 - Cinco linhas",
-                "concluido": true
-              },
-              {
-                "id": "item_1786720822752_2",
-                "nome": "1_5_3 - Quatro espaços",
-                "concluido": true
-              },
-              {
-                "id": "item_1786720822752_3",
-                "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_4",
-                "nome": "1_5_5 - Linhas suplementares",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_5",
-                "nome": "1_5_6 - Espaços suplementares",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_6",
-                "nome": "1_5_7 - Localização das notas no pentagrama",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_7",
-                "nome": "2_1_3 - Semibreve",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_8",
-                "nome": "2_1_4 - Mínima",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_9",
-                "nome": "2_1_5 - Semínima",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_10",
-                "nome": "2_2_1 - Compasso",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_11",
-                "nome": "2_3_1 - Barra de compasso simples",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_12",
-                "nome": "2_3_3 - Barra final",
-                "concluido": false
-              },
-              {
-                "id": "item_1786720822752_13",
-                "nome": "3_5_1 - Metrônomo",
-                "concluido": false
-              }
-            ],
-            "tonalidades": [],
-            "musicas": [
-              {
-                "num": 1,
-                "itens": [
-                  {
-                    "id": "sub_1786721036999",
-                    "nome": "Estudo 1 - Tópico Inicial",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721050943_0",
-                    "nome": "beto",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721050943_1",
-                    "nome": "dal",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721050943_2",
-                    "nome": "cal",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721050943_3",
-                    "nome": "buga",
-                    "concluido": true
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "tonalidades": []
+  ]
 }
