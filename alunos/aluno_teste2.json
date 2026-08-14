@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T16:39:14.489Z",
+  "atualizadoEm": "2026-08-14T16:40:30.001Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2705,7 +2705,7 @@
               {
                 "id": "item_1786725500049",
                 "nome": "1_1_1 - Música",
-                "concluido": true
+                "concluido": false
               }
             ]
           }
@@ -2729,7 +2729,7 @@
     },
     {
       "nome": "1_1_1 - Música",
-      "concluido": true
+      "concluido": false
     }
   ],
   "musicas": [
