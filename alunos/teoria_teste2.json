@@ -6,14 +6,14 @@
   "conceitos": [
     {
       "titulo": "1_5_1 - Pentagrama",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_1",
       "lote": "Período 1"
     },
     {
       "titulo": "1_5_2 - Cinco linhas",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_2",
       "lote": "Período 1"
@@ -27,7 +27,7 @@
     },
     {
       "titulo": "1_5_4 - Numeração das linhas e espaços",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_4",
       "lote": "Período 1"
@@ -41,14 +41,14 @@
     },
     {
       "titulo": "1_5_6 - Espaços suplementares",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_6",
       "lote": "Período 1"
     },
     {
       "titulo": "1_5_7 - Localização das notas no pentagrama",
-      "status": "revisar",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "1_5_7",
       "lote": "Período 1"
@@ -97,7 +97,7 @@
     },
     {
       "titulo": "3_5_1 - Metrônomo",
-      "status": "concluido",
+      "status": "pendente",
       "observacao": "",
       "numeroTopico": "3_5_1",
       "lote": "Período 1"
