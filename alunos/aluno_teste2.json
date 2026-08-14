@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T15:47:07.037Z",
+  "atualizadoEm": "2026-08-14T15:48:03.168Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -16,7 +16,7 @@
         },
         {
           "tom": "D",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "D#",
@@ -28,31 +28,31 @@
         },
         {
           "tom": "F",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "F#",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "G",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "G#",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "A",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "A#",
-          "concluido": false
+          "concluido": true
         },
         {
           "tom": "B",
-          "concluido": false
+          "concluido": true
         }
       ]
     },
@@ -109,157 +109,5 @@
         }
       ]
     }
-  ],
-  "periodo": {
-    "periodos": [
-      {
-        "id": "periodo1",
-        "nome": "Período 1",
-        "livro": "Método H. Lemoine / Hinário",
-        "fases": [
-          {
-            "id": "fase1",
-            "nome": "1ª Fase",
-            "conceitos": [
-              {
-                "id": "item_1786721376350_0",
-                "nome": "1_5_1 - Pentagrama",
-                "concluido": true
-              },
-              {
-                "id": "item_1786721376350_1",
-                "nome": "1_5_2 - Cinco linhas",
-                "concluido": true
-              },
-              {
-                "id": "item_1786721376350_2",
-                "nome": "1_5_3 - Quatro espaços",
-                "concluido": true
-              },
-              {
-                "id": "item_1786721376350_3",
-                "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_4",
-                "nome": "1_5_5 - Linhas suplementares",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_5",
-                "nome": "1_5_6 - Espaços suplementares",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_6",
-                "nome": "1_5_7 - Localização das notas no pentagrama",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_7",
-                "nome": "2_1_3 - Semibreve",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_8",
-                "nome": "2_1_4 - Mínima",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_9",
-                "nome": "2_1_5 - Semínima",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_10",
-                "nome": "2_2_1 - Compasso",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_11",
-                "nome": "2_3_1 - Barra de compasso simples",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_12",
-                "nome": "2_3_3 - Barra final",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721376350_13",
-                "nome": "3_5_1 - Metrônomo",
-                "concluido": false
-              }
-            ],
-            "tonalidades": [
-              {
-                "id": "item_1786721398527_0",
-                "nome": "brasil",
-                "concluido": false
-              },
-              {
-                "id": "item_1786721398527_1",
-                "nome": "bahia",
-                "concluido": false
-              }
-            ],
-            "musicas": [
-              {
-                "num": 1,
-                "itens": [
-                  {
-                    "id": "sub_1786721400143",
-                    "nome": "Estudo 1 - Tópico Inicial",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721412415_0",
-                    "nome": "beto",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721412415_1",
-                    "nome": "cal",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721412415_2",
-                    "nome": "dal",
-                    "concluido": false
-                  },
-                  {
-                    "id": "sub_1786721412415_3",
-                    "nome": "buga",
-                    "concluido": false
-                  }
-                ]
-              },
-              {
-                "id": "item_1786722414749_0",
-                "nome": "cal",
-                "concluido": false
-              },
-              {
-                "id": "item_1786722414749_1",
-                "nome": "beto",
-                "concluido": false
-              },
-              {
-                "id": "item_1786722414749_2",
-                "nome": "buga",
-                "concluido": false
-              },
-              {
-                "id": "item_1786722414749_3",
-                "nome": "dal",
-                "concluido": true
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "tonalidades": []
+  ]
 }
