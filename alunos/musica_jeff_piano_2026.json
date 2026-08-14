@@ -372,7 +372,7 @@
     },
     {
       "nome": "24279 - The Streamliner - John Thompson",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf",
       "pdfUrl": "",
@@ -380,7 +380,7 @@
     },
     {
       "nome": "24280 - To a Skyscraper - John Thompson",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf",
       "pdfUrl": "",
@@ -388,7 +388,7 @@
     },
     {
       "nome": "24281 - Dublin Town - John Thompson",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf",
       "pdfUrl": "",
@@ -396,14 +396,14 @@
     },
     {
       "nome": "24282 - John Peel - John Thompson",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "4504_pdf",
       "pdfUrl": "",
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-14T00:59:30.974Z",
+  "atualizadoEm": "2026-08-14T23:03:28.775Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
