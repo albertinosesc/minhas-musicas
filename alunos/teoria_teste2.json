@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T16:33:37.713Z",
+  "atualizadoEm": "2026-08-14T16:33:46.102Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
@@ -3464,7 +3464,7 @@
     },
     {
       "titulo": "2 - Dedilhado",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "2",
       "lote": "cal"
