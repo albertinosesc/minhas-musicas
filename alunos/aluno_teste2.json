@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T17:03:23.655Z",
+  "atualizadoEm": "2026-08-14T17:05:02.879Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2593,6 +2593,16 @@
                     "id": "con_1786724927114_1",
                     "nome": "1_6_6 - Clave de Sol na 2ª linha",
                     "concluido": true
+                  },
+                  {
+                    "id": "con_1786727096470_0",
+                    "nome": "1_5_1 - Pentagrama",
+                    "concluido": false
+                  },
+                  {
+                    "id": "con_1786727096470_1",
+                    "nome": "1_5_2 - Cinco linhas",
+                    "concluido": false
                   }
                 ]
               },
@@ -2683,7 +2693,7 @@
               {
                 "id": "item_1786724961938_13",
                 "nome": "3_5_1 - Metrônomo",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786726740079",
@@ -2710,6 +2720,11 @@
               {
                 "id": "item_1786725500049",
                 "nome": "1_1_1 - Música",
+                "concluido": false
+              },
+              {
+                "id": "item_1786727083182",
+                "nome": "1_5_1 - Pentagrama\n1_5_2 - Cinco linhas",
                 "concluido": false
               }
             ]
@@ -2775,7 +2790,7 @@
               {
                 "id": "item_1786726898366_0",
                 "nome": "1_5_1 - Pentagrama",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786726898366_1",
@@ -2837,7 +2852,7 @@
     },
     {
       "nome": "1_5_1 - Pentagrama",
-      "concluido": false
+      "concluido": true
     },
     {
       "nome": "1_5_2 - Cinco linhas",
@@ -2845,6 +2860,10 @@
     },
     {
       "nome": "1_5_3 - Quatro espaços",
+      "concluido": false
+    },
+    {
+      "nome": "1_5_1 - Pentagrama\n1_5_2 - Cinco linhas",
       "concluido": false
     }
   ],
