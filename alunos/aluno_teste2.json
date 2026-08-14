@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T14:48:18.018Z",
+  "atualizadoEm": "2026-08-14T14:49:36.274Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -86,7 +86,7 @@
               {
                 "id": "item_1786718894826_3",
                 "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": false
+                "concluido": true
               },
               {
                 "id": "item_1786718894826_4",
