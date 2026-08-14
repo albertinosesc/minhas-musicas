@@ -1,7 +1,7 @@
 {
   "alunoId": "teste2",
   "aluno": "teste2",
-  "atualizadoEm": "2026-08-14T16:36:17.561Z",
+  "atualizadoEm": "2026-08-14T16:38:25.169Z",
   "exercicios": [
     {
       "nome": "brasil",
@@ -2701,6 +2701,11 @@
                 "id": "item_1786724983825_2",
                 "nome": "3 - Dó Central",
                 "concluido": true
+              },
+              {
+                "id": "item_1786725500049",
+                "nome": "1_1_1 - Música",
+                "concluido": true
               }
             ]
           }
@@ -2720,6 +2725,10 @@
     },
     {
       "nome": "3 - Dó Central",
+      "concluido": true
+    },
+    {
+      "nome": "1_1_1 - Música",
       "concluido": true
     }
   ],
