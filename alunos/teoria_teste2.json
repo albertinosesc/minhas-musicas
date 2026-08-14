@@ -2,7 +2,7 @@
   "alunoId": "teste2",
   "aluno": "teste2",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T16:38:42.774Z",
+  "atualizadoEm": "2026-08-14T16:33:46.102Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
@@ -181,28 +181,28 @@
     },
     {
       "titulo": "1_5_3 - Quatro espaços",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_3",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_5_4 - Numeração das linhas e espaços",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_4",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_5_5 - Linhas suplementares",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_5",
       "lote": "2707_ccb_msa_pdf"
     },
     {
       "titulo": "1_5_6 - Espaços suplementares",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_6",
       "lote": "2707_ccb_msa_pdf"
