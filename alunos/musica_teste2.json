@@ -37,7 +37,7 @@
     },
     {
       "nome": "dal",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "Manual",
       "pdfUrl": "",
@@ -52,5 +52,5 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-14T15:26:28.897Z"
+  "atualizadoEm": "2026-08-14T15:26:46.503Z"
 }
