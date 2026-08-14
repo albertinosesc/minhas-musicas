@@ -188,7 +188,7 @@
     },
     {
       "titulo": "1_5_3 - Quatro espaços",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_5_3",
       "lote": "2707_ccb_msa_pdf"
@@ -3447,6 +3447,11 @@
       "observacao": "",
       "numeroTopico": "",
       "lote": "2707_ccb_msa_pdf"
+    },
+    {
+      "titulo": "1_4_1 - Notas Musicais (dó3,ré3)",
+      "status": "concluido",
+      "lote": "Período 1"
     }
   ],
   "lotesImportados": [
