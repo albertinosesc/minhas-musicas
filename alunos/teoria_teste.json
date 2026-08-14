@@ -2,7 +2,7 @@
   "alunoId": "teste",
   "aluno": "teste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-14T18:45:52.083Z",
+  "atualizadoEm": "2026-08-14T19:06:27.505Z",
   "conceitos": [
     {
       "titulo": "fds",
@@ -923,7 +923,7 @@
     },
     {
       "titulo": "3_5_1 - Metrônomo",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "3_5_1",
       "lote": "2707_ccb_msa_pdf"
