@@ -1,10 +1,12 @@
 {
   "id": "beto_trombone",
-  "aluno": "Beto_Tromhone",
-  "nome": "Beto_Tromhone",
+  "aluno": "Beto_Trombone",
+  "nome": "Beto_Trombone",
   "instrumento": "Trombone",
   "horario": "Não informado",
   "nivel": "Iniciante",
   "dataInicio": "2026-08-15",
-  "atualizadoEm": "2026-08-15T13:15:12.775Z"
+  "atualizadoEm": "2026-08-15T13:15:46.817Z",
+  "historico": [],
+  "observacoes": ""
 }
