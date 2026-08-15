@@ -2,11 +2,11 @@
   "alunoId": "betoteste",
   "aluno": "betoteste",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-15T12:21:19.620Z",
+  "atualizadoEm": "2026-08-15T12:21:32.021Z",
   "conceitos": [
     {
       "titulo": "1_1_1 - Música",
-      "status": "pendente",
+      "status": "concluido",
       "observacao": "",
       "numeroTopico": "1_1_1",
       "lote": "2707_ccb_msa_pdf"
