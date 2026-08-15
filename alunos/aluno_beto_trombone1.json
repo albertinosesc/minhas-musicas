@@ -37,7 +37,7 @@
       "G3"
     ]
   },
-  "atualizadoEm": "2026-08-15T13:47:07.517Z",
+  "atualizadoEm": "2026-08-15T13:52:40.546Z",
   "exercicios": [
     {
       "nome": "Ovelha de Maria",
@@ -149,7 +149,7 @@
         },
         {
           "tom": "C#3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
