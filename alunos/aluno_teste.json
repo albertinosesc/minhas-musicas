@@ -1,326 +1,79 @@
 {
-  "id": "teste",
+  "alunoId": "teste",
   "aluno": "teste",
-  "nome": "Teste",
-  "instrumento": "piano",
-  "horario": "Não informado",
-  "nivel": "Iniciante",
-  "dataInicio": "",
-  "atualizadoEm": "2026-08-14T19:57:36.376Z",
-  "adicional": [
-    {
-      "nome": "2_1_3 - Semibreve",
-      "concluido": true
-    },
-    {
-      "nome": "2_1_4 - Mínima",
-      "concluido": true
-    },
-    {
-      "nome": "2_1_5 - Semínima",
-      "concluido": true
-    },
-    {
-      "nome": "2_2_1 - Compasso",
-      "concluido": false
-    },
-    {
-      "nome": "2_3_1 - Barra de compasso simples",
-      "concluido": false
-    },
-    {
-      "nome": "2_3_3 - Barra final",
-      "concluido": false
-    },
-    {
-      "nome": "3_5_1 - Metrônomo",
-      "concluido": false
-    },
-    {
-      "nome": "1_5_1 - Pentagrama",
-      "concluido": true
-    },
-    {
-      "nome": "1_5_2 - Cinco linhas",
-      "concluido": false
-    },
-    {
-      "nome": "1_5_3 - Quatro espaços",
-      "concluido": false
-    },
-    {
-      "nome": "1_5_4 - Numeração das linhas e espaços",
-      "concluido": false
-    },
-    {
-      "nome": "1_5_5 - Linhas suplementares",
-      "concluido": false
-    },
-    {
-      "nome": "1_5_6 - Espaços suplementares",
-      "concluido": false
-    },
-    {
-      "nome": "1_5_7 - Localização das notas no pentagrama",
-      "concluido": false
-    }
-  ],
-  "musicas": [
-    {
-      "nome": "ewewe",
-      "concluido": false
-    },
-    {
-      "nome": "fefe",
-      "concluido": false
-    }
-  ],
-  "periodo": {
-    "periodos": [
-      {
-        "id": "periodo_1786731774367",
-        "nome": "casa",
-        "livro": "Método Geral",
-        "fases": [
-          {
-            "id": "fase_1786731774367",
-            "nome": "1ª Fase",
-            "geral": [
-              {
-                "id": "item_1786731789080_0",
-                "nome": "1_5_1 - Pentagrama",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_1",
-                "nome": "1_5_2 - Cinco linhas",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_2",
-                "nome": "1_5_3 - Quatro espaços",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_3",
-                "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_4",
-                "nome": "1_5_5 - Linhas suplementares",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_5",
-                "nome": "1_5_6 - Espaços suplementares",
-                "concluido": false
-              },
-              {
-                "id": "item_1786731789080_6",
-                "nome": "1_5_7 - Localização das notas no pentagrama",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_7",
-                "nome": "2_1_3 - Semibreve",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_8",
-                "nome": "2_1_4 - Mínima",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_9",
-                "nome": "2_1_5 - Semínima",
-                "concluido": false
-              },
-              {
-                "id": "item_1786731789080_10",
-                "nome": "2_2_1 - Compasso",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_11",
-                "nome": "2_3_1 - Barra de compasso simples",
-                "concluido": false
-              },
-              {
-                "id": "item_1786731789080_12",
-                "nome": "2_3_3 - Barra final",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731789080_13",
-                "nome": "3_5_1 - Metrônomo",
-                "concluido": true
-              },
-              {
-                "id": "item_1786735728434",
-                "nome": "1_6_7 - Clave de Fá (nota sol2)",
-                "concluido": false
-              },
-              {
-                "id": "item_1786736822680",
-                "nome": "1_1_1 - Música",
-                "concluido": true
-              },
-              {
-                "id": "item_1786737251760",
-                "nome": "1_1_2 - Som",
-                "concluido": true
-              },
-              {
-                "id": "item_1786737434719",
-                "nome": "2_3_1 - Barra de compasso simples",
-                "concluido": false
-              }
-            ],
-            "adicional": [
-              {
-                "id": "item_1786731807848_0",
-                "nome": "1_5_1 - Pentagrama",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731807848_1",
-                "nome": "1_5_2 - Cinco linhas",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731807848_2",
-                "nome": "1_5_3 - Quatro espaços",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731807848_3",
-                "nome": "1_5_4 - Numeração das linhas e espaços",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731807848_4",
-                "nome": "1_5_5 - Linhas suplementares",
-                "concluido": true
-              },
-              {
-                "id": "item_1786731807848_5",
-                "nome": "1_5_6 - Espaços suplementares",
-                "concluido": false
-              },
-              {
-                "id": "item_1786731807848_6",
-                "nome": "1_5_7 - Localização das notas no pentagrama",
-                "concluido": true
-              },
-              {
-                "id": "item_1786734316860",
-                "nome": "3_5_1 - Metrônomo",
-                "concluido": true
-              },
-              {
-                "id": "item_1786734720164",
-                "nome": "2_3_3 - Barra final",
-                "concluido": true
-              },
-              {
-                "id": "item_1786734896779",
-                "nome": "2_1_3 - Semibreve",
-                "concluido": true
-              },
-              {
-                "id": "item_1786734910283",
-                "nome": "2_1_4 - Mínima",
-                "concluido": true
-              },
-              {
-                "id": "item_1786735725250",
-                "nome": "1_6_7 - Clave de Fá (nota sol2)",
-                "concluido": false
-              },
-              {
-                "id": "item_1786736830552",
-                "nome": "1_1_1 - Música",
-                "concluido": true
-              },
-              {
-                "id": "item_1786737255400",
-                "nome": "1_1_2 - Som",
-                "concluido": true
-              },
-              {
-                "id": "item_1786737437711",
-                "nome": "2_3_1 - Barra de compasso simples",
-                "concluido": false
-              }
-            ],
-            "musicas": [
-              {
-                "id": "mus_1786731821471",
-                "nome": "fefe",
-                "concluido": false,
-                "conceitos": [
-                  {
-                    "id": "con_1786731825072_0",
-                    "nome": "1_6_6 - Clave de Sol (nota fá3)",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786731825072_1",
-                    "nome": "1_6_7 - Clave de Fá (nota sol2)",
-                    "concluido": false
-                  },
-                  {
-                    "id": "con_1786733072190",
-                    "nome": "1_5_3 - Quatro espaços",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786734321444",
-                    "nome": "3_5_1 - Metrônomo",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786734724755",
-                    "nome": "2_3_3 - Barra final",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786734900787",
-                    "nome": "2_1_3 - Semibreve",
-                    "concluido": false
-                  },
-                  {
-                    "id": "con_1786734914475",
-                    "nome": "2_1_4 - Mínima",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786734934747",
-                    "nome": "2_1_4 - Mínima",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786736826184",
-                    "nome": "1_1_1 - Música",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786737259288",
-                    "nome": "1_1_2 - Som",
-                    "concluido": true
-                  },
-                  {
-                    "id": "con_1786737441528",
-                    "nome": "2_3_1 - Barra de compasso simples",
-                    "concluido": false
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
+  "instrumento": {
+    "nome": "Piano",
+    "start": "C",
+    "count": 12,
+    "colunasNotas": [
+      "C4",
+      "C#4",
+      "D4",
+      "D#4",
+      "E4",
+      "F4",
+      "F#4",
+      "G4",
+      "G#4",
+      "A4",
+      "A#4",
+      "B4"
     ]
-  }
+  },
+  "atualizadoEm": "2026-08-15T11:53:40.040Z",
+  "exercicios": [
+    {
+      "nome": "Dese",
+      "tons": [
+        {
+          "tom": "C4",
+          "concluido": false
+        },
+        {
+          "tom": "C#4",
+          "concluido": true
+        },
+        {
+          "tom": "D4",
+          "concluido": false
+        },
+        {
+          "tom": "D#4",
+          "concluido": false
+        },
+        {
+          "tom": "E4",
+          "concluido": true
+        },
+        {
+          "tom": "F4",
+          "concluido": false
+        },
+        {
+          "tom": "F#4",
+          "concluido": true
+        },
+        {
+          "tom": "G4",
+          "concluido": true
+        },
+        {
+          "tom": "G#4",
+          "concluido": false
+        },
+        {
+          "tom": "A4",
+          "concluido": false
+        },
+        {
+          "tom": "A#4",
+          "concluido": false
+        },
+        {
+          "tom": "B4",
+          "concluido": false
+        }
+      ]
+    }
+  ]
 }
