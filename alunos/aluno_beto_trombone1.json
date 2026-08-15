@@ -37,7 +37,7 @@
       "G3"
     ]
   },
-  "atualizadoEm": "2026-08-15T13:19:27.094Z",
+  "atualizadoEm": "2026-08-15T13:38:47.815Z",
   "exercicios": [
     {
       "nome": "Ovelha de Maria",
@@ -84,67 +84,67 @@
         },
         {
           "tom": "C2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "C#2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "D2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "D#2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "E2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F#2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "G2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "G#2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "A2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "A#2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "B2",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "C3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
@@ -165,22 +165,22 @@
         {
           "tom": "E3",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "F3",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "F#3",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "G3",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         }
       ]
     }
