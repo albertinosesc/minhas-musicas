@@ -37,49 +37,49 @@
       "G3"
     ]
   },
-  "atualizadoEm": "2026-08-15T13:38:47.815Z",
+  "atualizadoEm": "2026-08-15T13:47:07.517Z",
   "exercicios": [
     {
       "nome": "Ovelha de Maria",
       "tons": [
         {
           "tom": "E1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F#1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "G1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "G#1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "A1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "A#1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "B1",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
