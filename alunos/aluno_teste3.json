@@ -1,10 +1,61 @@
 {
-  "id": "teste3",
-  "aluno": "Teste3",
-  "nome": "Teste3",
+  "alunoId": "teste3",
+  "aluno": "teste3",
   "instrumento": "Violino",
-  "horario": "Não informado",
-  "nivel": "Iniciante",
-  "dataInicio": "",
-  "atualizadoEm": "2026-08-15T12:15:21.807Z"
+  "atualizadoEm": "2026-08-15T12:28:06.372Z",
+  "exercicios": [
+    {
+      "nome": "Desestrr",
+      "tons": [
+        {
+          "tom": "C3",
+          "concluido": false
+        },
+        {
+          "tom": "C#3",
+          "concluido": false
+        },
+        {
+          "tom": "D3",
+          "concluido": true
+        },
+        {
+          "tom": "D#3",
+          "concluido": false
+        },
+        {
+          "tom": "E3",
+          "concluido": true
+        },
+        {
+          "tom": "F3",
+          "concluido": false
+        },
+        {
+          "tom": "F#3",
+          "concluido": true
+        },
+        {
+          "tom": "G3",
+          "concluido": false
+        },
+        {
+          "tom": "G#3",
+          "concluido": false
+        },
+        {
+          "tom": "A3",
+          "concluido": false
+        },
+        {
+          "tom": "A#3",
+          "concluido": true
+        },
+        {
+          "tom": "B3",
+          "concluido": false
+        }
+      ]
+    }
+  ]
 }
