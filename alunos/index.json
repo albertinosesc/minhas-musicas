@@ -125,6 +125,12 @@
       "nome": "Teste3",
       "instrumento": "Violino",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "betoteste",
+      "nome": "Betoteste",
+      "instrumento": "Gaita",
+      "nivel": "Iniciante"
     }
   ]
 }
