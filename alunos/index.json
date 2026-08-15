@@ -113,6 +113,12 @@
       "nome": "teste2",
       "instrumento": "piano",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "beto_gaita",
+      "nome": "Beto",
+      "instrumento": "Gaita",
+      "nivel": "Iniciante"
     }
   ]
 }
