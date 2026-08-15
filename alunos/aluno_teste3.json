@@ -38,7 +38,7 @@
       "B4"
     ]
   },
-  "atualizadoEm": "2026-08-15T12:38:41.147Z",
+  "atualizadoEm": "2026-08-15T13:08:56.304Z",
   "exercicios": [
     {
       "nome": "Tutut",
@@ -130,63 +130,63 @@
         },
         {
           "tom": "C4",
-          "concluido": true,
-          "nulo": false
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "C#4",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "D4",
-          "concluido": true,
-          "nulo": false
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "D#4",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "E4",
-          "concluido": true,
-          "nulo": false
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "F4",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "F#4",
-          "concluido": true,
-          "nulo": false
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "G4",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "G#4",
-          "concluido": true,
-          "nulo": false
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "A4",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "A#4",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         },
         {
           "tom": "B4",
           "concluido": false,
-          "nulo": false
+          "nulo": true
         }
       ]
     },
@@ -302,6 +302,156 @@
           "tom": "E4",
           "concluido": false,
           "nulo": false
+        },
+        {
+          "tom": "F4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "F#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "G4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "G#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "A4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "A#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "B4",
+          "concluido": false,
+          "nulo": true
+        }
+      ]
+    },
+    {
+      "nome": "Gtfgv",
+      "tons": [
+        {
+          "tom": "G2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G#2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A#2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "B2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "E3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "B3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "C#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "D4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "D#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "E4",
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "F4",
