@@ -131,12 +131,6 @@
       "nome": "Betoteste",
       "instrumento": "Gaita",
       "nivel": "Iniciante"
-    },
-    {
-      "id": "beto_trombone",
-      "nome": "Beto_Tromhone",
-      "instrumento": "Trombone",
-      "nivel": "Iniciante"
     }
   ]
 }
