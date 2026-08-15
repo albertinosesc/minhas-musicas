@@ -37,7 +37,7 @@
       "G3"
     ]
   },
-  "atualizadoEm": "2026-08-15T13:52:40.546Z",
+  "atualizadoEm": "2026-08-15T14:16:20.956Z",
   "exercicios": [
     {
       "nome": "Ovelha de Maria",
@@ -161,6 +161,151 @@
           "tom": "D#3",
           "concluido": false,
           "nulo": false
+        },
+        {
+          "tom": "E3",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "F3",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "F#3",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "G3",
+          "concluido": false,
+          "nulo": true
+        }
+      ]
+    },
+    {
+      "nome": "May Song",
+      "tons": [
+        {
+          "tom": "E1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F#1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G#1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A#1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "B1",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C#2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D#2",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "E2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "F2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "F#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "B2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C#3",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "D3",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "D#3",
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "E3",
