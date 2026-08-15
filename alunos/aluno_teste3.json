@@ -1,59 +1,342 @@
 {
   "alunoId": "teste3",
   "aluno": "teste3",
-  "instrumento": "Violino",
-  "atualizadoEm": "2026-08-15T12:28:06.372Z",
+  "instrumento": {
+    "key": "custom_violino_1_posicao",
+    "nome": "Violino 1 posição",
+    "start": "G2",
+    "end": "B4",
+    "colunasNotas": [
+      "G2",
+      "G#2",
+      "A2",
+      "A#2",
+      "B2",
+      "C3",
+      "C#3",
+      "D3",
+      "D#3",
+      "E3",
+      "F3",
+      "F#3",
+      "G3",
+      "G#3",
+      "A3",
+      "A#3",
+      "B3",
+      "C4",
+      "C#4",
+      "D4",
+      "D#4",
+      "E4",
+      "F4",
+      "F#4",
+      "G4",
+      "G#4",
+      "A4",
+      "A#4",
+      "B4"
+    ]
+  },
+  "atualizadoEm": "2026-08-15T12:38:41.147Z",
   "exercicios": [
     {
-      "nome": "Desestrr",
+      "nome": "Tutut",
       "tons": [
         {
+          "tom": "G2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "B2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
           "tom": "C3",
-          "concluido": false
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "C#3",
-          "concluido": false
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "D3",
-          "concluido": true
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "D#3",
-          "concluido": false
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "E3",
-          "concluido": true
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "F3",
-          "concluido": false
+          "concluido": true,
+          "nulo": false
         },
         {
           "tom": "F#3",
-          "concluido": true
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "G3",
-          "concluido": false
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "G#3",
-          "concluido": false
+          "concluido": true,
+          "nulo": false
         },
         {
           "tom": "A3",
-          "concluido": false
+          "concluido": false,
+          "nulo": false
         },
         {
           "tom": "A#3",
-          "concluido": true
+          "concluido": true,
+          "nulo": false
         },
         {
           "tom": "B3",
-          "concluido": false
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "D4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "E4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "F#4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G#4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "B4",
+          "concluido": false,
+          "nulo": false
+        }
+      ]
+    },
+    {
+      "nome": "Ytred",
+      "tons": [
+        {
+          "tom": "G2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "B2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C#3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "D3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D#3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "E3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F#3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G#3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A#3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "B3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C#4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "D#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "E4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "F4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "F#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "G4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "G#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "A4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "A#4",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "B4",
+          "concluido": false,
+          "nulo": true
         }
       ]
     }
