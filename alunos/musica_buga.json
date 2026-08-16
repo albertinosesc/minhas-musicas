@@ -129,7 +129,7 @@
       "title": "4432 - At The Zoo - Leila Fletcher",
       "composer": "",
       "pdfUrl": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "2980_pdf",
       "abcFile": ""
@@ -140,7 +140,7 @@
       "title": "4433 - Humpty Dumpty - Leila Fletcher",
       "composer": "",
       "pdfUrl": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "2980_pdf",
       "abcFile": ""
@@ -1235,11 +1235,11 @@
       "lote": "7019_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-16T21:03:31.424Z",
+  "atualizadoEm": "2026-08-16T21:12:56.709Z",
   "lotesTempo": {
     "2980_pdf": {
       "tempoSegundos": 23,
-      "ultimaAtualizacao": "2026-08-16T21:03:30.856Z",
+      "ultimaAtualizacao": "2026-08-16T21:12:56.109Z",
       "status": "pausado"
     }
   }
