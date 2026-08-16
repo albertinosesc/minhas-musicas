@@ -18,77 +18,77 @@
     },
     {
       "nome": "24142 - Puppets on Parade - Oesten",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24143 - Swimming Under Water - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24144 - A.M. and P.M. - Edvard Grieg / Frédéric Chopin",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24145 - Mazurka - Camille Saint",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24146 - Handel Bars - George Frideric Handel",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24147 - The Three B's - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24148 - Throwing Paper Airplanes - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24149 - Air Mail - Felix Mendelssohn",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24150 - It Was in the Good Old Summertime - Fritz Spindler",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24151 - Robert the Robot - Oesten",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24152 - Git Along, Little Dogies - American Cowboy Song",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
@@ -238,7 +238,7 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-14T23:00:57.039Z",
+  "atualizadoEm": "2026-08-16T02:11:23.816Z",
   "lotesTempo": {
     "6936_pdf": {
       "tempoSegundos": 0,
@@ -252,7 +252,7 @@
     },
     "6937_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-08-14T23:00:56.612Z",
+      "ultimaAtualizacao": "2026-08-16T02:11:23.314Z",
       "status": "pausado"
     }
   }
