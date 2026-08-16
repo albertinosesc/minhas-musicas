@@ -152,7 +152,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -163,7 +163,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -174,7 +174,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -185,7 +185,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -196,7 +196,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -207,7 +207,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -218,7 +218,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -229,7 +229,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -355,7 +355,7 @@
       "lote": "6937_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-14T23:33:04.570Z",
+  "atualizadoEm": "2026-08-16T03:17:04.019Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
@@ -363,8 +363,8 @@
       "status": "pausado"
     },
     "6937_pdf": {
-      "tempoSegundos": 1359,
-      "ultimaAtualizacao": "2026-08-14T23:33:04.089Z",
+      "tempoSegundos": 4387,
+      "ultimaAtualizacao": "2026-08-16T03:17:03.570Z",
       "status": "pausado"
     }
   }
