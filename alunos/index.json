@@ -137,6 +137,12 @@
       "nome": "Beto_Trombone",
       "instrumento": "Trombone",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "sesc_1ano",
+      "nome": "Sesc-1 Ano",
+      "instrumento": "Educação Musical",
+      "nivel": "Iniciante"
     }
   ]
 }
