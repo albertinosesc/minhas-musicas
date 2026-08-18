@@ -240,7 +240,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -251,7 +251,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -262,7 +262,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -273,7 +273,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -284,7 +284,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -295,7 +295,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -306,7 +306,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -317,7 +317,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -328,7 +328,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -339,7 +339,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "6937_pdf"
     },
@@ -355,7 +355,7 @@
       "lote": "6937_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-16T03:17:04.019Z",
+  "atualizadoEm": "2026-08-18T00:42:39.878Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
@@ -363,8 +363,8 @@
       "status": "pausado"
     },
     "6937_pdf": {
-      "tempoSegundos": 4387,
-      "ultimaAtualizacao": "2026-08-16T03:17:03.570Z",
+      "tempoSegundos": 7395,
+      "ultimaAtualizacao": "2026-08-18T00:42:39.290Z",
       "status": "pausado"
     }
   }
