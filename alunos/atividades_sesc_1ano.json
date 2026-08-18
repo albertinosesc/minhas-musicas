@@ -1,0 +1,16 @@
+{
+  "alunoId": "sesc_1ano",
+  "aluno": "sesc_1ano",
+  "tipo": "atividades",
+  "atualizadoEm": "2026-08-18T17:29:48.804Z",
+  "atividades": [
+    {
+      "titulo": "1_Notas Musicais",
+      "status": "pendente",
+      "observacao": "",
+      "numeroAtividade": "1",
+      "lote": "Geral"
+    }
+  ],
+  "lotesImportados": []
+}
