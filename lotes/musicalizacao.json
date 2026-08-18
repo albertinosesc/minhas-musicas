@@ -1,0 +1,19 @@
+{
+  "id": "musicalizacao",
+  "tipo": "teoria",
+  "criadoEm": "2026-08-18T18:30:28.201Z",
+  "conceitos": [
+    {
+      "titulo": "1_1 - Notas Musicais",
+      "concluido": false
+    },
+    {
+      "titulo": "1_2 - Altura",
+      "concluido": false
+    },
+    {
+      "titulo": "1_3 - Intensidade",
+      "concluido": false
+    }
+  ]
+}
