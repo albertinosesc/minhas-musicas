@@ -1,10 +1,10 @@
 {
   "id": "lote_nbm_tarefa",
   "tipo": "teoria",
-  "criadoEm": "2026-08-19T13:04:41.228Z",
+  "criadoEm": "2026-08-19T13:06:58.276Z",
   "conceitos": [
     {
-      "titulo": "sintaxe dos arquivos",
+      "titulo": "19_1 - sintaxe dos arquivos",
       "concluido": false
     }
   ]
