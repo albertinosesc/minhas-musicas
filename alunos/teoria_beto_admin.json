@@ -2,14 +2,21 @@
   "alunoId": "beto_admin",
   "aluno": "beto_admin",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-19T13:07:30.447Z",
+  "atualizadoEm": "2026-08-19T14:00:55.884Z",
   "conceitos": [
     {
-      "titulo": "sintaxe dos arquivos",
+      "titulo": "19_1 - sintaxe dos arquivos",
       "status": "pendente",
       "observacao": "",
-      "numeroTopico": "",
+      "numeroTopico": "19_1",
       "lote": "lote-nbm_tarefa"
+    },
+    {
+      "titulo": "19_2 - manuntenção",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "19_2",
+      "lote": "Geral"
     }
   ],
   "lotesImportados": [
