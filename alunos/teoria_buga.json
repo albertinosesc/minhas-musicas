@@ -1,79 +1,151 @@
 {
-  "aluno": "Buga",
+  "alunoId": "buga",
+  "aluno": "buga",
   "tipo": "teoria",
-  "atualizadoEm": "2026-07-25T00:25:35.536Z",
+  "atualizadoEm": "2026-08-19T12:50:56.866Z",
   "conceitos": [
     {
       "titulo": "1. Desenhar Pentagrama",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "1",
+      "lote": "Geral"
     },
     {
       "titulo": "2. Pentagrama: Numerar linhas de baixo para cima",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "2",
+      "lote": "Geral"
     },
     {
       "titulo": "3. Pentagrama: Numerar espaços de baixo para cima",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "3",
+      "lote": "Geral"
     },
     {
       "titulo": "4. Desenhar clave de sol",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "4",
+      "lote": "Geral"
     },
     {
       "titulo": "5. Barra final",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "5",
+      "lote": "Geral"
     },
     {
       "titulo": "6. Barra de compasso",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "6",
+      "lote": "Geral"
     },
     {
       "titulo": "7. Compasso",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "7",
+      "lote": "Geral"
     },
     {
       "titulo": "8. Semínima",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "8",
+      "lote": "Geral"
     },
     {
       "titulo": "9. Mínima",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "9",
+      "lote": "Geral"
     },
     {
       "titulo": "10. Semibreve",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "10",
+      "lote": "Geral"
     },
     {
       "titulo": "11. Mínima pontuada",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "11",
+      "lote": "Geral"
     },
     {
       "titulo": "12. Pausa da semínima",
-      "concluido": true
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "12",
+      "lote": "Geral"
     },
     {
       "titulo": "13. Pausa da semibreve",
-      "concluido": false
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "13",
+      "lote": "Geral"
     },
     {
       "titulo": "14. Pausa da mínima",
-      "concluido": false
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "14",
+      "lote": "Geral"
     },
     {
       "titulo": "15. Pausa da mínima pontuada",
-      "concluido": false
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "15",
+      "lote": "Geral"
     },
     {
       "titulo": "16. Notas musicais no pentagrama",
-      "concluido": false
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "16",
+      "lote": "Geral"
     },
     {
       "titulo": "17. Cifra",
-      "concluido": false
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "17",
+      "lote": "Geral"
     },
     {
       "titulo": "18. Graus",
-      "concluido": false
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "18",
+      "lote": "Geral"
+    },
+    {
+      "titulo": "18_1_1 - Orientação.",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "18_1_1",
+      "lote": "lote-buga_escrita"
+    },
+    {
+      "titulo": "18_1_2 - Objetivos.",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "18_1_2",
+      "lote": "lote-buga_escrita"
     }
+  ],
+  "lotesImportados": [
+    "lote-buga_escrita"
   ]
 }
