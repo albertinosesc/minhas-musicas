@@ -1,0 +1,18 @@
+{
+  "alunoId": "beto_admin",
+  "aluno": "beto_admin",
+  "tipo": "teoria",
+  "atualizadoEm": "2026-08-19T13:07:30.447Z",
+  "conceitos": [
+    {
+      "titulo": "sintaxe dos arquivos",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "",
+      "lote": "lote-nbm_tarefa"
+    }
+  ],
+  "lotesImportados": [
+    "lote-nbm_tarefa"
+  ]
+}
