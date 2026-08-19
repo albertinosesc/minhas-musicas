@@ -1,11 +1,16 @@
 {
   "id": "20_modulo",
   "tipo": "teoria",
-  "criadoEm": "2026-08-19T15:12:30.503Z",
+  "criadoEm": "2026-08-19T15:21:20.112Z",
   "conceitos": [
     {
       "titulo": "20_1_1 - Clave de Sol",
       "concluido": false
+    },
+    {
+      "titulo": "20_1_2 - Clave de Fá",
+      "concluido": false
     }
-  ]
+  ],
+  "atualizadoEm": "2026-08-19T15:21:20.112Z"
 }
