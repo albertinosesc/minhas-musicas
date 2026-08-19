@@ -2,7 +2,7 @@
   "alunoId": "buga",
   "aluno": "buga",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-19T12:50:56.866Z",
+  "atualizadoEm": "2026-08-19T12:51:16.863Z",
   "conceitos": [
     {
       "titulo": "1. Desenhar Pentagrama",
@@ -143,9 +143,24 @@
       "observacao": "",
       "numeroTopico": "18_1_2",
       "lote": "lote-buga_escrita"
+    },
+    {
+      "titulo": "18_2_1 - Orientação.",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "18_2_1",
+      "lote": "lote buga_pintura"
+    },
+    {
+      "titulo": "18_2_2 - Objetivos.",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "18_2_2",
+      "lote": "lote buga_pintura"
     }
   ],
   "lotesImportados": [
-    "lote-buga_escrita"
+    "lote-buga_escrita",
+    "lote buga_pintura"
   ]
 }
