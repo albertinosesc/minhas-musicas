@@ -143,6 +143,12 @@
       "nome": "Sesc-1 Ano",
       "instrumento": "Educação Musical",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "beto_admin",
+      "nome": "beto_admin",
+      "instrumento": "direção",
+      "nivel": "Iniciante"
     }
   ]
 }
