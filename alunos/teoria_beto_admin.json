@@ -2,7 +2,7 @@
   "alunoId": "beto_admin",
   "aluno": "beto_admin",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-19T14:01:21.305Z",
+  "atualizadoEm": "2026-08-19T15:18:10.192Z",
   "conceitos": [
     {
       "titulo": "19_1 - sintaxe dos arquivos",
@@ -17,9 +17,17 @@
       "observacao": "",
       "numeroTopico": "19_2",
       "lote": "Geral"
+    },
+    {
+      "titulo": "20 - Módulo: Elementos da Escrita Musical",
+      "status": "pendente",
+      "observacao": "",
+      "numeroTopico": "20",
+      "lote": "modulos"
     }
   ],
   "lotesImportados": [
-    "lote-nbm_tarefa"
+    "lote-nbm_tarefa",
+    "modulos"
   ]
 }
