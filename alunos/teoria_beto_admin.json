@@ -2,7 +2,7 @@
   "alunoId": "beto_admin",
   "aluno": "beto_admin",
   "tipo": "teoria",
-  "atualizadoEm": "2026-08-19T15:20:51.809Z",
+  "atualizadoEm": "2026-08-19T15:23:13.936Z",
   "conceitos": [
     {
       "titulo": "19_1 - sintaxe dos arquivos",
@@ -24,18 +24,10 @@
       "observacao": "",
       "numeroTopico": "20",
       "lote": "modulos"
-    },
-    {
-      "titulo": "20_1_1 - Clave de Sol",
-      "status": "pendente",
-      "observacao": "",
-      "numeroTopico": "20_1_1",
-      "lote": "20_modulo"
     }
   ],
   "lotesImportados": [
     "lote-nbm_tarefa",
-    "modulos",
-    "20_modulo"
+    "modulos"
   ]
 }
