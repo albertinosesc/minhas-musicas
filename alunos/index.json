@@ -149,6 +149,12 @@
       "nome": "beto_admin",
       "instrumento": "direção",
       "nivel": "Iniciante"
+    },
+    {
+      "id": "jeff_flauta_soprano",
+      "nome": "jeff-flauta-soprano",
+      "instrumento": "Flauta  Doce Soprano",
+      "nivel": "Iniciante"
     }
   ]
 }
