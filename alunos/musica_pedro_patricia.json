@@ -10,14 +10,14 @@
     },
     {
       "nome": "Atirei o pau no gato",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "Geral",
       "abcFile": ""
     },
     {
       "nome": "Brilha, Brilha Estrelinha",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "Manual",
       "pdfUrl": "",
@@ -25,7 +25,7 @@
     },
     {
       "nome": "Canção Francesa",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "Manual",
       "pdfUrl": "",
@@ -33,7 +33,7 @@
     },
     {
       "nome": "Eu sou um cordeirinho",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "Manual",
       "pdfUrl": "",
@@ -41,7 +41,15 @@
     },
     {
       "nome": "Meu Lanchinho",
-      "status": "Em Estudo",
+      "status": "Em Andamento",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "Forasteiro sou no mundo - 473",
+      "status": "Em Andamento",
       "obs": "",
       "lote": "Manual",
       "pdfUrl": "",
@@ -49,5 +57,5 @@
     }
   ],
   "alunoId": "pedro_patricia",
-  "atualizadoEm": "2026-08-22T10:36:44.020Z"
+  "atualizadoEm": "2026-08-22T11:11:44.524Z"
 }
