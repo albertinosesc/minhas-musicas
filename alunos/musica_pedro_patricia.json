@@ -1,15 +1,53 @@
 {
-  "aluno": "Pedro_Patricia",
+  "aluno": "pedro_patricia",
   "repertorio": [
     {
       "nome": "23545 - Pirulito que Bate bate",
       "status": "Em Estudo",
-      "obs": ""
+      "obs": "",
+      "lote": "Geral",
+      "abcFile": ""
     },
     {
       "nome": "Atirei o pau no gato",
       "status": "Em Estudo",
-      "obs": ""
+      "obs": "",
+      "lote": "Geral",
+      "abcFile": ""
+    },
+    {
+      "nome": "Brilha, Brilha Estrelinha",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "Canção Francesa",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "Eu sou um cordeirinho",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
+    },
+    {
+      "nome": "Meu Lanchinho",
+      "status": "Em Estudo",
+      "obs": "",
+      "lote": "Manual",
+      "pdfUrl": "",
+      "abcFile": ""
     }
-  ]
+  ],
+  "alunoId": "pedro_patricia",
+  "atualizadoEm": "2026-08-22T10:36:44.020Z"
 }
