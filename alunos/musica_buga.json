@@ -151,7 +151,7 @@
       "title": "4434 - The Giant - Leila Fletcher",
       "composer": "",
       "pdfUrl": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "2980_pdf",
       "abcFile": ""
@@ -162,7 +162,7 @@
       "title": "4435 - Flute Song - Leila Fletcher",
       "composer": "",
       "pdfUrl": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "2980_pdf",
       "abcFile": ""
@@ -2225,11 +2225,11 @@
       "lote": "4885_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-28T17:57:40.173Z",
+  "atualizadoEm": "2026-08-28T22:07:08.658Z",
   "lotesTempo": {
     "2980_pdf": {
       "tempoSegundos": 23,
-      "ultimaAtualizacao": "2026-08-16T21:12:56.109Z",
+      "ultimaAtualizacao": "2026-08-28T22:07:08.129Z",
       "status": "pausado"
     },
     "1447_pdf": {
