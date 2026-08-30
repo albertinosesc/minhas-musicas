@@ -812,7 +812,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7019_pdf"
     },
@@ -823,7 +823,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7019_pdf"
     },
@@ -834,7 +834,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7019_pdf"
     },
@@ -845,7 +845,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7019_pdf"
     },
@@ -856,7 +856,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7019_pdf"
     },
@@ -867,7 +867,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7019_pdf"
     },
@@ -878,7 +878,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7019_pdf"
     },
@@ -2225,7 +2225,7 @@
       "lote": "4885_pdf"
     }
   ],
-  "atualizadoEm": "2026-08-28T22:07:12.543Z",
+  "atualizadoEm": "2026-08-30T22:07:58.316Z",
   "lotesTempo": {
     "2980_pdf": {
       "tempoSegundos": 23,
@@ -2244,7 +2244,7 @@
     },
     "7019_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-08-28T17:57:39.432Z",
+      "ultimaAtualizacao": "2026-08-30T22:07:57.646Z",
       "status": "pausado"
     }
   }
