@@ -922,5 +922,11 @@
       "ultimaAtualizacao": "2026-09-02T00:57:05.239Z",
       "status": "pausado"
     }
+  },
+  "lotesStatus": {
+    "6937_pdf": {
+      "status": "Em Andamento",
+      "atualizadoEm": "2026-09-02T20:13:40.056Z"
+    }
   }
 }
