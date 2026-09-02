@@ -1224,7 +1224,7 @@
       "lote": "39_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-02T20:17:21.626Z",
+  "atualizadoEm": "2026-09-02T20:18:26.983Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
@@ -1243,7 +1243,7 @@
     },
     "39_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-09-02T20:17:21.246Z",
+      "ultimaAtualizacao": "2026-09-02T20:18:26.597Z",
       "status": "pausado"
     }
   },
