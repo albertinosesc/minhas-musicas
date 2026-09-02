@@ -828,18 +828,18 @@
       "lote": "1447_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-02T01:53:16.580Z",
+  "atualizadoEm": "2026-09-02T01:53:59.438Z",
   "lotesTempo": {
     "1447_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-09-02T01:53:16.172Z",
+      "ultimaAtualizacao": "2026-09-02T01:53:59.013Z",
       "status": "pausado"
     }
   },
   "lotesStatus": {
     "1447_pdf": {
       "status": "Em Andamento",
-      "atualizadoEm": "2026-09-02T01:53:51.798Z"
+      "atualizadoEm": "2026-09-02T01:53:59.013Z"
     }
   }
 }
