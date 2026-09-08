@@ -603,6 +603,223 @@
       "totalMusicas": 50,
       "tempoCronometro": 2407,
       "tempoFormatado": "00:40:07"
+    },
+    {
+      "id": "39_pdf",
+      "nome": "39_pdf",
+      "musicas": [
+        {
+          "nome": "24805 - Gotas de Orvalho - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24806 - O sino da Capela - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24807 - Flores do campo - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24808 - Carnaval - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24809 - A Colombina - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24810 - O Arlequim - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24811 - O Pierrot - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24812 - Minha primeira Valsa - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24813 - O Garimpeiro - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24814 - A Rosa - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24815 - O Jardineiro - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24816 - O Beija Flor - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24817 - O Caçador - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24818 - O Lenhador - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24819 - Toque de Clarim - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24820 - Estudo em Sol Maior - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24821 - Cavalgando - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24822 - O filho do Escravo - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24823 - O Tambor - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24824 - Mimosa - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24825 - O Pescador - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24826 - O lago azul - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24827 - Trovador ao Luar - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24828 - A Estrelinha que corre - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24829 - Batuque na Senzala - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24830 - Nos Alpes - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24831 - O Vento e a Brisa - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24832 - Recordações da infância - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24833 - Abelhas na Colméia - Mario Mascarenhas",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        }
+      ],
+      "alunoId": "jeff_piano_2026",
+      "alunoNome": "jeff-piano",
+      "dataInicio": "2026-09-08T20:45:02.842Z",
+      "dataConclusao": "2026-09-08T20:47:58.543Z",
+      "dataArquivamento": "2026-09-08T20:47:58.543Z",
+      "totalMusicas": 29,
+      "tempoCronometro": 1040,
+      "tempoFormatado": "00:17:20"
     }
   ],
   "lotes": {
@@ -617,7 +834,13 @@
       "dataArquivamento": "2026-08-14T23:07:06.248Z",
       "totalMusicas": 50,
       "tempoCronometro": 2407
+    },
+    "39_pdf": {
+      "dataInicio": "2026-09-08T20:45:02.842Z",
+      "dataArquivamento": "2026-09-08T20:47:58.543Z",
+      "totalMusicas": 29,
+      "tempoCronometro": 1040
     }
   },
-  "atualizadoEm": "2026-08-14T23:07:06.248Z"
+  "atualizadoEm": "2026-09-08T20:47:58.543Z"
 }
