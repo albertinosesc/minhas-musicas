@@ -1142,7 +1142,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     },
@@ -1153,7 +1153,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     },
@@ -1164,7 +1164,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     },
@@ -1175,7 +1175,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     },
@@ -1186,7 +1186,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     },
@@ -1197,7 +1197,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     },
@@ -1208,7 +1208,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     },
@@ -1219,12 +1219,12 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "39_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-07T02:05:05.037Z",
+  "atualizadoEm": "2026-09-08T20:45:03.328Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
@@ -1243,7 +1243,7 @@
     },
     "39_pdf": {
       "tempoSegundos": 1040,
-      "ultimaAtualizacao": "2026-09-07T02:05:04.449Z",
+      "ultimaAtualizacao": "2026-09-08T20:45:02.842Z",
       "status": "pausado"
     }
   },
@@ -1254,7 +1254,7 @@
     },
     "39_pdf": {
       "status": "Em Estudo",
-      "atualizadoEm": "2026-09-07T02:05:04.449Z"
+      "atualizadoEm": "2026-09-08T20:45:02.842Z"
     }
   }
 }
