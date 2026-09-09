@@ -2720,7 +2720,7 @@
       "lote": "1480_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-09T21:27:19.723Z",
+  "atualizadoEm": "2026-09-09T21:34:23.792Z",
   "lotesTempo": {
     "2980_pdf": {
       "tempoSegundos": 23,
@@ -2734,7 +2734,7 @@
     },
     "4885_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-09-09T21:27:19.159Z",
+      "ultimaAtualizacao": "2026-09-09T21:34:23.293Z",
       "status": "pausado"
     },
     "7019_pdf": {
@@ -2755,7 +2755,7 @@
     },
     "4885_pdf": {
       "status": "Em Estudo",
-      "atualizadoEm": "2026-09-09T21:27:19.159Z"
+      "atualizadoEm": "2026-09-09T21:34:23.293Z"
     }
   }
 }
