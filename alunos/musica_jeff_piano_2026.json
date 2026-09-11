@@ -746,7 +746,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -757,7 +757,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -768,7 +768,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -779,7 +779,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -790,7 +790,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -905,7 +905,7 @@
       "lote": "7369_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-09T22:03:10.138Z",
+  "atualizadoEm": "2026-09-11T01:15:30.203Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
@@ -925,6 +925,11 @@
     "39_pdf": {
       "tempoSegundos": 1040,
       "ultimaAtualizacao": "2026-09-08T20:47:59.929Z",
+      "status": "pausado"
+    },
+    "4885_pdf": {
+      "tempoSegundos": 0,
+      "ultimaAtualizacao": "2026-09-11T01:15:29.678Z",
       "status": "pausado"
     }
   },
