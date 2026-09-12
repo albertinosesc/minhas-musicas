@@ -801,7 +801,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -905,7 +905,7 @@
       "lote": "7369_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-11T01:15:30.203Z",
+  "atualizadoEm": "2026-09-12T01:03:32.490Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
@@ -929,7 +929,7 @@
     },
     "4885_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-09-11T01:15:29.678Z",
+      "ultimaAtualizacao": "2026-09-12T01:03:32.086Z",
       "status": "pausado"
     }
   },
