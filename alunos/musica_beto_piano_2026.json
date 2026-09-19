@@ -95,21 +95,21 @@
     },
     {
       "nome": "24153 - From Pole to Pole - John W. Schaum",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24154 - Chinese Serenade - H. Fliege",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
     },
     {
       "nome": "24155 - Sun Dial Waltz - Frédéric Chopin",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "6937_pdf",
       "abcFile": ""
@@ -238,7 +238,7 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-08-16T02:11:23.816Z",
+  "atualizadoEm": "2026-09-19T12:01:12.269Z",
   "lotesTempo": {
     "6936_pdf": {
       "tempoSegundos": 0,
@@ -252,8 +252,14 @@
     },
     "6937_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-08-16T02:11:23.314Z",
+      "ultimaAtualizacao": "2026-09-19T12:01:11.800Z",
       "status": "pausado"
+    }
+  },
+  "lotesStatus": {
+    "6937_pdf": {
+      "status": "Em Estudo",
+      "atualizadoEm": "2026-09-19T12:01:11.800Z"
     }
   }
 }
