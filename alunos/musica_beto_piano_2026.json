@@ -238,7 +238,7 @@
       "abcFile": ""
     }
   ],
-  "atualizadoEm": "2026-09-19T12:01:12.269Z",
+  "atualizadoEm": "2026-09-19T18:51:21.260Z",
   "lotesTempo": {
     "6936_pdf": {
       "tempoSegundos": 0,
@@ -252,14 +252,14 @@
     },
     "6937_pdf": {
       "tempoSegundos": 0,
-      "ultimaAtualizacao": "2026-09-19T12:01:11.800Z",
+      "ultimaAtualizacao": "2026-09-19T18:51:20.798Z",
       "status": "pausado"
     }
   },
   "lotesStatus": {
     "6937_pdf": {
       "status": "Em Estudo",
-      "atualizadoEm": "2026-09-19T12:01:11.800Z"
+      "atualizadoEm": "2026-09-19T18:51:20.798Z"
     }
   }
 }
