@@ -284,7 +284,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Andamento",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -295,7 +295,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Andamento",
+      "status": "Concluída",
       "obs": "",
       "lote": "7369_pdf"
     },
@@ -553,7 +553,7 @@
       "lote": "7369_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-19T00:52:04.823Z",
+  "atualizadoEm": "2026-09-21T00:26:31.424Z",
   "lotesTempo": {
     "4504_pdf": {
       "tempoSegundos": 2407,
@@ -566,8 +566,8 @@
       "status": "pausado"
     },
     "7369_pdf": {
-      "tempoSegundos": 9936,
-      "ultimaAtualizacao": "2026-09-19T00:52:04.228Z",
+      "tempoSegundos": 10808,
+      "ultimaAtualizacao": "2026-09-21T00:26:30.986Z",
       "status": "pausado"
     },
     "39_pdf": {
@@ -592,7 +592,7 @@
     },
     "7369_pdf": {
       "status": "Em Estudo",
-      "atualizadoEm": "2026-09-19T00:52:04.228Z"
+      "atualizadoEm": "2026-09-21T00:26:30.986Z"
     }
   }
 }
