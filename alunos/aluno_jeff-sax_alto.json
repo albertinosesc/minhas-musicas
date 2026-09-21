@@ -42,7 +42,7 @@
       "F#5"
     ]
   },
-  "atualizadoEm": "2026-09-20T23:18:51.276Z",
+  "atualizadoEm": "2026-09-21T22:32:42.563Z",
   "exercicios": [
     {
       "nome": "Eu sei tocar",
@@ -239,7 +239,7 @@
         },
         {
           "tom": "D3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
           "tom": "E3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
@@ -269,67 +269,67 @@
         },
         {
           "tom": "G#3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "A3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "A#3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "B3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "C4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "C#4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "D4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "D#4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "E4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F#4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "G4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "G#4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
