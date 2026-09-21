@@ -1058,6 +1058,370 @@
       "totalMusicas": 32,
       "tempoCronometro": 9309,
       "tempoFormatado": "02:35:09"
+    },
+    {
+      "id": "7369_pdf",
+      "nome": "7369_pdf",
+      "musicas": [
+        {
+          "nome": "24283 - In the Alps - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24284 - On Yonder Rock Reclining - Daniel François Esprit Auber",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24285 - Hop O' My Thumb - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24286 - Menuet - Johann Sebastian Bach",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24287 - 'Round the Village - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24288 - Country Gardens - Old English Morris Dance",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24289 - Dance of the Hours - Amilcare Ponchielli",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24290 - Christmas Carol - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24291 - Distant Bells - L. Streabbog",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24292 - Etude - J.B. Duvernoy",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24293 - Bill Grogan's Goat - College Song",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24294 - In Church - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24295 - Frolic in Velocity - Carl Czerny",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24296 - Carry Me Back to Old Virginny - James A. Bland",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24297 - Reverie - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24298 - Puck - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24299 - Prélude in A Major - Frédéric Chopin",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24300 - Starlight Waltz - C.S. Brainard",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24301 - A Journey in the Arctic - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24302 - Sky Pilot - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24303 - Hide and Seek - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24304 - The Gypsy Camp - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24305 - Minuet from Don Juan - Wolfgang Amadeus Mozart",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24306 - A Little Polish Dance - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24307 - The Hare and the Hounds - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24308 - Off We Go! - L. Streabbog",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24309 - Dark Eyes - Russian Folk Song",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24310 - Romanze - Ludwig van Beethoven",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24311 - Scherzino - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24312 - Theme from Liebesträume No. 3 - Franz Liszt",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24313 - A Little Slavonic Rhapsody - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24314 - Hallelujah Chorus from Messiah - George Frideric Handel",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24315 - Skipping Through the Forest - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24316 - Etude - H. Berens",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24317 - Etude - Carl Czerny",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24318 - Hinkey, Dinkey, Parley Voo - World War Song",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24319 - Deep River - Plantation Hymn",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24320 - Moths - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24321 - Grandpapa Jonathan - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24322 - Habanera from Carmen - Georges Bizet",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24323 - Bee and the Clover - Adam Geibel",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24324 - A Trial Flight - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24325 - Nightingale and the Cuckoo - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24326 - Two Guitars - Gypsy Song",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24327 - Song of the Birds - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24328 - Barcarolle from The Tales of Hoffmann - Jacques Offenbach",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24329 - Theme from Gypsy Rondo - Joseph Haydn",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24330 - March of the Gnomes - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24331 - Will o' the Wisp - Albert Jungmann",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        },
+        {
+          "nome": "24332 - Jocularity - John Thompson",
+          "status": "Concluída",
+          "obs": "",
+          "pdfUrl": "",
+          "abcFile": ""
+        }
+      ],
+      "alunoId": "jeff_piano_2026",
+      "alunoNome": "jeff-piano",
+      "dataInicio": "2026-09-21T00:26:30.986Z",
+      "dataConclusao": "2026-09-21T23:37:16.702Z",
+      "dataArquivamento": "2026-09-21T23:37:16.702Z",
+      "totalMusicas": 50,
+      "tempoCronometro": 10808,
+      "tempoFormatado": "03:00:08"
     }
   ],
   "lotes": {
@@ -1084,7 +1448,13 @@
       "dataArquivamento": "2026-09-19T00:39:42.660Z",
       "totalMusicas": 32,
       "tempoCronometro": 9309
+    },
+    "7369_pdf": {
+      "dataInicio": "2026-09-21T00:26:30.986Z",
+      "dataArquivamento": "2026-09-21T23:37:16.702Z",
+      "totalMusicas": 50,
+      "tempoCronometro": 10808
     }
   },
-  "atualizadoEm": "2026-09-19T00:39:42.660Z"
+  "atualizadoEm": "2026-09-21T23:37:16.702Z"
 }
