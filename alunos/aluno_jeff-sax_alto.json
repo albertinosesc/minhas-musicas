@@ -42,7 +42,7 @@
       "F#5"
     ]
   },
-  "atualizadoEm": "2026-09-21T22:38:11.588Z",
+  "atualizadoEm": "2026-09-22T23:36:42.465Z",
   "exercicios": [
     {
       "nome": "Eu sei tocar",
@@ -361,6 +361,176 @@
           "tom": "D5",
           "concluido": false,
           "nulo": false
+        },
+        {
+          "tom": "D#5",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "E5",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "F5",
+          "concluido": false,
+          "nulo": true
+        },
+        {
+          "tom": "F#5",
+          "concluido": false,
+          "nulo": true
+        }
+      ]
+    },
+    {
+      "nome": "borboletinha",
+      "tons": [
+        {
+          "tom": "A#2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "B2",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C#3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "D3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "D#3",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "E3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "F#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "G#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "A#3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "B3",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "C#4",
+          "concluido": true,
+          "nulo": false
+        },
+        {
+          "tom": "D4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "D#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "E4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "F4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "F#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "G#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "A#4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "B4",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C5",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "C#5",
+          "concluido": false,
+          "nulo": false
+        },
+        {
+          "tom": "D5",
+          "concluido": false,
+          "nulo": true
         },
         {
           "tom": "D#5",
