@@ -42,7 +42,7 @@
       "F#5"
     ]
   },
-  "atualizadoEm": "2026-09-22T23:36:42.465Z",
+  "atualizadoEm": "2026-09-27T22:24:50.593Z",
   "exercicios": [
     {
       "nome": "Eu sei tocar",
@@ -409,12 +409,12 @@
         },
         {
           "tom": "D3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "D#3",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
@@ -469,32 +469,32 @@
         },
         {
           "tom": "D4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "D#4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "E4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "F#4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
           "tom": "G4",
-          "concluido": false,
+          "concluido": true,
           "nulo": false
         },
         {
