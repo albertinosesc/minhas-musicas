@@ -1428,7 +1428,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "1447_pdf"
     },
@@ -1439,7 +1439,7 @@
       "composer": "",
       "pdfUrl": "",
       "abcFile": "",
-      "status": "Em Estudo",
+      "status": "Concluída",
       "obs": "",
       "lote": "1447_pdf"
     },
@@ -2720,7 +2720,7 @@
       "lote": "1480_pdf"
     }
   ],
-  "atualizadoEm": "2026-09-27T20:38:15.722Z",
+  "atualizadoEm": "2026-09-27T20:51:04.291Z",
   "lotesTempo": {
     "2980_pdf": {
       "tempoSegundos": 23,
@@ -2729,7 +2729,7 @@
     },
     "1447_pdf": {
       "tempoSegundos": 140,
-      "ultimaAtualizacao": "2026-09-27T20:38:15.237Z",
+      "ultimaAtualizacao": "2026-09-27T20:51:03.781Z",
       "status": "pausado"
     },
     "4885_pdf": {
@@ -2751,7 +2751,7 @@
   "lotesStatus": {
     "1447_pdf": {
       "status": "Em Estudo",
-      "atualizadoEm": "2026-09-27T20:38:15.237Z"
+      "atualizadoEm": "2026-09-27T20:51:03.781Z"
     },
     "4885_pdf": {
       "status": "Em Andamento",
