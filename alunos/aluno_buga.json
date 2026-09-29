@@ -1,58 +1,90 @@
 {
   "alunoId": "buga",
   "aluno": "buga",
-  "atualizadoEm": "2026-08-03T23:12:35.621Z",
+  "instrumento": {
+    "key": "custom_teclado_buga",
+    "nome": "Teclado_buga",
+    "start": "C3",
+    "end": "B3",
+    "colunasNotas": [
+      "C3",
+      "C#3",
+      "D3",
+      "D#3",
+      "E3",
+      "F3",
+      "F#3",
+      "G3",
+      "G#3",
+      "A3",
+      "A#3",
+      "B3"
+    ]
+  },
+  "atualizadoEm": "2026-09-29T22:18:57.497Z",
   "exercicios": [
     {
       "nome": "Ovelha de Maria",
       "tons": [
         {
-          "tom": "C",
-          "concluido": true
+          "tom": "C3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "C#",
-          "concluido": true
+          "tom": "C#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "D",
-          "concluido": true
+          "tom": "D3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "D#",
-          "concluido": true
+          "tom": "D#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "E",
-          "concluido": true
+          "tom": "E3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "F",
-          "concluido": true
+          "tom": "F3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "F#",
-          "concluido": true
+          "tom": "F#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "G",
-          "concluido": true
+          "tom": "G3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "G#",
-          "concluido": true
+          "tom": "G#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "A",
-          "concluido": true
+          "tom": "A3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "A#",
-          "concluido": false
+          "tom": "A#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "B",
-          "concluido": true
+          "tom": "B3",
+          "concluido": false,
+          "nulo": false
         }
       ]
     },
@@ -60,52 +92,64 @@
       "nome": "Hino a Alegria",
       "tons": [
         {
-          "tom": "C",
-          "concluido": true
+          "tom": "C3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "C#",
-          "concluido": false
+          "tom": "C#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "D",
-          "concluido": true
+          "tom": "D3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "D#",
-          "concluido": false
+          "tom": "D#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "E",
-          "concluido": true
+          "tom": "E3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "F",
-          "concluido": false
+          "tom": "F3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "F#",
-          "concluido": false
+          "tom": "F#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "G",
-          "concluido": true
+          "tom": "G3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "G#",
-          "concluido": false
+          "tom": "G#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "A",
-          "concluido": true
+          "tom": "A3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "A#",
-          "concluido": false
+          "tom": "A#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "B",
-          "concluido": false
+          "tom": "B3",
+          "concluido": false,
+          "nulo": false
         }
       ]
     },
@@ -113,52 +157,64 @@
       "nome": "May song",
       "tons": [
         {
-          "tom": "C",
-          "concluido": true
+          "tom": "C3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "C#",
-          "concluido": false
+          "tom": "C#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "D",
-          "concluido": true
+          "tom": "D3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "D#",
-          "concluido": false
+          "tom": "D#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "E",
-          "concluido": false
+          "tom": "E3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "F",
-          "concluido": false
+          "tom": "F3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "F#",
-          "concluido": false
+          "tom": "F#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "G",
-          "concluido": true
+          "tom": "G3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "G#",
-          "concluido": false
+          "tom": "G#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "A",
-          "concluido": false
+          "tom": "A3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "A#",
-          "concluido": false
+          "tom": "A#3",
+          "concluido": false,
+          "nulo": false
         },
         {
-          "tom": "B",
-          "concluido": false
+          "tom": "B3",
+          "concluido": false,
+          "nulo": false
         }
       ]
     },
@@ -166,52 +222,64 @@
       "nome": "Ao luar",
       "tons": [
         {
-          "tom": "C",
-          "concluido": true
+          "tom": "C3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "C#",
-          "concluido": false
+          "tom": "C#3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "D",
-          "concluido": false
+          "tom": "D3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "D#",
-          "concluido": false
+          "tom": "D#3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "E",
-          "concluido": false
+          "tom": "E3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "F",
-          "concluido": false
+          "tom": "F3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "F#",
-          "concluido": false
+          "tom": "F#3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "G",
-          "concluido": true
+          "tom": "G3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "G#",
-          "concluido": false
+          "tom": "G#3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "A",
-          "concluido": false
+          "tom": "A3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "A#",
-          "concluido": false
+          "tom": "A#3",
+          "concluido": true,
+          "nulo": false
         },
         {
-          "tom": "B",
-          "concluido": false
+          "tom": "B3",
+          "concluido": true,
+          "nulo": false
         }
       ]
     }
